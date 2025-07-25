@@ -1,0 +1,12 @@
+name: Auto-build HTML files
+
+on:
+  push:
+    branches:
+      - working
+  schedule:
+    - cron: '0 8 * * *'  # Runs at 8:00 AM UTC every day
+
+jobs:
+  call-build-site:
+    uses: ryanvilbrandt/comic_git_engine/.github/workflows/build_site.yaml@master
