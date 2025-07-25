@@ -49,7 +49,7 @@ a.link-bar-link:hover {
 
 /* Comic navigation buttons */
 a.navigation-button {
-    color: #2E9BC7;  /* Color of the navigation bar hyperlinks */
+    color: #FF4400;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
@@ -62,12 +62,12 @@ a.navigation-button-disabled {
 
 /* Buttons: turn any link into a button by adding class="button" within the a tag */
 .button {
-    background-color: #2E9BC7;  /* Color of button hyperlinks */
+    background-color: #FF4400;  /* Color of button hyperlinks */
     color: white;  /* Color of the words in button hyperlinks */
 }
 
 .button:hover {
-    background-color: #62C5E8;  /* Color of button hyperlinks when the mouse hovers over it */
+    background-color: #FFEEAA;  /* Color of button hyperlinks when the mouse hovers over it */
     color: white;    /* Color of the words in button hyperlinks when the mouse hovers over it */
 }
 
