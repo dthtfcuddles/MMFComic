@@ -8,4 +8,6 @@ Add everything between the <style> tags below. */
 /* Finally, in your stylesheet.css, you can refer to fonts by the names listed below. For example, you'd use
 font-family: 'Roboto Slab', serif to use the example font included below! */
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk');
+
+/* @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&display=swap'); */
