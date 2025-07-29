@@ -14,8 +14,14 @@ body {
     color: white;  /* The color of the font of most of the text on your website */
     background-color: black;  /* The color of the background behind everything */
 /*    background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
-                                                       or replace with your own image to tile across your background. */
+}                                                       or replace with your own image to tile across your background. */
+
+b, strong {
+    color: #ff4400;
+    font-weight: 800;
 }
+
+
 
 h1, h2, h3 {
     font-family: 'Space Grotesk';
