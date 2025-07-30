@@ -17,8 +17,8 @@ body {
 }                                                       or replace with your own image to tile across your background. */
 
 b, strong {
-    font-weight: 900;
-    transform: scale(1.05, 1);
+    font-family: 'PT Sans','Space Grotesk', sans-serif;
+    font-weight: 700;
 }
 
 
