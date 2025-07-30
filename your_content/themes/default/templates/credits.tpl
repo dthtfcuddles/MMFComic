@@ -95,7 +95,7 @@
 <p class="infobox"></p>
 
     <div id="powered-by">
-        Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
+        Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a>, {{ version }}
     </div>
 </div>
 
