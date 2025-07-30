@@ -19,6 +19,7 @@ body {
 b, strong {
     font-family: 'PT Sans', sans-serif !important;
     font-weight: 700;
+    /* transform: scale(1.05, 1);  Code suggested by friend */
 }
 
 
