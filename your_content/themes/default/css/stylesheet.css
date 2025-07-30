@@ -18,7 +18,7 @@ body {
 
 b, strong {
     font-weight: 900;
-    transform: scale(1.05, 1);
+    /* transform: scale(1.05, 1); */
 }
 
 
