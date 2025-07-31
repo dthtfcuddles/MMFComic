@@ -58,9 +58,9 @@
         <a class="link-bar-link" href="/MMFComic/credits">Credits</a>
 
     </div>
-<p align="left">
+<div align="left">
 <p>One &ldquo;problem&rdquo; that I see with a lot of long-form webcomics is that sometimes they&rsquo;re unfriendly for people who come to read when the comic has been going for a long time. Having to read (literal) hundreds of pages to catch up just to make sense of what&rsquo;s going on is sometimes can feel like a chore, over all when the comic has fillers and lots of arcs going on, or if the reader&rsquo;s internet is not good. I&rsquo;ve been there.</p>
-<p>The idea behind this page is narrating what happened in each chapter, so any reader new to the comic can have an idea of what&rsquo;s going on in current chapters without needing to go all the way back. For that same reason, <strong>this page will have spoilers for each chapter.</strong> Don&rsquo;t go forward if you intend to read the past pages yourself! Use the &ldquo;<a href="https://moumantaimf.tumblr.com/chapters">Chapter list</a>&rdquo; link instead! Then you can go back and read the pages yourself at your own pace when you can/feel like it.</p>
+<p>The idea behind this page is narrating what happened in each chapter, so any reader new to the comic can have an idea of what&rsquo;s going on in current chapters without needing to go all the way back. For that same reason, <strong>this page will have spoilers for each chapter.</strong> Don&rsquo;t go forward if you intend to read the past pages yourself! Use the &ldquo;<a href="/MMFComic/chapters/">Chapter list</a>&rdquo; link instead! Then you can go back and read the pages yourself at your own pace when you can/feel like it.</p>
 <p><h2>Chapter 1: The Gig</h2></p>
 <p><img align="left" src="/MMFComic/your_content/comics/01-00/00.png" width="30%" style="padding-right: 20px; margin-top: 0px; margin-bottom: 0px;" /></p>
 <p>This chapter acts as an introduction to the comic itself. It starts with an alien rock band (whose name is &ldquo;Moumantai Motherf★ckers&rdquo;) playing at some space station, then introduces the characters one by one; First D the deer, the bassist of the band, whose personality is a bit distant because they don&rsquo;t like people, then Sher, the vampire bunny who is good natured but a bit shy and suffering from some stage fright, then Rowi the Avali, who acts like the brain and the pilot of the group.</p>
@@ -153,7 +153,7 @@
 
 
 <br /><br /></p>
-</p>
+</div>
 
    <div id="powered-by">
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
