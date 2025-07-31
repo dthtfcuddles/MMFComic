@@ -28,7 +28,7 @@
     <meta property="og:image:width" content="100px" />
     <meta property="og:image:height" content="100px" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cast - Moumantai Motherfuckers</title>
+    <title>Recap - Moumantai Motherfuckers</title>
 </head>
 <body>
 
