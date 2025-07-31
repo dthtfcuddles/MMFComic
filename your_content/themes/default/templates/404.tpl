@@ -8,5 +8,7 @@
     Unfortunately the page you were looking for was not found.<br/>
     But you did find... uh... an album cover. Yeah that.<br/>
     <br/>
+    <p class="infobox">
     <SCRIPT TYPE="text/javascript" SRC="/MMFComic/your_content/themes/default/javascript/randomart.js"></SCRIPT>
+    </p>
 {% endblock %}
