@@ -8,26 +8,5 @@
     Unfortunately the page you were looking for was not found.<br/>
     But you did find... uh... an album cover. Yeah that.<br/>
     <br/>
-    <img src="" id="album_art">
-    <script>
-    var array_of_images = [
-"/MMFComic/your_content/images/albumart/2011Foreigners.jpg",
-"/MMFComic/your_content/images/albumart/2013Extensions.jpg",
-"/MMFComic/your_content/images/albumart/2017Coordinates.jpg",
-"/MMFComic/your_content/images/albumart/2019RoadsofVoid.jpg",
-"/MMFComic/your_content/images/albumart/2021CentiloquiumCoven.jpg",
-"/MMFComic/your_content/images/albumart/2022Fiends4LifeEP.jpg",
-"/MMFComic/your_content/images/albumart/2022Graveyard.jpg",
-"/MMFComic/your_content/images/albumart/2022LiveattheUltraMusicFestival.jpg",
-"/MMFComic/your_content/images/albumart/2023LiveattheVolicrowSquare.jpg",
-"/MMFComic/your_content/images/albumart/2023Weresurprisedwedidntdothisbefore.jpg",
-"/MMFComic/your_content/images/albumart/2024Itgoeson.jpg",
-"/MMFComic/your_content/images/albumart/2026FeelthePower.jpg",
-"/MMFComic/your_content/images/albumart/202316LoveSongs.jpg"
-];
-
-    var randomNum = Math.floor(Math.random() * array_of_images.length);
-    document.getElementById('album_art').src = array_of_images[randomNum];"
-</script>
-    <br/>
+    <SCRIPT TYPE="text/javascript" SRC="/MMFComic/your_content/themes/default/javascript/randomart.js"></SCRIPT>
 {% endblock %}
