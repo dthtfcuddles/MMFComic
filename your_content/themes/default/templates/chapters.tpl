@@ -65,7 +65,9 @@
 <tbody>
 <tr style="height: 150px;">
 <td style="text-align: center; padding-top: 10px;"><a href="/MMFComic/comic/01-00/"><img alt="Chapter 1 Cover Page" height="90%" src="/MMFComic/your_content/comics/01-00/00.png" width="90%" /><br />1. The Gig</a></td>
-<td style="text-align: left; padding-left: 10px;">
+<td style="text-align: left; padding-left: 10px;">The gig
+=====
+<h2>1. The gig</h2>
 <p>The band gets a request to play at a hidden location.</p>
 <p><strong>Released:</strong> September 22th, 2022</p>
 </td>
