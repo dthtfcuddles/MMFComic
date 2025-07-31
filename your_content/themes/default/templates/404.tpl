@@ -25,9 +25,9 @@
 "/MMFComic/your_content/images/albumart/2026FeelthePower.jpg",
 "/MMFComic/your_content/images/albumart/202316LoveSongs.jpg"
 ];
+
     var randomNum = Math.floor(Math.random() * array_of_images.length);
     document.getElementById('album_art').src = array_of_images[randomNum];"
-    }
-    </script>
+</script>
     <br/>
 {% endblock %}
