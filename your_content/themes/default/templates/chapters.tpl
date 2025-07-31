@@ -21,7 +21,7 @@
     <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/stylesheet.css">
     <link rel="icon" href="/MMFComic/favicon.ico" type="image/x-icon" />
     <meta property="og:title" content="Moumantai Motherfuckers" />
-    <meta property="og:description" content="List of characters from the comic Moumantai Motherfuckers." />
+    <meta property="og:description" content="List of chapters of the MMF comic, a small summary and their cover page." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://dthtfcuddles.github.io/MMFComic/" />
     <meta property="og:image" content="https://dthtfcuddles.github.io/MMFComic/your_content/images/preview_image.png" />
@@ -41,19 +41,22 @@
     </div>
     <div id="links-bar">
 
-        <a class="link-bar-link" href="/MMFComic/">Home</a>
+    <a class="link-bar-link" href="/MMFComic/">Home</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/archive/">Archive</a>
+        <a class="link-bar-link" href="/MMFComic/chapters/">Chapters</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/infinite_scroll/">Infinite Scroll</a>
+        <a class="link-bar-link" href="/MMFComic/recap/">Recap</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/MMFComic/cast/">Cast</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="https://moumantaimf.tumblr.com">Tumblr</a>
+        <a class="link-bar-link" href="/MMFComic/infinite_scroll/">Infinite Scroll</a>
+        <span class="link-bar-separator">|</span>
+        <a class="link-bar-link" href="/MMFComic/archive/">Archive</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="https://www.patreon.com/MMFComic/posts">Patreon</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/MMFComic/credits">Credits</a>
+
 
     </div>
 

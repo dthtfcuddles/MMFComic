@@ -43,17 +43,20 @@
 
         <a class="link-bar-link" href="/MMFComic/">Home</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/archive/">Archive</a>
+        <a class="link-bar-link" href="/MMFComic/chapters/">Chapters</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/infinite_scroll/">Infinite Scroll</a>
+        <a class="link-bar-link" href="/MMFComic/recap/">Recap</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/MMFComic/cast/">Cast</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="https://moumantaimf.tumblr.com">Tumblr</a>
+        <a class="link-bar-link" href="/MMFComic/infinite_scroll/">Infinite Scroll</a>
+        <span class="link-bar-separator">|</span>
+        <a class="link-bar-link" href="/MMFComic/archive/">Archive</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="https://www.patreon.com/MMFComic/posts">Patreon</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/MMFComic/credits">Credits</a>
+
 
     </div>
 
