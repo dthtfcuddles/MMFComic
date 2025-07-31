@@ -58,7 +58,7 @@
     </div>
 
 
-<table style="width: 110%;">
+<table style="width: 95%;">
 <thead>
 <tr style="background-color: #ff0044; color: white;"><th>Chapter</th><th style="width: 75%;">Description</th></tr>
 </thead>
