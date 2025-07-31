@@ -28,7 +28,7 @@
     <meta property="og:image:width" content="100px" />
     <meta property="og:image:height" content="100px" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cast - Moumantai Motherfuckers</title>
+    <title>Chapters - Moumantai Motherfuckers</title>
 </head>
 <body>
 
@@ -64,16 +64,16 @@
 </thead>
 <tbody>
 <tr style="height: 150px;">
-<td style="text-align: center; padding-top: 10px;"><a href="MMFComic/comic/01-00/"><img alt="Chapter 1 Cover Page" height="90%" src="/MMFComic/your_content/comics/01-00/00.png" width="90%" /><br />1. The Gig</a></td>
-<td style="text-align: right; padding-right: 10px;">
+<td style="text-align: center; padding-top: 10px;"><a href="/MMFComic/comic/01-00/"><img alt="Chapter 1 Cover Page" height="90%" src="/MMFComic/your_content/comics/01-00/00.png" width="90%" /><br />1. The Gig</a></td>
+<td style="text-align: left; padding-left: 10px;">
 <p>The band gets a request to play at a hidden location.</p>
-<p><strong>Released:</strong> September 26th, 2022</p>
+<p><strong>Released:</strong> September 22th, 2022</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="https://moumantaimf.tumblr.com/post/699332482488778752/beginning-of-chapter-2"><img alt="Chapter 2 Cover Page" height="90%" src="https://64.media.tumblr.com/7b586d93191a7f4c175066b5f871f434/tumblr_inline_ryr166lqJ41trz0aj_500.png" width="90%" /><br />2. Family values</a></td>
-<td style="text-align: right; padding-right: 10px;">
-<p>The band meets Sher&rsquo;s family and performs a small concert in his planet.</p>
+<td style="text-align: center;"><a href="/MMFComic/comic/02-00/"><img alt="Chapter 2 Cover Page" height="90%" src="/MMFComic/your_content/comics/02-00/00.png" width="90%" /><br />2. Family values</a></td>
+<td style="text-align: left; padding-left: 10px;">
+<p>The band travels to Sher&rsquo;s home planet, meets his family and then performs a small concert in there.</p>
 <p><strong>Released:</strong> October 21st, 2022</p>
 </td>
 </tr>
