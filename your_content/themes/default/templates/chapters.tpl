@@ -99,7 +99,7 @@
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/MMFComic/comic/06-00/"><img alt="Chapter 6 Cover Page" height="90%" src="/MMFComic/your_content/comics/06-00/0.png" width="90%" /><br />6. Even flow</a></td>
+<td style="text-align: center;"><a href="/MMFComic/comic/06-00/"><img alt="Chapter 6 Cover Page" height="90%" src="/MMFComic/your_content/comics/06-00/00.png" width="90%" /><br />6. Even flow</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Even flow</h2>
 <p>The band travels to the Warfaisser Space Station in preparation for the biggest performance of their careers.</p>
 <p><strong>Released:</strong> June 2nd, 2023</p>
