@@ -58,13 +58,13 @@
     </div>
 
 
-<table style="width: 95%;">
+<table style="width: 100%;">
 <thead>
-<tr style="background-color: #ff0044; color: white;"><th>Chapter</th><th style="width: 75%;">Description</th></tr>
+<tr style="background-color: #ff4400; color: white;"><th>Chapter</th><th style="width: 75%;">Description</th></tr>
 </thead>
 <tbody>
-<tr style="height: 150px; background-color: #f6f6f6;">
-<td style="text-align: center; padding-top: 10px;"><a href="https://moumantaimf.tumblr.com/post/699329850310344704/it-begins-panel-1-shows-a-space"><img alt="Chapter 1 Cover Page" height="90%" src="https://64.media.tumblr.com/73ebac267875b410f9c53477bd903c22/tumblr_inline_ryr15z3IW11trz0aj_500.png" width="90%" /><br />1. The Gig</a></td>
+<tr style="height: 150px;">
+<td style="text-align: center; padding-top: 10px;"><a href="MMFComic/comic/01-00/"><img alt="Chapter 1 Cover Page" height="90%" src="/MMFComic/your_content/comics/01-00/00.png" width="90%" /><br />1. The Gig</a></td>
 <td style="text-align: right; padding-right: 10px;">
 <p>The band gets a request to play at a hidden location.</p>
 <p><strong>Released:</strong> September 26th, 2022</p>
@@ -77,7 +77,7 @@
 <p><strong>Released:</strong> October 21st, 2022</p>
 </td>
 </tr>
-<tr style="height: 150px; background-color: #f6f6f6;">
+<tr style="height: 150px;">
 <td style="text-align: center;"><a href="https://moumantaimf.tumblr.com/post/703372263063535616"><img alt="Chapter 3 Cover Page" height="90%" src="https://64.media.tumblr.com/5aecfab9a17ec8b3d29fa8b8d60a2e04/tumblr_inline_ryr16e5NA01trz0aj_500.png" width="90%" /><br />3. The request</a></td>
 <td style="text-align: right; padding-right: 10px;">
 <p>After leaving Earth the group is harassed by a pirate spaceship.</p>
@@ -91,7 +91,7 @@
 <p><strong>Released</strong>: February 15th, 2023</p>
 </td>
 </tr>
-<tr style="height: 150px; background-color: #f6f6f6;">
+<tr style="height: 150px;">
 <td style="text-align: center;"><a href="https://moumantaimf.tumblr.com/post/715244744293449728/slightly-earlier-but-hey-im-sure-somewhere-in-the"><img alt="Chapter 5 Cover Page" height="90%" src="https://64.media.tumblr.com/c3774fc3513742b8e3eea1e7392a2b65/tumblr_inline_ryr16yeoGa1trz0aj_500.png" width="90%" /><br />5. Nemesis</a></td>
 <td style="text-align: right; padding-right: 10px;">
 <p>The band learns how incredibly cruel Horkers can be. Then they go visiting an old friend.</p>
@@ -105,7 +105,7 @@
 <p><strong>Released:</strong> June 2nd, 2023</p>
 </td>
 </tr>
-<tr style="height: 150px; background-color: #f6f6f6;">
+<tr style="height: 150px;">
 <td style="text-align: center;"><a href="https://moumantaimf.tumblr.com/post/724516283192934400/and-chapter-7-begins-panel-1"><img alt="Chapter 7 Cover Page" height="90%" src="https://64.media.tumblr.com/69113da285b3d44d396e6b2dfb0df86f/tumblr_inline_ryr17hC88j1trz0aj_500.png" width="90%" /><br />7. Got the life</a></td>
 <td style="text-align: right; padding-right: 10px;">
 <p>The band performs at the Ultra Music Festival.</p>
@@ -119,7 +119,7 @@
 <p><strong>Released:</strong> November 19th, 2023</p>
 </td>
 </tr>
-<tr style="height: 150px; background-color: #f6f6f6;">
+<tr style="height: 150px;">
 <td style="text-align: center;"><a href="https://mmfcomic.com/post/745384631935860736/and-it-goes-on"><img height="90%" src="https://64.media.tumblr.com/b0f3bd6dfb6cb0a9e9c2e4fd870b5f15/f69259216b7aa2f0-b6/s1280x1920/56777bc2011dec0e827f2ca484e8432d301265c3.png" /> 9. Chronicles of a New World</a></td>
 <td style="text-align: right; padding-right: 10px;">
 <p>The band is visiting Valpara&iacute;so, while Sher continues remembering his first experiences on Earth.</p>
@@ -133,7 +133,7 @@
 <p><strong>Released:</strong> July 27th, 2024</p>
 </td>
 </tr>
-<tr style="height: 150px; background-color: #f6f6f6;">
+<tr style="height: 150px;">
 <td style="text-align: center;"><a href="https://mmfcomic.com/post/766902313723068416/"><img height="90%" src="https://64.media.tumblr.com/51c69b2b2aa138e4838769f53223df1c/c51ef5385ad66b6b-db/s1280x1920/7b4fd6223a6fd7b7b764333e312d301e7a196a5b.png" /> 11. Roots</a></td>
 <td style="text-align: right; padding-right: 10px;">
 <p>The band is at the mercy of a gang of pirates.</p>
@@ -147,7 +147,7 @@
 <p><strong>Released:</strong> February 12th, 2025</p>
 </td>
 </tr>
-<tr style="height: 150px; background-color: #f6f6f6;">
+<tr style="height: 150px;">
 <td style="text-align: center;"><a href="https://mmfcomic.com/post/780520035085074432/and-it-begins"><img height="90%" src="https://64.media.tumblr.com/ab27e4b63b4fc3a7bca7398bbe96605d/1a8aa8125cce57b2-6f/s1280x1920/350c90835dd0517c7efaa723525144fa2f34f881.png" /> 13. In winter</a></td>
 <td style="text-align: right; padding-right: 10px;">
 <p>The Vampire Bunnies, led by Sher, face the Horker King and stop the invasion, with help from the Avali.</p>
