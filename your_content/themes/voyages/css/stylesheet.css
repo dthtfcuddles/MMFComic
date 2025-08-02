@@ -148,8 +148,8 @@ h1#post-title {
 }
 
 #comic-page{
-    border:3px solid black;
+    border:none;
     padding:0px;
     margin:0px;
-    background:white;
+    background:none;
 }

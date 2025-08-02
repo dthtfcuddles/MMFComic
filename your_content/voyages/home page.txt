@@ -13,44 +13,8 @@
     <div class="left-column">
         <i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the <i>Trail</i> Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.<br/><br/>
 
-        <a class="button" href="latest/#comic-page">Newest chapter</a>
+        <a class="button" href="/voyages/archive/">Chapter index</a>
 
-      <h2>Arc 1: Babupekkakerok</h2>
-      The Trail Pack are tasked with going to the bunny planet and learn about them.... They end doing a bit more than that.<br/><br/>
-        <div class="divTable" style="width: 100%;">
-<div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableCell">
-
-<div class="divTableCell">1. <a href="comic/S101">The Odyssey</a><br/>
-2. <a href="comic/S102">Warfaisser Station</a><br/>
-3. <a href="comic/S103">Live at the UMF</a><br/>
-4. Ki<br/>
-5. Salib-76T<br/>
-6. Babupekkakerok<br/>
-7. Death Planet<br/>
-8. COLOURS<br/>
-9. Being a bunny<br/>
-10. The Illuminate<br/>
-</div>
-<div class="divTableCell">11. Screaming Snow<br/>
-12. On Wings of Fire<br/>
-13. Reflections<br/>
-14. Unexpected Friends<br/>
-15. Bunny Life<br/>
-16. Extremely Not Friends<br/>
-17. Disharmony<br/>
-18. Movie Night<br/>
-19. Renaissance<br/>
-20. Sweet Victory</p>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <!-- If you want to set some information apart, you can set the class as "infobox"! That will put your content in a different block of color, which can be defined in stylesheet.css. -->
