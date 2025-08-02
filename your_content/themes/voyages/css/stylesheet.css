@@ -171,3 +171,10 @@ h1#post-title {
     margin:0px;
     background:none;
 }
+
+.rainbow-text {
+    font-family: 'Space Grotesk','PT Sans', sans-serif;
+}
+.rainbow-text .block-line > span {
+    display: inline-block;
+}
