@@ -44,7 +44,10 @@ p.songlyrics {
     border-left-style: solid;
     border-left-width: 3px;
     border-left-color: #ffffff;
-    padding-left:5px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:10px;
 }
 
 #container {
