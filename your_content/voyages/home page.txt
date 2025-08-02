@@ -7,7 +7,7 @@
 
 <!-- Next, we separate what we want into the left and right columns. -->
     <div class="right-column">
-        <img src="/MMFComic/your_content/voyages/images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!">
+        <div align="left"><img src="/MMFComic/your_content/voyages/images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!"></div>
     </div>
 
     <div class="left-column">
@@ -48,13 +48,12 @@
 </div>
 </div>
 
-
-    </div>
+</div>
+</div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <!-- If you want to set some information apart, you can set the class as "infobox"! That will put your content in a different block of color, which can be defined in stylesheet.css. -->
-<p class="infobox"><b>This comic is for ages 15 and up</b> due to: Coarse language, mild violence, dark themes.</p>
 <p><h2>Voyages of the Odyssey Credits</h2><br /><b>Creator:</b> Russet<br /><b>Writer:</b> Russet<br/><b>Check</b>: htfcuddles</p>
 
 

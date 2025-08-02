@@ -1,0 +1,155 @@
+/*
+Change these options to customize the color scheme and a few layout options of your website.
+Most layout options are provided by the comic_git_engine in css/advanced_stylesheet.css.
+I do not recommend messing with those settings unless you know what you're doing, or you're
+willing to spend a lot of time on trial and error.
+
+For any colors, you can represent them in hexadecimal like this (#FF0000 = red)
+or use this list of available color names: https://www.w3schools.com/cssref/css_colors.asp
+ */
+
+/* Global values */
+body {
+    font-family: 'Space Grotesk','PT Sans', sans-serif;  /* The font of all the text on all pages */
+    color: white;  /* The color of the font of most of the text on your website */
+    background-color: black;  /* The color of the background behind everything */
+/*    background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
+}                                                       or replace with your own image to tile across your background. */
+
+b, strong {
+    font-family: 'PT Sans', sans-serif !important;
+    font-weight: 700;
+    /* transform: scale(1.05, 1);  Code suggested by friend */
+}
+
+
+
+h1, h2, h3 {
+    font-family: 'Space Grotesk';
+}
+
+a {
+    color: #cc99ff;  /* The color of the hyperlinks */
+}
+
+#container {
+    max-width: 1000px;  /* The width of the main box that contains all content on the pages */
+    background-color: #eeeeee;  /* The background color of the main box */
+    color: #000000; /* Color of the text inside of the container */
+    box-shadow: 5px 5px 10px #000000; /* This is the drop shadow of the main box. If you change the background color
+                                            of your website, play with this or else it will look bad. */
+}
+
+p.infobox {
+    max-width: 1000px;  /* The width of the main box that contains all content on the pages */
+    background-color: #cc99ff;  /* The background color of the main box */
+    color: #ffffff; /* Color of the text inside of the container */
+    border: solid 2px #000000; /* infobox border */
+    box-shadow: 0px 0px 0px #000000; /* This is the drop shadow of the main box. If you change the background color
+                                            of your website, play with this or else it will look bad. */
+    border-radius: 0px;
+}
+
+/* Top navigation links bar */
+#links-bar {
+    background-color: #cc99ff;  /* The background color of your links bar */
+}
+
+a.link-bar-link {
+    color: #eeeeee;  /* The color of the links in your links bar */
+    font-weight: bold;  /* Delete this to unbold the links in your links bar*/
+    text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
+}
+
+a.link-bar-link:hover {
+    color: #eeeeee;  /* The color of the links in your links bar while the cursor is hovering over them */
+    background-color: #000000;
+}
+
+/* Comic navigation buttons */
+a.navigation-button {
+    color: #cc99ff;  /* Color of the navigation bar hyperlinks */
+    font-size: 2em;  /* Size of the navigation bar hyperlinks */
+    text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
+}
+
+a.navigation-button-disabled {
+    color: #e6ccff;  /* Color of the disabled navigation bar hyperlinks */
+    font-size: 2em;  /* Size of the disabled navigation bar hyperlinks */
+    text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
+}
+
+#navigation-bar{
+padding-top:25px;
+padding-bottom:25px;
+
+
+}
+
+/* Buttons: turn any link into a button by adding class="button" within the a tag */
+
+.button {
+    background-color: #cc99ff;  /* Color of button hyperlinks */
+    color: white;  /* Color of the words in button hyperlinks */
+}
+
+.button:hover {
+    background-color: #8080ff;  /* Color of button hyperlinks when the mouse hovers over it */
+    color: white;    /* Color of the words in button hyperlinks when the mouse hovers over it */
+}
+
+/* Comic page-specific styling */
+
+#blurb {
+    background-color: #000000;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    width: 75%;  /* The maximum width of the blurb box. */
+    border-left: solid 5px #cc99ff;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    border-right: 0px #cc99ff;
+    color: #eeeeee;
+    font-size:0.9em;
+}
+
+#transcripts-container {
+    border:none;
+    border-left:solid 10px #eeeeee;
+    background:#cc99ff;
+    color:#eeeeee;
+}
+
+#language-list {
+    border:none;
+    background:#eeeeee;
+    color:black;
+}
+
+#language-select{
+    background:#cc99ff;
+    color:#ffffff;
+    border:none;
+}
+
+#transcript-panel {
+    border:none;
+}
+
+
+h1#post-title {
+    color: #eeeeee;  /* Color of the post title */
+    font-size: 2em;  /* Font size of the post title */
+    font-family: 'Space Grotesk';
+}
+
+#post-date {
+    font-weight: bold;  /* Delete this to unbold the post date */
+}
+
+#storyline, #characters, #tags {
+    font-style: italic;  /* Delete this to unitalicize the tags */
+}
+
+#comic-page{
+    border:3px solid black;
+    padding:0px;
+    margin:0px;
+    background:white;
+}
