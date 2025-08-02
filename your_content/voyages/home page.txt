@@ -7,17 +7,45 @@
 
 <!-- Next, we separate what we want into the left and right columns. -->
     <div class="left-column">
-        <img src="your_content/images/logo.png" alt="Cool!" title="Cool!">
+        <img src="images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!">
     </div>
 
     <div class="right-column">
-        <h1>Moumantai Motherfuckers</h1>
+        <i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the <i>Trail</i> Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.
 
-        <p>What is the meaning of "family" in a place as culturally diverse as... the entire universe? Follow the adventures of MMF, the fuzzy alien rock band in their journey to learn exactly that!</p>
+        <a class="button" href="latest/#comic-page">Newest chapter</a>
 
-        <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
-        <a class="button" href="comic/01-00/#comic-page">First Page</a>
-        <a class="button" href="latest/#comic-page">Latest Page</a>
+      <h2>Arc 1: Babupekkakerok</h2>
+        <div class="divTable" style="width: 100%;">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell"><h3>Arc 1</h3>The Trail Pack are tasked with going to the bunny planet and learn about them.... They end doing a bit more than that.<br/>
+
+<div class="divTableCell">1. <a href="comic/S101">The Odyssey</a><br/>
+2. <a href="comic/S102">Warfaisser Station</a><br/>
+3. <a href="comic/S103">Live at the UMF</a><br/>
+4. Ki<br/>
+5. Salib-76T<br/>
+6. Babupekkakerok<br/>
+7. Death Planet<br/>
+8. COLOURS<br/>
+9. Being a bunny<br/>
+10. The Illuminate<br/>
+</div>
+<div class="divTableCell">11. Screaming Snow<br/>
+12. On Wings of Fire<br/>
+13. Reflections<br/>
+14. Unexpected Friends<br/>
+15. Bunny Life<br/>
+16. Extremely Not Friends<br/>
+17. Disharmony<br/>
+18. Movie Night<br/>
+19. Renaissance<br/>
+20. Sweet Victory</p>
+</div>
+</div>
+</div>
+</div>
 
 
     </div>
