@@ -6,12 +6,12 @@
 <!-- For this page, I've used a layout where the right column is wider than the left. If you want the left column to be wider than the right, change the class to "left-column-layout"! -->
 
 <!-- Next, we separate what we want into the left and right columns. -->
-    <div class="left-column">
-    <img src="/MMFComic/your_content/voyages/images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!">
-    </div>
+<div class="left-column">
+<img src="/MMFComic/your_content/voyages/images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!">
+</div>
 
-    <div class="right-column">
-    <i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the <i>Trail</i> Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.<br/><br/>
+<div class="right-column">
+<i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the Trail Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.<br/><br/>
 
         <a class="button" href="/voyages/archive/">Chapter index</a><br/><br/>
     </div>
