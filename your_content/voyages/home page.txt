@@ -2,7 +2,7 @@
 <!-- There's a little extra HTML I've added here to jazz up the front page, but you don't need it! If you just want basic HTML with p tags and h1 tags and such, that will also work just fine. -->
 
 <!-- The front page uses a responsive 2-column layout. This is done by first defining what content is going to be in the column layout, like so. -->
-<div class="left-column-layout">
+<!-- <div class="left-column-layout"> -->
 <!-- For this page, I've used a layout where the right column is wider than the left. If you want the left column to be wider than the right, change the class to "left-column-layout"! -->
 
 <!-- Next, we separate what we want into the left and right columns. -->
@@ -15,10 +15,11 @@
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <!-- If you want to set some information apart, you can set the class as "infobox"! That will put your content in a different block of color, which can be defined in stylesheet.css. -->
+
     <img src="/MMFComic/your_content/voyages/images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!"><br/><br/>
     <i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the <i>Trail</i> Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.<br/><br/>
 
-        <a class="button" href="/voyages/archive/">Chapter index</a>
+        <a class="button" href="/voyages/archive/">Chapter index</a><br/><br/>
 <p><h2>Voyages of the Odyssey Credits</h2><br /><b>Creator:</b> Russet<br /><b>Writer:</b> Russet<br/><b>Check</b>: htfcuddles</p>
 
 
