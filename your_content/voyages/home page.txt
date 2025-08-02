@@ -6,20 +6,21 @@
 <!-- For this page, I've used a layout where the right column is wider than the left. If you want the left column to be wider than the right, change the class to "left-column-layout"! -->
 
 <!-- Next, we separate what we want into the left and right columns. -->
-    <div class="left-column">
-        <img src="images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!">
+    <div class="right-column">
+        <img src="voyages/images/trailpack.png" alt="The Trail Pack" title="The Trail Pack!">
     </div>
 
-    <div class="right-column">
-        <i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the <i>Trail</i> Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.
+    <div class="left-column">
+        <i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the <i>Trail</i> Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.<br/><br/>
 
         <a class="button" href="latest/#comic-page">Newest chapter</a>
 
       <h2>Arc 1: Babupekkakerok</h2>
+      The Trail Pack are tasked with going to the bunny planet and learn about them.... They end doing a bit more than that.<br/><br/>
         <div class="divTable" style="width: 100%;">
 <div class="divTableBody">
 <div class="divTableRow">
-<div class="divTableCell"><h3>Arc 1</h3>The Trail Pack are tasked with going to the bunny planet and learn about them.... They end doing a bit more than that.<br/>
+<div class="divTableCell">
 
 <div class="divTableCell">1. <a href="comic/S101">The Odyssey</a><br/>
 2. <a href="comic/S102">Warfaisser Station</a><br/>
