@@ -14,10 +14,14 @@
 <i>Voyages of the Odyssey</i> is a story written by <strong>Russet</strong> that follows the Trail Pack and their story; the pack's diplomatic work will influence some of the events happening in the main comic. This written story expands and goes into more depth with some of the lore that hasn't been touched directly in the comic itself but feeds into its events, world and universe.<br/><br/>
 
         <a class="button" href="/voyages/archive/">Chapter index</a><br/><br/>
+
+        <p><h2>Voyages of the Odyssey Credits</h2><br /><b>Creator:</b> Russet<br /><b>Writer:</b> Russet<br/><b>Check</b>: htfcuddles</p>
     </div>
+
+
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <!-- If you want to set some information apart, you can set the class as "infobox"! That will put your content in a different block of color, which can be defined in stylesheet.css. -->
-<p><h2>Voyages of the Odyssey Credits</h2><br /><b>Creator:</b> Russet<br /><b>Writer:</b> Russet<br/><b>Check</b>: htfcuddles</p>
+
 

@@ -251,4 +251,4 @@
 
 <p>Seinu chirped and hurried off, he had a lot to prepare in the next seven hours but they would be leaving soon! It was going to be a fantastic launch and their first journey together on their new home would be a memorable one.</p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="#top">Back to top</a> <a class="button" href="/voyages/archive/">Chapter index</a>
+<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/your_content/voyages/archive/">Chapter index</a>
