@@ -64,7 +64,7 @@
     </div>
 
 <p class="infobox">Rowi</p>
-<img align="left" src="/MMFComic/your_content/images/cast/rowi.png" width="200px" />
+<div align="left" width="200px" height="200px"><img src="/MMFComic/your_content/images/cast/rowi.png" /></div>
 <div align="left"><font color="#ff4400"><strong>Name: </strong></font> Rowi Ouakkia (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> Avali Core, Avali (Rowi&rsquo;s pack dialect), German, English, a bit of Spanish.<br /><font color="#ff4400"><strong>Role:</strong></font> Drummer<br />
 <p>Rowi is a dark grey, reddish pink and white Avali who came to Earth with the goal of studying its music culture. A good-natured raptor who became the drummer of the band. After settling in Berlin (Germany) for some years. Rowi got German citizenship in 2013, and in 2017 he returned to Protion (the moon he came from) taking Sher (who by then had become his boyfriend) with him.</p>
