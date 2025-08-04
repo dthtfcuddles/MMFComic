@@ -110,18 +110,25 @@
 
 
 <p class="infobox">Roadies</p>
-<h3>Mekari</h3>
-<img align="left" src="/MMFComic/your_content/images/cast/mekari.png" width="150px" />
+
+<table style="width: 100%;">
+<tr style="height: 150px;">
+<td style="text-align: center; padding-top: 10px; width:200px;"><img src="/MMFComic/your_content/images/cast/mekari.png" /></td>
+<td style="text-align: left; padding-left: 10px;"><h3>Mekari</h3>
 <p>A sleriki (slime-based species) who joined the band after he saw one of their performances and now is the roadie boss; he is a diligent, hard working slime and incredibly loyal to the Band who gave him this chance to live in space.</p>
 <p>Very gentle, sweet and soft spoken… but also very big, being around 7 meters tall (22 feet). His body has the consistency of ballistic gel, and as a slime he can make it harder or softer at will. This coupled with his extremely fast healing renders him immune to most kinds of ballistic or slicing weaponry, although he has a crippling weakness to ice that he has to overcome with a subdermal heating device. He also does not perceive the world through visual receptors, his vision is entirely heat based meaning he requires special equipment to read text on screens and struggles to comprehend the concept of colour.</p>
 <p>He developed a “best friends” relationship with Roi.</p>
-<br/><br/>
-
-<h3>Roi</h3>
-<img align="left" src="/MMFComic/your_content/images/cast/roi.png" width="150px" />
+</td>
+</tr>
+<tr style="height: 150px;">
+<td style="text-align: center; padding-top: 10px; width:200px;"><img src="/MMFComic/your_content/images/cast/roi.png" /></td>
+<td style="text-align: left; padding-left: 10px;"><h3>Roi</h3>
 <p>Sher’s sister. She visited space before Sher did, managing to reach Earth and lived there (in England) for a whole year before coming back home. With a severe case of originally undiagnosed ADHD (that by now is medicated), she was clumsy at first and lost focus on things with extreme ease. Cheerful and always positive, she developed a “best friends” relationship with Mekari. Eventually she ended working as the head of security of the band.</p>
 <p>Rowi’s pack are a group of avali whose work overseeing mining operations at a prestigious colony world resulted in them being placed high in the Avali pack hierarchy, with rumors that they could directly join the Illuminate (the Avali’s governing body) in the future. However, they don’t act like that, or maybe aren’t even aware, who knows. Like most Avali packs, they see each other as siblings.</p>
-<br/><br/>
+</td>
+</tr>
+</table>
+
 
 <p class="infobox">Rowi&rsquo;s Pack</p>
 <p>Rowi&rsquo;s pack is a group of avali whose work discovering and overseeing mining operations lead them to be very high in the Avali pack hierarchy, with rumors that they could directly join the Illuminate (Avali&rsquo;s governing body) in the future. However, they don&rsquo;t act like that, or maybe aren&rsquo;t even aware, who knows. Like most Avali packs, they see each other as siblings.</p>
