@@ -17,6 +17,7 @@
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/base.css">
     <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/advanced_stylesheet.css">
     <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/stylesheet.css">
     <link rel="icon" href="/MMFComic/favicon.ico" type="image/x-icon" />
@@ -61,9 +62,6 @@
 
 
     </div>
-
-
-
 
 <p class="infobox">Rowi</p>
 <img align="left" src="/MMFComic/your_content/images/cast/rowi.png" width="200px" />
@@ -140,7 +138,7 @@
 <p><img align="left" src="/MMFComic/your_content/images/cast/nau.png" width="150px" /></p>
 <p align="left">Sher’s mother and one of the Elders in Sher’s village, she was terrified of space and hated it, being frustrated at the fact that both her son and her daughter actually love it. Her bitter attitude was just concealing her insecurity and fear for what could happen to her son and her daughter, but in reality she loved them with all she had. That attitude eventually softened up as time went on and she saw firsthand that aliens weren't always bad.</p>
 <p align="left">She actually likes both Rowi and Daniel, and she’s very thankful of the fact that her son surrounded himself with good company.</p><br/><br/><br/><br/>
-
+</div>
     <div id="powered-by">
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
     </div>
