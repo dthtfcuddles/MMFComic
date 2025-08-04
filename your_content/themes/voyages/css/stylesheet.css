@@ -16,6 +16,10 @@ body {
 /*    background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
 }                                                       or replace with your own image to tile across your background. */
 
+img {
+  width: 100%
+}
+
 b, strong {
     font-family: 'PT Sans', sans-serif !important;
     font-weight: 700;
