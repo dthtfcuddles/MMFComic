@@ -66,7 +66,6 @@
 
 <p class="infobox">Rowi</p>
 <table style="width: 100%;">
-<tbody>
 <tr style="height: 150px;">
 <td style="text-align: center; padding-top: 10px;"><a href="/MMFComic/comic/01-00/"><img src="/MMFComic/your_content/images/cast/rowi.png" /></td>
 <td style="text-align: left; padding-left: 10px;"><font color="#ff4400"><strong>Name: </strong></font> Rowi Ouakkia (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.</div>
@@ -77,6 +76,7 @@
 </div>
 </td>
 </tr>
+</table>
 <div align="left" width="200px" height="200px"></div>
 <div align="left"><font color="#ff4400">
 <p class="infobox">Sher</p>
