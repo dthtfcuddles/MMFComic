@@ -29,6 +29,8 @@
     <meta property="og:image:height" content="100px" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Cast - Moumantai Motherfuckers</title>
+    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/index.css">
+
 </head>
 <body>
 
