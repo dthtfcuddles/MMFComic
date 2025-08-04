@@ -167,7 +167,7 @@
 
 </tbody>
 </table>
-
+</div>
 <div id="powered-by">
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
     </div>
