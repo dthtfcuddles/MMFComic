@@ -132,16 +132,22 @@
 
 <p class="infobox">Rowi&rsquo;s Pack</p>
 <p>Rowi&rsquo;s pack is a group of avali whose work discovering and overseeing mining operations lead them to be very high in the Avali pack hierarchy, with rumors that they could directly join the Illuminate (Avali&rsquo;s governing body) in the future. However, they don&rsquo;t act like that, or maybe aren&rsquo;t even aware, who knows. Like most Avali packs, they see each other as siblings.</p>
-<h3>Sawi</h3>
-<p><img align="left" src="/MMFComic/your_content/images/cast/sawi.png" width="120px" /></p>
+
+<table style="width: 100%;">
+<tr style="height: 150px;"><td style="text-align: center; padding-top: 10px; width:200px;"><img src="/MMFComic/your_content/images/cast/sawi.png" /></td>
+<td style="text-align: left; padding-left: 10px;"><h3>Sawi</h3>
 <p>A chill soul with very high work standards, she’s the closest to a cyborg that the pack has. With four of the most invasive body enhancements and modifications of the group (A computer processor and a storage drive inside of her head, with direct connection to her brain, cybernetic eyes and her blood has been replaced with an artificial substitute to endure extreme temperatures), she doesn’t need to rely on external hardware most of the time. Her computer additions make her extremely fast when she needs to run calculations or make decisions.</p>
 <p>Sawi is the leader of the pack, and the spokesperson when either Eikomi cannot do it or when the pack is holding direct communications with the Illuminate leaders. She also works as the manager of the band. She and Sher also have a “big sis/small brother” relationship.</p>
-<br/>
-<h3>Eikomi</h3>
-<p><img align="left" src="/MMFComic/your_content/images/cast/eikomi.png" width="120px" /></p>
+</td></tr>
+<tr style="height: 150px;">
+<td style="text-align: center; padding-top: 10px; width:200px;"><img src="/MMFComic/your_content/images/cast/eikomi.png" /></td>
+<td style="text-align: left; padding-left: 10px;"><h3>Eikomi</h3>
 <p>The official spokesperson of the pack and second in charge, Eikomi has a deep love for languages and communication, with interspecies communication being one of her biggest interests. She loves reading stories, fanfiction and thanks to D’s influence watching anime.</p>
 <p>She likes to think of herself as a writer, having written several short stories (without much success). She has aspirations of becoming famous and loved everywhere someday. The tablet she wears on her left arm is very powerful and she uses it for everything, from checking maps to playing music. Outgoing and cheerful, she developed a warm relationship with Daniel that would eventually turn into a romantic partnership.</p>
-<br/>
+</td></tr>
+</table>
+
+
 <h3>Naha</h3>
 <p><img align="left" src="/MMFComic/your_content/images/cast/naha.png" width="120px" /></p>
 <p>Easygoing and nice, Naha loves videogames and has a small collection of them from all across the universe. As a kid he used to disassemble things belonging to the rest of the pack (and reassemble them afterwards). Today he’s an expert with hardware, and he’s responsible not only for the mining equipment, but the pack’s drones and robots too. He has built robots from scrap before, and while the pack doesn’t need them due to the much more advanced devices they get from the Illuminate, he still builds robots and drones just for fun.</p>
