@@ -67,7 +67,7 @@
 <p class="infobox">Rowi</p>
 <table style="width: 100%;">
 <tr style="height: 150px;">
-<td style="text-align: center; padding-top: 10px; width:250px;"><img src="/MMFComic/your_content/images/cast/rowi.png" /></td>
+<td style="text-align: center; padding-top: 10px; width:350px;"><img src="/MMFComic/your_content/images/cast/rowi.png" /></td>
 <td style="text-align: left; padding-left: 10px;"><font color="#ff4400"><strong>Name: </strong></font> Rowi Ouakkia (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> Avali Core, Avali (Rowi&rsquo;s pack dialect), German, English, a bit of Spanish.<br /><font color="#ff4400"><strong>Role:</strong></font> Drummer<br />
 <p>Rowi is a dark grey, reddish pink and white Avali who came to Earth with the goal of studying its music culture. A good-natured raptor who became the drummer of the band. After settling in Berlin (Germany) for some years. Rowi got German citizenship in 2013, and in 2017 he returned to Protion (the moon he came from) taking Sher (who by then had become his boyfriend) with him.</p>
@@ -77,16 +77,24 @@
 </td>
 </tr>
 </table>
-<div align="left" width="200px" height="200px"></div>
-<div align="left"><font color="#ff4400">
+
 <p class="infobox">Sher</p>
-<img align="left" src="/MMFComic/your_content/images/cast/sher.png" width="200px" />
-<div align="left"><font color="#ff4400"><strong>Name:</strong></font> Sher Ouakkia (on Earth: Sher B&ouml;hnchen)<br /><font color="#ff4400"><strong>Species:</strong></font> Vampire Bunny<br /><font color="#ff4400"><strong>Age:</strong></font> 25 GY (32 EY)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Pasta, punk rock, pretty colors, fractals and mirages<br /><font color="#ff4400"><strong>Dislikes:</strong></font> Pollution, tofu</div>
+
+<table style="width: 100%;">
+<tr style="height: 150px;">
+<td style="text-align: center; padding-top: 10px; width:350px;"><img src="/MMFComic/your_content/images/cast/sher.png"></td>
+<td style="text-align: left; padding-left: 10px;"><font color="#ff4400"><strong>Name:</strong></font> Sher Ouakkia (on Earth: Sher B&ouml;hnchen)<br /><font color="#ff4400"><strong>Species:</strong></font> Vampire Bunny<br /><font color="#ff4400"><strong>Age:</strong></font> 25 GY (32 EY)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Pasta, punk rock, pretty colors, fractals and mirages<br /><font color="#ff4400"><strong>Dislikes:</strong></font> Pollution, tofu</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> Vampire Bunny Song, Avali Core, Avali (Rowi&rsquo;s pack dialect), Spanish, German, English, Italian, a bit of Finnish, a bit of Japanese.</div>
 <div align="left"><font color="#ff4400"><strong>Role:</strong></font> Guitarist, singer<br />
 <p>Sher is a vampire bunny, yellow and white, he wears an Avali visor most of the time, but also occasionally a hat and/or scarf. He’s a good natured sweet boy who decided to visit Earth after his sister did. She returned with extremely positive opinions of it and the beautiful views you could get. His sister gifted him a black colored acoustic guitar, with the picture of some palm trees in white. He arrived on Earth in 2006 expecting just to be a visitor but fell in love with the planet and decided to stay. He worked for a while at a small restaurant. He met Rowi in August 2007 who encouraged him to try to find a place to play his instrument.</p>
 <p>Sher used to be very shy with people he wasn’t acquainted with, but that has changed as his self confidence increased. He is the singer of the band. He also suffers stage fright to a degree but has managed to overcome and conquer most of it. He tends to be careful with what he says in interviews, but if he’s given wings, he can talk for hours about how much he loves his boyfriend and all the good things he sees in him, much to the poor Avali’s embarrassment.</p>
 <p>He has a big love for pasta, with gnocchi and lasagna being his absolute favorites. He can’t stand tofu; he really loves the flavor of the Sprite soda in Chile and his favorite Pokémon is Pikachu.</p>
+</div>
+</td>
+</tr>
+</table>
+
+
 </div>
 <p class="infobox">Daniel (D)</p>
 <img align="left" src="/MMFComic/your_content/images/cast/daniel.png" width="200px" />
