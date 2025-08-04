@@ -17,8 +17,9 @@
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/fonts.css">
-    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/base.css">
     <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/advanced_stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/base.css">
+    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/index.css">
     <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/stylesheet.css">
     <link rel="icon" href="/MMFComic/favicon.ico" type="image/x-icon" />
     <meta property="og:title" content="Moumantai Motherfuckers" />
@@ -64,13 +65,20 @@
     </div>
 
 <p class="infobox">Rowi</p>
-<div align="left" width="200px" height="200px"><img src="/MMFComic/your_content/images/cast/rowi.png" /></div>
-<div align="left"><font color="#ff4400"><strong>Name: </strong></font> Rowi Ouakkia (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.</div>
+<table style="width: 100%;">
+<tbody>
+<tr style="height: 150px;">
+<td style="text-align: center; padding-top: 10px;"><a href="/MMFComic/comic/01-00/"><img src="/MMFComic/your_content/images/cast/rowi.png" /></td>
+<td style="text-align: left; padding-left: 10px;"><font color="#ff4400"><strong>Name: </strong></font> Rowi Ouakkia (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> Avali Core, Avali (Rowi&rsquo;s pack dialect), German, English, a bit of Spanish.<br /><font color="#ff4400"><strong>Role:</strong></font> Drummer<br />
 <p>Rowi is a dark grey, reddish pink and white Avali who came to Earth with the goal of studying its music culture. A good-natured raptor who became the drummer of the band. After settling in Berlin (Germany) for some years. Rowi got German citizenship in 2013, and in 2017 he returned to Protion (the moon he came from) taking Sher (who by then had become his boyfriend) with him.</p>
 <p>Rowi has a relatively broad knowledge of hacking and electronics, along with a master's degree in geology; studying music was meant to be just a hobby, and his actual formal job is acting as his pack’s geologist- a job he can mostly do remotely.</p>
 <p>While his home planet doesn’t pose any problem, Rowi’s vision has heavy problems with the light of other planets, including Earth. That’s where his glasses help. They essentially process images in real time and deliver a filtered video feed with brightness, color, contrast, etc. adjusted to match his eye tolerance, dulling down bright environments and enhancing dark ones. Without these glasses he’d be virtually blind in most of the universe.</p>
 </div>
+</td>
+</tr>
+<div align="left" width="200px" height="200px"></div>
+<div align="left"><font color="#ff4400">
 <p class="infobox">Sher</p>
 <img align="left" src="/MMFComic/your_content/images/cast/sher.png" width="200px" />
 <div align="left"><font color="#ff4400"><strong>Name:</strong></font> Sher Ouakkia (on Earth: Sher B&ouml;hnchen)<br /><font color="#ff4400"><strong>Species:</strong></font> Vampire Bunny<br /><font color="#ff4400"><strong>Age:</strong></font> 25 GY (32 EY)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Pasta, punk rock, pretty colors, fractals and mirages<br /><font color="#ff4400"><strong>Dislikes:</strong></font> Pollution, tofu</div>
@@ -143,6 +151,5 @@
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
     </div>
 </div>
-
 
 </body>
