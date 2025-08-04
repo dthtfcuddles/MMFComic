@@ -94,15 +94,20 @@
 </tr>
 </table>
 
-
-</div>
 <p class="infobox">Daniel (D)</p>
-<img align="left" src="/MMFComic/your_content/images/cast/daniel.png" width="200px" />
-<div align="left"><font color="#ff4400"><strong>Name:</strong></font> Daniel Ouakkia<br /><font color="#ff4400"><strong>Species:</strong></font> Deer<br /><font color="#ff4400"><strong>Age:</strong></font> 24 GY (31 EY)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> Any, but prefers they/them<br /><font color="#ff4400"><strong>Likes:</strong></font> Cartoons and movies (mainly Anime), Japanese culture, traveling.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> Being around people in general</div>
+
+<table style="width: 100%;">
+<tr style="height: 150px;">
+<td style="text-align: center; padding-top: 10px; width:350px;"><img src="/MMFComic/your_content/images/cast/daniel.png"></td>
+<td style="text-align: left; padding-left: 10px;"><font color="#ff4400"><strong>Name:</strong></font> Daniel Ouakkia<br /><font color="#ff4400"><strong>Species:</strong></font> Deer<br /><font color="#ff4400"><strong>Age:</strong></font> 24 GY (31 EY)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> Any, but prefers they/them<br /><font color="#ff4400"><strong>Likes:</strong></font> Cartoons and movies (mainly Anime), Japanese culture, traveling.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> Being around people in general</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> German, English, Japanese, a bit of Avali Core<br /><font color="#ff4400"><strong>Role:</strong></font> Bassist<br />
 <p>A native from Earth (specifically, Germany), D is the bassist of the band. Originally sporting a very apathetic attitude, they have very little social energy; they like their bandmates and their families but that’s about it. Usually after concerts they retreat to their room and just sleep or watch anime or read manga. Their anime library is gigantic, and while they like animes of all kinds, they have preference for either shōjo series or action anime.</p>
 <p>D and Eikomi developed a warm relationship that eventually turned into a romantic relationship.</p>
-<br /><br />
+</div>
+</td>
+</tr>
+</table>
+
 
 <p class="infobox">Roadies</p>
 <h3>Mekari</h3>
