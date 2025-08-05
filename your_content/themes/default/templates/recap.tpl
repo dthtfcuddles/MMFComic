@@ -40,8 +40,7 @@
         </a>
     </div>
     <div id="links-bar">
-
-        <a class="link-bar-link" href="/MMFComic/">Home</a>
+<a class="link-bar-link" href="/MMFComic/">Home</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/MMFComic/chapters/">Chapters</a>
         <span class="link-bar-separator">|</span>
@@ -53,9 +52,11 @@
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/MMFComic/archive/">Archive</a>
         <span class="link-bar-separator">|</span>
+        <a class="link-bar-link" href="/MMFComic/voyages/">Voyages of the Odyssey</a>
+        <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="https://www.patreon.com/MMFComic/posts">Patreon</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/credits">Credits</a>
+        <a class="link-bar-link" href="/MMFComic/credits/">Credits</a>
 
     </div>
 <div align="left">
