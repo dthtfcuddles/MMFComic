@@ -18,6 +18,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/fonts.css">
     <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/advanced_stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/base.css">
+    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/index.css">
     <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/stylesheet.css">
     <link rel="icon" href="/MMFComic/favicon.ico" type="image/x-icon" />
     <meta property="og:title" content="Moumantai Motherfuckers" />

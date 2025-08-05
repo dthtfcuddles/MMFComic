@@ -115,7 +115,7 @@
 <p class="infobox">Roadies</p>
 
 <table style="width: 100%;">
-<tr style="height: 150px;">
+<tr style="height: 300px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/MMFComic/your_content/images/cast/mekari.png" /></td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Mekari</h3>
 <p>A sleriki (slime-based species) who joined the band after he saw one of their performances and now is the roadie boss; he is a diligent, hard working slime and incredibly loyal to the Band who gave him this chance to live in space.</p>
@@ -123,7 +123,7 @@
 <p>He developed a “best friends” relationship with Roi.</p>
 </td>
 </tr>
-<tr style="height: 150px;">
+<tr style="height: 300px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/MMFComic/your_content/images/cast/roi.png" /></td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Roi</h3>
 <p>Sher’s sister. She visited space before Sher did, managing to reach Earth and lived there (in England) for a whole year before coming back home. With a severe case of originally undiagnosed ADHD (that by now is medicated), she was clumsy at first and lost focus on things with extreme ease. Cheerful and always positive, she developed a “best friends” relationship with Mekari. Eventually she ended working as the head of security of the band.</p>
