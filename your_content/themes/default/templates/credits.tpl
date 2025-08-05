@@ -69,8 +69,10 @@
 <p class="infobox">About this comic</p>
 <p>This is a comic drawn by <strong>htfcuddles</strong> with the help of <strong>Russet</strong> about a furry alien rock band that goes through the universe playing music and getting into trouble.</p>
 <p class="infobox">Credits</p>
-<img align="left" src="/MMFComic/your_content/images/preview_image.png" width="300px" />
-<p align="left">While this comic is my personal work and, in a way, my baby, I couldn't have made it alone, without inspiration from other sources and without the invaluable help of some friends.</p>
+<table style="width: 100%;">
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 15px; width:300px; vertical-align:top;"><img src="/MMFComic/your_content/images/preview_image.png"/></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><p align="left">While this comic is my personal work and, in a way, my baby, I couldn't have made it alone, without inspiration from other sources and without the invaluable help of some friends.</p>
 <p align="left"><h2>Main development</h2>
 <ul>
 <li><font color="#ff4400"><strong>Artist, writer</strong></font>: <a href="https://https://bsky.app/profile/htfcuddles.bsky.social">htfcuddles</a></li>
@@ -83,6 +85,11 @@
 <li>Daniel/D is a deer, and while the character is original, it did take some inspiration from the "<a href="https://booth.pm/en/items/3607986">Rabi- It's Rabi not rabbit</a>" VRChat model from BlueGua.</li>
 </ul>
 </p>
+
+</td>
+</tr>
+</table>
+
 <p class="infobox">About the Avali lore</p>
 <p align="left">This comic builds heavily upon an old lore for the Avali species, but it <i>cannot</i> be counted even remotely as official. Almost everything, from how their hierarchy works and how their society is, to the location of each planet has been adapted or changed to fit the story plot, or revamped and modified in one way or another. If you're looking for fully accurate Avali lore... this is not the place you should be looking at.</p>
 <p align="left">You can check the <a href="https://avali.fandom.com/wiki/The_Official_Avali_Wiki">Official Avali Wiki</a> here. <font color="#ff4400"><strong>WARNING:</strong></font> Since that wiki is being hosted on FANDOM it has <i>loads and loads of ads</i>. Do not browse it without an Adblocker. <a href="https://ublockorigin.com/">uBlock Origin</a> is an excellent one at the time of writing this.</p>
