@@ -173,14 +173,13 @@
 <td style="text-align: left; padding-left: 10px;"><h3>Khi</h3>
 <p>Sher’s father and one of the Elders in Sher’s home village, while he’s afraid of space he’s permissive and lets his son and his daughter explore it at will.</p>
 <p>While his views are shaped by the recent Horker invasion that almost wiped out vampire bunnies for good, the one time he went to space to watch one of his son’s shows he mentioned that space wasn’t so bad and that he could even like it if he had been younger. He’s the voice of reason in his family and following the traditional vampire bunny hierarchy, its head.</p>
-<p>His hat has a pom and the design of his hat’s wings has spikes and lines.</p>
 </td>
 </tr>
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px;"><img src="/MMFComic/your_content/images/cast/nau.png" /></td>
 <td style="text-align: left; padding-left: 10px;"><h3>Nau</h3>
-<p>Sher’s mother and one of the Elders in Sher’s village, she was terrified of space and hated it, being frustrated at the fact that both her son and her daughter actually love it. Her bitter attitude was just concealing her insecurity and fear for what could happen to her son and her daughter, but in reality she loved them with all she had. That attitude eventually softened up as time went on and she saw firsthand that aliens weren't always bad.</p>
-<p>She actually likes both Rowi and Daniel, and she’s very thankful of the fact that her son surrounded himself with good company.</p>
+<p>Sher’s mother and one of the Elders in Sher’s village, she was terrified of space and hated it, being frustrated at the fact that both her son and her daughter actually love it. Her bitter attitude was just concealing her insecurity and fear for what could happen to her son and her daughter, but in reality she loved them with all she had. That attitude eventually softened up as time went on and she saw firsthand that aliens weren't always bad, but it looks like the permanent stress she's been suffering through her entire life has left a mark in her health.</p>
+<p>She actually likes both Rowi and Daniel, and she’s very thankful and happy with the fact that her son surrounded himself with good company.</p>
 </td>
 </tr>
 </table>
