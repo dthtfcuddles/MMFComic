@@ -154,7 +154,7 @@
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px;"><img src="/MMFComic/your_content/images/cast/kig.png" /></td>
 <td style="text-align: left; padding-left: 10px;"><h3>Kig</h3>
-<p>A member of the “Avali Defenders”, Kig is the “guard” of the pack, boasting deep knowledge about avali weaponry (including vehicles) and armor. He will always be ready to defend his pack from any enemy who happens to cross paths with them.</p>
+<p>A member of the “Avali Defenders”, Kig is the guard of the pack, with not only deep knowledge about avali weaponry (including vehicles) and armor, but also handling connections with the Avali military given his background. He will always be ready to defend his pack from any enemy who happens to cross paths with them, no matter what or who it is.</p>
 <p>He’s not very talkative and enjoys not being the center of attention, usually staying silent and just listening, absorbing information and being ready in case anything important looks about to happen. He’s also often away training.</p>
 </td></tr>
 <tr style="height: 100px;">
