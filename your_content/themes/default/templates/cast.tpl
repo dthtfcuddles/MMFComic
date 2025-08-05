@@ -44,7 +44,9 @@
         </a>
     </div>
     <div id="links-bar">
+        {{ links }}
 
+        <!-- Links put manually
         <a class="link-bar-link" href="/MMFComic/">Home</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/MMFComic/chapters/">Chapters</a>
@@ -59,7 +61,7 @@
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="https://www.patreon.com/MMFComic/posts">Patreon</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/credits">Credits</a>
+        <a class="link-bar-link" href="/MMFComic/credits">Credits</a> -->
 
 
     </div>
