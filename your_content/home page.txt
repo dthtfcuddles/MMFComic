@@ -24,7 +24,7 @@
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML... -->
 <!-- If you want to set some information apart, you can set the class as "infobox"! That will put your content in a different block of color, which can be defined in stylesheet.css. -->
-<p class="infobox"><b>This comic is for ages 15 and up</b> due to: Coarse language, mild violence, dark themes.</p>
+<p class="infobox"><b>This comic is for ages 13 and up</b> due to: Coarse language, mild violence, dark themes.</p>
 <p><h2>Credits</h2><br /><b>Creator:</b> htfcuddles<br /><b>Art:</b> htfcuddles<br /><b>Writing:</b> Russet, htfcuddles<br /></p>
 
 
