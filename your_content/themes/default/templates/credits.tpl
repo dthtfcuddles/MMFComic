@@ -75,7 +75,7 @@
 <td style="text-align: left; padding-left: 10px; vertical-align:top;"><p align="left">While this comic is my personal work and, in a way, my baby, I couldn't have made it alone, without inspiration from other sources and without the invaluable help of some friends.</p>
 <p align="left"><h2>Main development</h2>
 <ul>
-<li><font color="#ff4400"><strong>Artist, writer</strong></font>: <a href="https://https://bsky.app/profile/htfcuddles.bsky.social">htfcuddles</a></li>
+<li><font color="#ff4400"><strong>Artist, writer</strong></font>: <a href="https://bsky.app/profile/htfcuddles.bsky.social">htfcuddles</a></li>
 <li><font color="#ff4400"><strong>Co-Writer</strong></font>: <a href="https://bsky.app/profile/russet.bsky.social">Russet</a></li>
 </ul></p>
 <p align="left"><h2>Content credits</h2>
