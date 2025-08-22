@@ -110,23 +110,15 @@
             </tr>
         </table>
         {% endif %}
-        <table id="bannerarea">
-            <tr>
-                <td>
-                    <h3>Read other comics!</h3>
-                </td>
-                <td>
-                    asdfasdf jdfsa
-                </td>
-            </tr>
-        </table>
-
-
     </div>
 
     {% if navigation_bar_below_blurb %}
     {% include "navigation_bar.tpl" %}
     {% endif %}
+
+<h3>Read other comics!</h3>
+asdfasdf jdfsa sadasdas
+
 {%- endblock %}
 {%- block script %}
 <script type="module">
