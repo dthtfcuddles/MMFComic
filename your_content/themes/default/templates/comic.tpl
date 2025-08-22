@@ -116,7 +116,7 @@
     {% include "navigation_bar.tpl" %}
     {% endif %}
 
-<h3>Read other comics!</h3>
+<h2>Read other comics!</h2>
 PLACEHOLDER LOL
 
 {%- endblock %}
