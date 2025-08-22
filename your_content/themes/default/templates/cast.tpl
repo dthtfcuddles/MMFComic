@@ -127,7 +127,6 @@
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/MMFComic/your_content/images/cast/roi.png" /></td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Roi</h3>
 <p>Sher’s sister. She visited space before Sher did, managing to reach Earth and lived there (in England) for a whole year before coming back home. With a severe case of originally undiagnosed ADHD (that by now is medicated), she was clumsy at first and lost focus on things with extreme ease. Cheerful and always positive, she developed a “best friends” relationship with Mekari. Eventually she ended working as the head of security of the band.</p>
-<p>Rowi’s pack are a group of avali whose work overseeing mining operations at a prestigious colony world resulted in them being placed high in the Avali pack hierarchy, with rumors that they could directly join the Illuminate (the Avali’s governing body) in the future. However, they don’t act like that, or maybe aren’t even aware, who knows. Like most Avali packs, they see each other as siblings.</p>
 </td>
 </tr>
 </table>

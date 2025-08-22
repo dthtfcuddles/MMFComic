@@ -113,6 +113,16 @@ padding-bottom:25px;
     font-size:0.9em;
 }
 
+#bannerarea {
+    background-color: #000000;  /* Not sure yet lmao. */
+    width: 20%;  /* The maximum width of the blurb box. */
+    border-left: 0px #ff4400;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    border-right: 0px #ff4400;
+    color: #ffe4a9;
+    font-size:0.9em;
+}
+
+
 #transcripts-container {
     border:none;
     border-left:solid 10px #ffe4a9;
