@@ -110,7 +110,7 @@
             </tr>
         </table>
         {% endif %}
-                <table id="bannerarea" border>
+        <table id="bannerarea">
             <tr>
                 <td>
                     <h3>Read other comics!</h3>
@@ -120,6 +120,8 @@
                 </td>
             </tr>
         </table>
+
+
     </div>
 
     {% if navigation_bar_below_blurb %}

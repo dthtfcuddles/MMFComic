@@ -122,6 +122,14 @@ padding-bottom:25px;
     font-size:0.9em;
 }
 
+#bannerarea td {
+    border: none 0px;
+}
+
+#bannerarea tr {
+    border: none 0px;
+}
+
 
 #transcripts-container {
     border:none;
