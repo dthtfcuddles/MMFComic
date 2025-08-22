@@ -117,7 +117,7 @@
     {% endif %}
 
 <h3>Read other comics!</h3>
-asdfasdf jdfsa sadasdas
+PLACEHOLDER LOL
 
 {%- endblock %}
 {%- block script %}
