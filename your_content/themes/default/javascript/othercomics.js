@@ -1,5 +1,15 @@
 <!--
 
     document.write("PLACEHOLDER LOL YEAH");
+    document.write("TEST");
+    document.write("<table style='width: 60%;'>");
+    document.write("<tr style='height: 150px;'>");
+    document.write("<td style='text-align: center; padding-top: 10px; width:50%; vertical-align:top;'><img src='/your_content/images/cast/rowi.png' /></td>");
+    document.write("<td style='text-align: left; padding-left: 10px; vertical-align:top;'>");
+    document.write("<img src='/your_content/images/albumart/2011Foreigners.jpg'>");
+    document.write("</div>");
+    document.write("</td>");
+    document.write("</tr>");
+    document.write("</table>");
 
 //-->
