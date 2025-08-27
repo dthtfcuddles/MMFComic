@@ -16,17 +16,17 @@
 
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/fonts.css">
-    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/advanced_stylesheet.css">
-    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/base.css">
-    <link rel="stylesheet" type="text/css" href="/MMFComic/comic_git_engine/css/index.css">
-    <link rel="stylesheet" type="text/css" href="/MMFComic/your_content/themes/default/css/stylesheet.css">
-    <link rel="icon" href="/MMFComic/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/your_content/themes/default/css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="/comic_git_engine/css/advanced_stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="/comic_git_engine/css/base.css">
+    <link rel="stylesheet" type="text/css" href="/comic_git_engine/css/index.css">
+    <link rel="stylesheet" type="text/css" href="/your_content/themes/default/css/stylesheet.css">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     <meta property="og:title" content="Moumantai Motherfuckers" />
     <meta property="og:description" content="About/Credits page for the webcomic Moumantai Motherfuckers: Everyone who helped/contributed in a way or another to it." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://dthtfcuddles.github.io/MMFComic/" />
-    <meta property="og:image" content="https://dthtfcuddles.github.io/MMFComic/your_content/images/preview_image.png" />
+    <meta property="og:url" content="https://mmfcomic.com/" />
+    <meta property="og:image" content="https://mmfcomic.com/your_content/images/preview_image.png" />
     <meta property="og:image:width" content="150px" />
     <meta property="og:image:height" content="150px" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,29 +37,29 @@
 
 <div id="container">
     <div id="banner">
-        <a id="banner-img-link" href="/MMFComic/">
-            <img id="banner-img" alt="banner" src="/MMFComic/your_content/images/banner.png">
+        <a id="banner-img-link" href="/">
+            <img id="banner-img" alt="banner" src="/your_content/images/banner.png">
         </a>
     </div>
     <div id="links-bar">
 
-<a class="link-bar-link" href="/MMFComic/">Home</a>
+<a class="link-bar-link" href="/">Home</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/chapters/">Chapters</a>
+        <a class="link-bar-link" href="/chapters/">Chapters</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/recap/">Recap</a>
+        <a class="link-bar-link" href="/recap/">Recap</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/cast/">Cast</a>
+        <a class="link-bar-link" href="/cast/">Cast</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/infinite_scroll/">Infinite Scroll</a>
+        <a class="link-bar-link" href="/infinite_scroll/">Infinite Scroll</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/archive/">Archive</a>
+        <a class="link-bar-link" href="/archive/">Archive</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/voyages/">Voyages of the Odyssey</a>
+        <a class="link-bar-link" href="/voyages/">Voyages of the Odyssey</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="https://www.patreon.com/MMFComic/posts">Patreon</a>
+        <a class="link-bar-link" href="https://www.patreon.com/posts">Patreon</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/MMFComic/credits/">Credits</a>
+        <a class="link-bar-link" href="/credits/">Credits</a>
 
     </div>
 
@@ -71,7 +71,7 @@
 <p class="infobox">Credits</p>
 <table style="width: 100%;">
 <tr style="height: 300px;">
-<td style="text-align: center; padding-top: 15px; width:400px; vertical-align:top;"><img src="/MMFComic/your_content/images/preview_image.png"/></td>
+<td style="text-align: center; padding-top: 15px; width:400px; vertical-align:top;"><img src="/your_content/images/preview_image.png"/></td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;"><p align="left">While this comic is my personal work and, in a way, my baby, I couldn't have made it alone, without inspiration from other sources and without the invaluable help of some friends.</p>
 <p align="left"><h2>Main development</h2>
 <ul>
