@@ -9,6 +9,6 @@
     But you did find... uh... an album cover. Yeah that.<br/>
     <br/>
     <p class="infobox">
-    <SCRIPT TYPE="text/javascript" SRC="/MMFComic/your_content/themes/default/javascript/randomart.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/randomart.js"></SCRIPT>
     </p>
 {% endblock %}
