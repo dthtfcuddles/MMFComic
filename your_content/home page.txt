@@ -28,5 +28,5 @@
 <p><h2>Credits</h2><br /><b>Creator:</b> htfcuddles<br /><b>Art:</b> htfcuddles<br /><b>Writing:</b> Russet, htfcuddles<br /></p>
 <br />
 <h2>Read other comics!</h2>
-PLACEHOLDER LOL
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
 

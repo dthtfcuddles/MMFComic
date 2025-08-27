@@ -117,7 +117,7 @@
     {% endif %}
 
 <h2>Read other comics!</h2>
-PLACEHOLDER LOL
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
 
 {%- endblock %}
 {%- block script %}
