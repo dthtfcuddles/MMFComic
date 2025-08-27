@@ -13,7 +13,7 @@
     <div class="right-column">
         <h1>Moumantai Motherfuckers</h1>
 
-        <p>What is the meaning of "family" in a place as culturally diverse as... the entire universe? Follow the adventures of MMF, the fuzzy alien rock band in their journey to learn exactly that!</p>
+        <p>What does "family" mean in a place as culturally diverse as the entire universe? The fuzzy alien rock band MMF is sure to find out as they tour their music among the stars!</p>
 
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
         <a class="button" href="comic/01-00/#comic-page">First Page</a>
