@@ -15,8 +15,8 @@ This space is going to be used to post other comics I draw that aren't necessari
 
 <table style="width: 100%;">
 <tr style="height: 200px;">
-<td style="text-align: center; padding-top: 10px; padding-left: 20px; padding-right: 10px; width:150px; vertical-align:top;"><a href="/extracomics/comic/ANewChance"><img src="/your_content/extracomics/comics/ANewChance/A%20New%20Chance_001.png" /></a><br/><a class="button" href="/extracomics/comic/ANewChance">A New Chance</a></td>
-<td style="text-align: left; padding-left: 20px; padding-right: 30px; vertical-align:center;"><div align="left"><h3>A New Chance</h3><i>A New Chance</i> follows the story of Cotton, an Eevee who was left for dead one night in the middle of a dangerous forest. The story shows making new friends and gaining a new family.<br/>This was one of my first fully "family friendly" works, a doujin I made as a labor of love.<br/>I'm still very happy with it.
+<td style="text-align: center; padding-top: 10px; padding-left: 20px; padding-right: 10px; width:150px; vertical-align:top;"><a href="/extracomics/comic/ANewChance"><img src="/your_content/extracomics/comics/ANewChance/A%20New%20Chance_001.png" /></a></td>
+<td style="text-align: left; padding-left: 20px; padding-right: 30px; vertical-align:center;"><div align="left"><a class="button" href="/extracomics/comic/ANewChance">A New Chance</a><br /><i>A New Chance</i> follows the story of Cotton, an Eevee who was left for dead one night in the middle of a dangerous forest. The story shows making new friends and gaining a new family.<br/>This was one of my first fully "family friendly" works, a doujin I made as a labor of love.<br/>I'm still very happy with it.
 </div>
 </td>
 </tr>
