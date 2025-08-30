@@ -1,7 +1,7 @@
 <p>The sound of the drums started up at the same time that the lights dimmed. The curtains swished open as the bass added its deep rolling tones to the tune. The guitar line started and the orange and white coloured bunny playing the instrument bounced toward the front of the stage, his deep rich voice rolling over the club as he launched into song.</p>
 <p>Cal leapt to his feet on the table and cheered, it was Sher! He was actually here, less than a metre away playing a song live. Most of the Ambassadors and dignitaries were eating and talking but they looked around as Cri joined Cal in dancing on the table. The avali were cheering too and the big green alien Darneti threw his short arms in the air and let out an excited whoop as Sher belted out the lines to MMF's traditional opening song Anagram!</p>
-<p class="songlyrics">
-<p>“Hello everybody!<br/>
+
+<p class="songlyrics">“Hello everybody!<br/>
 We are a band!<br/>
 We're Moumantai<br/>
 Motherfuckers<br/>
@@ -10,12 +10,12 @@ We're visiting Iko<br/>
 Eating Krad as we walk<br/>
 We visited Kyranskab<br/>
 And now we're happy to be here with you<br/>
-For a Night on the Fuseli!
-</p>
+For a Night on the Fuseli!</p>
+
 <p>The people around the Earthian ambassadors table cheered at that last line and jumped up to their feet, except for the ambassador, he was a boring type. But the song hammered through a chorus line and Cal danced on the table, cheering as Sher’s voice rang out with the second verse.</p>
 
 <p class="songlyrics">
-<p>Hello everybody!<br/>
+Hello everybody!<br/>
 We are a band!<br/>
 We're Moumantai<br/>
 Motherfuckers<br/>
@@ -31,7 +31,7 @@ We are a band!<br/>
 We're Moumantai<br/>
 Motherfuckers<br/>
 And we're here to rock</p>
-</p>
+
 <p>The song ploughed through a serious guitar riff, Sher and D seeming to strum in harmony with one another as Rowi bounced his sticks across the drumkit until with a resounding crash of the cymbals the song came to a halt. Sher bounced to the front of the stage, he was wearing a white and orange bobble hat and a flowing avali robe. That song, from what Cri had studied, was their usual opening song and the band always changed the lyrics to match the place they were performing into.</p>
 <p>“Hello and good evening,” Sher called out, “It's a delight to be here to play you some Earth music! I can see we have quite a diverse crowd tonight but Mr Sleriki in the front row you're blocking my view, do you mind lying down?”</p>
 <p>“Only if I can lie in front of one of the speakers,” Darneti shouted back with good cheer as the big slime got up and waddled forward.</p>
