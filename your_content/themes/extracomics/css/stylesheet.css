@@ -139,7 +139,7 @@ padding-bottom:25px;
 
 
 h1#post-title {
-    color: #eeeeee;  /* Color of the post title */
+    color: #000000;  /* Color of the post title */
     font-size: 2em;  /* Font size of the post title */
     font-family: 'Space Grotesk';
 }
