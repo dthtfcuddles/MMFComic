@@ -21,7 +21,6 @@
     document.write("<a href='https://www.tamberlanecomic.com/'><img src='/your_content/images/othercomics/TamberlaneNormal.jpg'></a>");
     document.write("</td>");
     document.write("</tr>");
-
     document.write("</table>");
 
 //-->
