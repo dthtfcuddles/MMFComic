@@ -2,7 +2,7 @@
 
     document.write("<a href='https://www.foxglovecomics.com'>Foxglove Comics</a><br/>");
 
-    document.write("<table style='width: 60%; margin-left:auto; margin-right:auto;'>");
+    document.write("<table style='width: 90%; margin-left:auto; margin-right:auto;'>");
     document.write("<tr style='height: 150px;'>");
     document.write("<td style='text-align: center; padding-top: 5px; padding-left: 5px; width:50%; vertical-align:top;'><a href='https://circusanimals.webcomic.ws/'><img src='/your_content/images/othercomics/CircusAnimalsNormal.jpg' /></a></td>");
     document.write("<td style='text-align: left;  padding-top: 5px; padding-left: 5px; vertical-align:top;'>");
