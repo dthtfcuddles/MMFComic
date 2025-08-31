@@ -1,6 +1,13 @@
 <!--
 
+
     document.write("<a href='https://www.foxglovecomics.com'>Foxglove Comics</a><br/>");
+
+    document.write("<table style='width: 80%; margin-left:auto; margin-right:auto;'>");
+    document.write("<tr style='height: 390px;'>");
+    document.write("<td style='text-align: center; padding-top: 5px; width:100%; vertical-align:top;'><a href='https://www.foxglovecomics.com'><img src='/your_content/images/othercomics/FoxgloveFullLogo.jpg' /></td>");
+    document.write("</tr>");
+    document.write("</table>");
 
     document.write("<table style='width: 80%; margin-left:auto; margin-right:auto;'>");
     document.write("<tr style='height: 150px;'>");
