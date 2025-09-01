@@ -7,14 +7,6 @@
        next line is added to the end. #}
     {{- super() }}
 
-    <meta property="og:title" content="MMF - {{ page_title }}" />
-    <meta property="og:description" content="{{ post_html }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://mmfcomic.com/" />
-    <meta property="og:image" content="https://mmfcomic.com/your_content/images/preview_image.png" />
-    <meta property="og:image:width" content="100px" />
-    <meta property="og:image:height" content="100px" />
-
     <link rel="next" href="{{ comic_base_dir }}/comic/{{ next_id }}/">
     <link rel="stylesheet" type="text/css" href="{{ base_dir }}/comic_git_engine/css/comic.css">
 {%- endblock %}
