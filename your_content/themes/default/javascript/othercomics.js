@@ -14,7 +14,7 @@
     document.write("<tr style='height: 150px;'>");
     document.write("<td style='text-align: center; padding-top: 5px; width:50%; vertical-align:top;'><a href='https://www.mothorialcomic.com/'><img src='/your_content/images/othercomics/MothorialNormal.jpg' /></a></td>");
     document.write("<td style='text-align: left;  padding-top: 5px; padding-left: 5px; vertical-align:top;'>");
-    document.write("<a href='https://tapas.io/series/PHTR6G'><img src='/your_content/images/othercomics/PreenyNormal.jpg'></a>");
+    document.write("<a href='https://www.preenycomic.com'><img src='/your_content/images/othercomics/PreenyNormal.jpg'></a>");
     document.write("</td>");
     document.write("</tr>");
     document.write("<tr style='height: 150px;'>");

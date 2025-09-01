@@ -41,9 +41,11 @@
             <img id="banner-img" alt="banner" src="/your_content/images/banner.png">
         </a>
     </div>
-    <div id="links-bar">
 
-<a class="link-bar-link" href="/">Home</a>
+    <div id="links-bar">
+        <!-- Links -->
+
+        <a class="link-bar-link" href="/">Home</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/chapters/">Chapters</a>
         <span class="link-bar-separator">|</span>
@@ -51,18 +53,18 @@
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/cast/">Cast</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/infinite_scroll/">Infinite Scroll</a>
-        <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/archive/">Archive</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/voyages/">Voyages of the Odyssey</a>
+        <span class="link-bar-separator">|</span>
+        <a class="link-bar-link" href="/extracomics/">Other works</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="https://www.patreon.com/posts">Patreon</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/credits/">Credits</a>
 
-    </div>
 
+    </div>
 
 
 <div align="left">

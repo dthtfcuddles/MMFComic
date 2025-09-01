@@ -41,8 +41,11 @@
             <img id="banner-img" alt="banner" src="/your_content/images/banner.png">
         </a>
     </div>
+
     <div id="links-bar">
-<a class="link-bar-link" href="/">Home</a>
+        <!-- Links -->
+
+        <a class="link-bar-link" href="/">Home</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/chapters/">Chapters</a>
         <span class="link-bar-separator">|</span>
@@ -50,17 +53,19 @@
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/cast/">Cast</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/infinite_scroll/">Infinite Scroll</a>
-        <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/archive/">Archive</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/voyages/">Voyages of the Odyssey</a>
+        <span class="link-bar-separator">|</span>
+        <a class="link-bar-link" href="/extracomics/">Other works</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="https://www.patreon.com/posts">Patreon</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/credits/">Credits</a>
 
+
     </div>
+
 <div align="left">
 <p>One &ldquo;problem&rdquo; that I see with a lot of long-form webcomics is that sometimes they&rsquo;re unfriendly for people who come to read when the comic has been going for a long time. Having to read (literal) hundreds of pages to catch up just to make sense of what&rsquo;s going on is sometimes can feel like a chore, over all when the comic has fillers and lots of arcs going on, or if the reader&rsquo;s internet is not good. I&rsquo;ve been there.</p>
 <p>The idea behind this page is narrating what happened in each chapter, so any reader new to the comic can have an idea of what&rsquo;s going on in current chapters without needing to go all the way back. For that same reason, <strong>this page will have spoilers for each chapter.</strong> Don&rsquo;t go forward if you intend to read the past pages yourself! Use the &ldquo;<a href="/chapters/">Chapter list</a>&rdquo; link instead! Then you can go back and read the pages yourself at your own pace when you can/feel like it.</p>
