@@ -5,7 +5,7 @@
         "og:title": "Moumantai Motherfuckers",
         "og:description": "What is the meaning of family in a place as culturally diverse as... the entire universe? Follow the adventures of MMF, the fuzzy alien rock band in their journey, to learn exactly that!",
         "og:url": "https://mmfcomic.com",
-        "og:image": "your_content/images/logo.png",
+        "og:image": "your_content/images/logo.png"
     },
     "comic": {
         "og:type": "article",
@@ -14,7 +14,7 @@
         "og:description": "_post_text",
         "og:url": "_url",
         "og:image": "_thumbnail",
-        "og:image:alt": "_alt_text",
+        "og:image:alt": "_alt_text"
     },
-    "latest": "comic",
+    "latest": "comic"
 }
