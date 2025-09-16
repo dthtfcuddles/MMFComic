@@ -16,5 +16,8 @@
         "og:image": "_thumbnail",
         "og:image:alt": "_alt_text"
     },
-    "latest": "comic"
+
+    "latest": {
+       "_inherits": "comic" 
+    }
 }
