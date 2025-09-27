@@ -58,7 +58,7 @@
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/extracomics/">Other works</a>
         <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="https://www.patreon.com/posts">Patreon</a>
+        <a class="link-bar-link" href="https://www.patreon.com/MMFComic">Patreon</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/credits/">Credits</a>
 
