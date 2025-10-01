@@ -205,7 +205,7 @@ The winner takes all</p>
 
 <p>Arc 1: Babupekkakerok</p>
 <h2>The End</p>
-<p><img src="/your_content/images/voyages/chUVZ9M.png"><h3><strong>The story of the Odyssey will return in Arc 2.</strong></h3></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT><h3><strong>The story of the Odyssey will return in Arc 2.</strong></h3></p>
 <p><img src="/your_content/images/voyages/I4aZcwF.png" width="95%" alt="Picture of a foraging party with a cart, and some bunnies with spears." title="Foraging party."></p>
 
 <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

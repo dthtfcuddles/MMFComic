@@ -107,7 +107,7 @@ Version: 1.26.10.8 (manual)<br/></td>
 
 <p>Settling in to review the files the Avali elder started to formulate a plan for how to deal with this upcoming meeting between Selenu and the military, especially Admiral Jerak.</p>
 
-<p><img src="/your_content/images/voyages/chUVZ9M.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 
 <p>Ki was walking through the halls of the shipyard administration block looking for the others, having tried four rooms without success. Like every room on the station it was just one of the numerous identical white walled chambers labelled with a number and a letter. Each room could be configured to serve a variety of purposes with different furniture that could be deployed from the walls or floors as needed. Each one came with a sheet of transparent aerogel glass that looked out at the construction cradle where the Odyssey was docked. </p>
 
@@ -157,7 +157,7 @@ Version: 1.26.10.8 (manual)<br/></td>
 
 <p>The twins nodded and fell in with Firi following Ki toward the shuttle bay as they went. It was going to be another interesting day in dry-dock at Protion.</p>
 
-<p><img src="/your_content/images/voyages/chUVZ9M.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 
 <p>The Odyssey was in the orbital equivalent to dry dock, clamped into the shipyard construction bay by a series of support girders. Entire sections of the hull had been removed and a veritable army of drones and shipwright Avai were swarming over the vessel, drifting in and out of the holes in the hull or clustering around machinery or the engines as they did various technical things.</p>
 
@@ -189,7 +189,7 @@ Version: 1.26.10.8 (manual)<br/></td>
 
 <p>Ifelse laughed and fed Taran directions to the new environmental control room so they could get to work, it was going to be interesting to see if these new systems could cope with the massive differences in temperatures.</p>
 
-<p><img src="/your_content/images/voyages/chUVZ9M.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 
 <p class="songlyrics">Illumination Towers<br/>
 The Directorate of International Affairs<br/>
