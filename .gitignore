@@ -11,3 +11,5 @@ your_content/extracomics/comics/ANewChance/Thumbs.db
 your_content/extracomics/comics/ANewChance/Thumbs.db:encryptable
 *.kate-swp
 your_content/voyages/comics/postedit
+*.db
+*.db:encryptable
