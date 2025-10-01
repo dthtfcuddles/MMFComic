@@ -37,7 +37,7 @@
 <p>“I’m listening,” Ki said now curious, he sounded honestly surprised the plan wasn’t, ‘blow them all up,’ “What’s the plan?”</p>
 <p>“Not over the com, just to be sure. But first we confirm what we suspect, go grab Taran and the orbital drone and find out what they are counting and if  you can who they are sending the info to, I’ll be done with the turrets in about an hour.”</p>
 <p>“Ok Firi, see you soon,” Ki’s camera feed and comm line closed and Firi hurried on toward the next turret. She’d finish securing Seinu’s base camp and then go see what the boys had discovered. She was pretty sure she knew the answer, but despite what everyone believed she didn’t always solve every problem with grenades (even if that was the most fun way to do it); sometimes you had to be sneaky to cause the most disruption.</p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 <p>The base-camp was pretty much complete. Besides the medical tent where the injured Rayen was recovering, several more Avali tents had been built. Bright white, orange and yellow nano-fibre structures; sleeping, storage, crystal generator, computer cover and an office/work space tent. Aerogel light crystals had been attached to the top of each tent-pole so at night the whole encampment gave off a soft orange glow. The whole encampment was ringed by a safety net of non-lethal turrets to keep predators out up to a half a kilometre radius.</p>
 <p>It had been a couple of days since the disastrous first contact and Seinu had been restricting access to the surface on Firi’s advice. Beyond Firi he’d been keeping everyone else up on the Odyssey though he had relented and allowed them to use the teleporter. The camp now had a teleporter beacon flag set up to allow Ifelse to lock onto people in need of beaming back up. The shuttle was still parked nearby, it might  be useful for surveying, with the news on what the local drone population was doing Seinu didn’t feel comfortable unleashing even more drones onto the planet, it felt wrong to copy what they suspected the Horkers were doing.</p>
 <p>His “office” space was an open sided awning, four tent poles and a canvas roof that was open to the elements on three sides. The fourth side was taken up by the entrance to one of the tents where he had stored his equipment, crystalline computer server and other gear. He wanted to be visible to the bunnies but Firi insisted with the prolific dangers of the planet’s natural predators he at least not be entirely exposed even with the anti-predator defence grid.</p>
@@ -86,7 +86,7 @@
 <p>“Huh,” Firi said, “That… I never noticed that before.”</p>
 <p>“I didn’t either,” Seinu chirped, “Something else for me to record,” he turned to Thiln and spoke in bunny, “Thank you for showing us that, shall we go see Rayen now?”</p>
 <p>Thiln nodded and Seinu thanked his sister for the perimeter defences before leading the way across the camp toward the field hospital.</p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 <p>Placing his armoured hands on his hips Ki watched the two wyvern shaped drones at work. S4-R4B and P1-SC3S were pretty impressive, especially here in the zero-g environment outside the ship. They used their wings and the small gas-jets built into the tip of each wing-spar to manoeuvre, drifting through the void with ease, the aerogel covering the end of each tail opening up to reveal various tools and pieces of equipment. They also used their long, powerful legs and dextrous taloned feet to hold and manipulate materials as they worked.</p>
 <p>“They are very impressive,” Ki said, his voice being transmitted to Firi and Taran’s suits as the pair of Avali floated around the drones, “Why are they shaped like that? No one ever did explain.”</p>
 <p>“Oh,” Firi laughed, “The tech I used to create my babies originally comes from an alien species called the Natatostra, they look like this. In their own language and translated into ours they are wyverns so wyvern drones.”</p>
@@ -110,7 +110,7 @@
 <p>“Good on him,” Ki chirped, “When we are done here we should go check if he is ok?”</p>
 <p>“Good idea,” Taran agreed, “Let’s see if we can help S4 and P1 and get this ready to go then go pile on him, slime-bro probably needs all the hugs.”</p>
 <p>“Onwards,” Firi chirped and launched herself toward her drones, which Ki realised was probably going to slow things down. She was a bit too enthusiastic for zero-g construction but oh well he’d move along behind her and try to keep them on track.</p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 <p>Sher was humming to himself as he tuned his acoustic guitar by hand. As nice as his new Avali guitar was for live performances the yellow and white vampire bunny still liked to break out his traditional instruments whilst song making or just vibing. He had just got it to sound how he wanted and was strumming his way through an old earth ballard when the Iron’s AI pinged his visor.</p>
 <p><strong>Incoming Video Message</strong><br/>
 <strong>Sender:</strong> Seinu Trail</p>
@@ -154,4 +154,4 @@
 <p>But this… this was good but also a lot to process. Seinu had clearly gone and re-listened to Cattle after speaking to the matron. Now that the Avali could speak Bunny Song, the screaming voices in the backing track would make sense to him. The screaming, pleading, desperate shrieks of bunnies to their murderers echoing in song, the same tales Sher had heard since he was a child. The exact same story the old bunny had just told Seinu on the video.</p>
 <p>Sher hopped to his feet, “Never…” he brought his paws down on the guitar, stopping the song. He had a reply to record to Seinu but first he’d see if Rowi could make sense of this image file. “Motherfuckers, never ever a-fucking-gain!”</p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

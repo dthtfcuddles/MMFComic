@@ -130,7 +130,7 @@
 
 <p>The white and blue Avali chirped happily and headed back out toward her office where hopefully the rest of the pack would be gathering. They had a lot of work ahead of them to survey Salib-76T and only six months to do it in.</p>
 <p>	</p>
-<img src="https://i.imgur.com/3I9Gf5e.png">
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 
 <p>Firi… </p>
 <p>Firi Trail-Blazer-Master-of-Arms, or as her brothers jokingly called her, “Firi Trail-Blazer-Master of the Huge Explosions, we are so sorry”.</p>
@@ -201,7 +201,7 @@
 
 <p>“Of course,” Firi nudged him with her helmet affectionately and Ki allowed himself to be led off. He was flattered she’d gone to all this effort to make him armour and help him fit in, but this was still quite a lot to take in. For now he just wanted to focus on the vehicles and drones that made up the survey squad. They’d be starting the full survey in earnest soon, peeling back the curtain to expose the secrets of Salib-76T. That would mean using these shiny new survey vehicles for the first time and no new system worked flawlessly the first time. There would be mechanical problems that he could apply himself to fixing and troubleshooting and show… show the pack that he could be useful, that he wasn't just a useless drunkard.</p>
 
-<p><img src="https://i.imgur.com/3I9Gf5e.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 
 <div class="reportwindow">
 <p><h1>Planetary Survey of the Salib-76T system</h1></p>
@@ -335,4 +335,4 @@ Planet:</strong> 76T-KaTa: Lepeklew</p>
 
 <p>Their first solar system survey and it had been a massive success; not only had they proven the concept behind the Odyssey’s mission but they had show-cased and utilised the full skill of the pack, including Ki and all their new equipment. It was just the sort of success they needed, now they just had to broker peace between some upset governments, which Chantelle was sure would be a walk in the park for Seinu.</p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

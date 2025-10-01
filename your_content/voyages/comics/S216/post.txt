@@ -175,4 +175,4 @@
 <p>The call ended and Cri chirped in a panic and started to download books, he’d been so distracted reading he hadn’t filled his download quota! Chirping and muttering under his breath the bunny suppressed another yawn and started to download books. He had to fill his data chip with as many interesting titles as he could!
 </p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

@@ -70,7 +70,7 @@
 </p>
 <p>Chantelle nodded and closed down the images, “Ok, speak to you in a bit sis, lets thwart this fuckers plan.”
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>Curled up in the primary computer work-shop under a thick, hand-knitted poncho Taran was examining the data-slate Seinu had brought back at Chantelle’s insistence from his meeting with the Farndosian. His workshop was freezing, about -60c to assist in keeping the various half built, disassembled and repaired computer circuits and crystals at a safe and secure temperature.
 </p>
@@ -114,7 +114,7 @@
 </p>
 <p>“Fear not, I won’t let him try to fix this himself or it will just go horribly wrong, see you in a bit Taran.”
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>“The report from the Ng'drakk pack has confirmed what your drone reported,” Ck'akk said, the Director's image on the holoscreen sounded and looked serious, “I’ve reviewed your plan Seinu, it's risky.”
 </p>
@@ -238,7 +238,7 @@
 </p>
 <p>Seinu laughed and started to focus his thoughts on his internal nanites, preparing to trigger the shift back to Avali, this was not how he had expected today to go. Tonight he’d go on a date with a cute pair of identical twins and tomorrow… Tomorrow he’d try and save a world.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>Sitting in his office the next morning Seinu was at his desk, the Avali playing idly with two strands of long fur, braiding them together slowly. One of them was copper coloured, the other was grey, two tufts of fur from each of the twins tails. They had given them to him that morning before they went to training and in return Seinu was missing two of the large pin feathers from his wing-arms. Which had taken some nanites engineering to make them lock into feather shape and stay that way.
 </p>
@@ -285,4 +285,4 @@
 <p>His siblings left and Seinu turned back to his desk as the built in terminal chimed, informing him that Ambassador F’rarrk was onboard with the plan. A second chime was a confirmation from Embassy T’lorp and after five more minutes a message slithered in from the Ng'drakk pack that Dalant had agreed. Taking a deep breath Seinu deleted the messages and left his office, he had a lot of work to do.
 </p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

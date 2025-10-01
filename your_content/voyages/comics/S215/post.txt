@@ -100,7 +100,7 @@
 </p>
 <p>The four of them settled down to discuss Seinu's plan, working through the points and clauses together. Seinu was determined to build something good out of the aftermath of this mess.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>Sitting in her chair on the bridge Selenu monitored the departing Horker fleet, the final ships were sliding into formation around the flagship. They hung for a moment and then their warp drives activated, the lime green Avali’s instruments registered the fabric of the universe being twisted by the mass density of such a huge fleet warping at once; then they were gone.
 </p>
@@ -154,7 +154,7 @@
 </p>
 <p>Selenu smiled at her sister then left the bridge, heading for her nearby office to call Avalon and talk to the Director, it had certainly been an exciting few days.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>Yusarf paused outside the Captain's door and pulled his uniform straight, the sleek, nano-weave fabric in the navy blue colours of the Illuminate Navy fit perfectly. It combined both torso covering and knee length kilt into one garment; it lacked sleeves but had a built in poncho covering that draped across his arms to the elbows without impeding his wing feathers.
 </p>
@@ -207,4 +207,4 @@
 <p>Yusarf smiled and nodded, offering her his arm, “Dinner sounds good to me, shall we?” she nodded and with the prospect of a pleasant evening ahead of him mostly free of politics for the first time in years, the Major headed off for dinner before he had to return to the grind.
 </p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

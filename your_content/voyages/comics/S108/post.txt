@@ -61,7 +61,7 @@
 <p>“How rude! Seinu, tell Ki I don’t pick stupid clothing.”</p>
 <p>“They aren’t stupid,” Seinu said, “But they sure are tiresome, you always pick the most complicated things for us to wear.”</p>
 <p>Arguing and chirping with Seinu, Chantelle led the way out of the Bridge, Selenu watched them all leave and smiled softly to herself. Her pack was coming together around Ki very nicely, this was going to work out well.</p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png"></p>
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 <p>Riding the teleporter was always a rush, the beam of light from the Odyssey to the surface swept Seinu along with it. This was no Earth sci-fi teleporter breaking you apart into molecules, you remained intact and the beam created two points for just a second that were the same place. The light itself was a by-product of photons being agitated by the energy involved in creating a worm-hole for a split second between two locations. </p>
 
 <p>It was a very crude replica of the Kasvane fold-ways, the elder race who could open portals between galaxies with their gate technology. The best the Avali had been able to replicate was ship to surface teleporters, they took a huge amount of energy and could only maintain the wormhole for the few seconds it took to transport material or people from the ship to the surface or back again. It could also only move a certain amount of mass, about five Avali or an equivalent mix of Avali and material. The top Avali scientists were still working on expanding, and improving the technology but so far they’d hit a bit of a brick wall; Avali tech lacked the power source and ability to create larger and more stable transit corridors. </p>
@@ -140,4 +140,4 @@
 <p>“Yeah you rest bro and reboot… Thiln he will wake up in about ten minutes I think, maybe thirty… I’ll be right out here if you need me,” Taran called back to the bunny then moved over to greet Fi and the others, calling out to them, “I… Oh stars, hello everyone! Come over here let’s talk crystal trades!”</p>
 <p>Taran settled down on a cushion and started to bring up a display of the various crystals the Odyssey carried, eyes drifting over the piles of trinkets filling the three large baskets with mounting excitement. Seinu would wake up in his own time, for now… for now he had Earth junk to trade for!</p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

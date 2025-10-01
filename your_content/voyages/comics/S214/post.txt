@@ -38,7 +38,7 @@
 </p>
 <p>For now he was just glad he was safe, despite all their planning and prep he hadn't quite been expecting that.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>In the end it took about two hours to safely extract Seinu from Homestead to the Odyssey. Once he was safely in the confines of the pack-tents in the snow-dome he’d been bundled under a big Avali hug by his entire family. It had been nice and helped him work through the emotions and terror at having been actually shot at. Most of his family had moved apart a bit but were still in the room, everyone was staying nearby as Seinu lay on a beanbag holding Cri and Cal in his arms whilst he rested his head in Selenu’s lap.
 </p>
@@ -78,7 +78,7 @@
 </p>
 <p>Seinu nodded, hugged Selenu one last time before he headed off, he needed some more time to process what had happened and plan for what was going to happen next.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>“We do not accept your assertion that the mineral surveys we have been supplied are falsified, your blatant attempt to keep the planet's mineral wealth to yourself is sickening.”
 </p>
@@ -150,7 +150,7 @@
 </p>
 <p>Seinu nodded and shut down the call with Homestead, closing his eyes he let out a deep breath before speaking, “Ifelse, connect me to Avalon on the Quantum-Nexus link, get the Director online as quickly as possible.”
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>UR-87g-Alpha fell behind as the Odyssey powered into warp, the star Homestead station orbited left behind them as they raced away at light speed. Cal watched the stars whirl into blue shift as the ship twisted the fabric of the universe to move faster than light, ripping the mundane laws of physics apart to propel them at impossible speeds.
 </p>
@@ -192,7 +192,7 @@
 </p>
 <p>“You got it,” Cal smiled and hurried off to find Cal. It was going to be interesting to have so many different Avali visiting.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>The Armada raced through space, the pitiful ball of rock it had been interdicting for the past month was behind them. Solanta the Cultarvian agricultural world had been a stepping stone, a convenient reason to keep his fleet in the sector so it was ready to move when the real prize became available, A month of being the “good samaritan” was worth the tedium to seize S’Grael University. The Armada had been running the quarantine blockade for the past month after the “convenient” outbreak of a new variant of flu. But now his agents had manipulated events into place for them to make their move.
 </p>
@@ -305,4 +305,4 @@
 <p>The King then swept off the bridge, he was furious at being thwarted but he would recover. He had plans within plans, this scheme may have come undone but it all played into his future schemes, he would be victorious in the end and then… then one day, Seinu Trail would be dinner with a side order of bunnies.
 </p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

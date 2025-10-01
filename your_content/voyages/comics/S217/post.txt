@@ -82,7 +82,7 @@
 </p>
 <p>Seinu bowed and headed for the door. It might be years before he saw them in person again but he had three new friends and allies to call upon. The image of the Avali was solid and secure with all three of their governments too. What nearly saw three trading partners ripped apart by war and turned into a solid alliance. It had been a good trip but now it was time to return to the Odyssey and speak to Director Ck’akk with a final report of how it had all gone down.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p class="songlyrics">Illumination Towers<br/>The Directorate of International Affairs<br/>Director Ck'akk's Office: 90th floor
 </p>
@@ -190,7 +190,7 @@
 </p>
 <p>Ck’akk smiled and let herself be dragged off to lunch, Galactic Diplomacy could wait whilst they ate and spent some time together as a pack.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 <p>As the hologram of Ck’akk and her pack blinked off Seinu sighed and flopped back on his beanbag, he kicked his feet in the air and chirped, “We did it, whew.”
 </p>
@@ -266,10 +266,10 @@
 </p>
 <p> Seinu smiled and closed his eyes, lying back between his family, listening to them all start to chirp and argue and call out ideas for what the perfect Ski Lodge should have. It was good, everything was just as it should be, they were together with another victory under their belt.
 </p>
-<p><img src="https://i.imgur.com/3I9Gf5e.png">
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT>
 </p>
 
 <h3>Voyages of the Odyssey - Arc 2: End</h3>
 <p><i>It will be continued in Arc 3</i></p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

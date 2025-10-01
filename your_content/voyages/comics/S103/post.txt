@@ -133,7 +133,7 @@ Being born to die!<br/>Born to die!<br/>Born to fucking die</p>
 
 <p>Seinu smiled and leant forward to listen to Taran explain what the hell liquid data transfer was. It was turning into a really good evening, everyone was clearly enjoying both the station and the festival. It had been a great idea to divert here before they headed off into deep space. Seinu even had plans to slip off before they reached the hotel to enjoy some of Warfaisser’s night life before turning in, but for now he would just sit with his family and vibe the evening away with them all.</p>
 
-<p><br/><img src="https://i.imgur.com/3I9Gf5e.png"></p>
+<p><br/><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
 
 <p>Sat at a floating Avali style table at breakfast the next morning, Seinu was picking idly at his breakfast reading the information coming in across his visor when Selenu wandered in, his twin sister draped herself against him and ruffled his feathered mohawk.</p>
 
@@ -290,4 +290,4 @@ Being born to die!<br/>Born to die!<br/>Born to fucking die</p>
 
 <p>“Ok,” Eikomi nodded, “We’ll grab Sawi and Selenu, thank you,” with that the two Avali hurried off in different directions and the human Diane started off to track down her lost, lonely Avali crew-mate.</p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>

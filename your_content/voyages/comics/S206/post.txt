@@ -120,4 +120,4 @@
 <p>“I will,” Cal hugged them both again and scampered for the door, “I will stay in touch, have a good day now,” he waved, glad to have made some new friends and hurried out. He had to get a transport pod to Aurora Spires or he would be late and everyone would tell him off! At least he wasn’t cold now and he couldn't wait to talk to them again.</p>
 <p>It had been a good day out, he couldn’t wait to tell everyone all about it!</p>
 
-<a class="button" href="#top">Back to top</a> <a class="button" href="/MMFComic/voyages/archive/">Chapter index</a>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>
