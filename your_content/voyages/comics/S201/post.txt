@@ -50,35 +50,34 @@
 Odyssey Class Exploration Vessel<br/>
 Assigned to the Trail pack:<br/><br/>
 
-Crew<br/>
-======<br/>
+<h2>Crew</h2>
 
 <table style="width: 100%; border-style:solid 2x; border-color: #333333; padding:5px;">
 <tr style="height: 100px;">
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/eQSKaWo.png"><br/>Selenu Trail-Guides-by-Wandering<br/>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/eQSKaWo.png"><br/><h4>Selenu Trail-Guides-by-Wandering</h4><br/>
 Trail Pack-Leader<br/>
 Captain of the AEV Odyssey</td>
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/EKuttuu.png"><br/>Seinu Trail-Voice-of-Settlement-and-Accord<br/>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/EKuttuu.png"><br/><h4>Seinu Trail-Voice-of-Settlement-and-Accord</h4><br/>
 Illuminate Diplomat<br/>
 The Russet (Peace Bringer)</td>
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/1cNzxb3.png"><br/>Firi Trail-Blazer-Master-of-Arms<br/>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/1cNzxb3.png"><br/><h4>Firi Trail-Blazer-Master-of-Arms</h4><br/>
 Diplomatic Bodyguard<br/>
 AEV Odyssey 1st Officer & Security Chief</td>
 </tr>
 <tr style="height: 100px; background-color: #333333;">
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/Dtyr8pp.png"><br/>Chantelle Trail-Locator-of-Worlds<br/>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/Dtyr8pp.png"><br/><h4>Chantelle Trail-Locator-of-Worlds</h4><br/>
 Diplomatic Attache and Secretary<br/>
 AEV Odyssey Exploration Chief<br/><br/><br/>
 </td>
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/JX8irFK.png"><br/>Ki Trail-Fixer-of-Gears<br/>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/JX8irFK.png"><br/><h4>Ki Trail-Fixer-of-Gears</h4><br/>
 Diplomatic Machinery Advisor<br/>
 AEV Odyssey Senior Mechanic</td>
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/8fnxHtl.png"><br/>Taran Trail-Artificer-of-Synthetic-Life<br/>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/8fnxHtl.png"><br/><h4>Taran Trail-Artificer-of-Synthetic-Life</h4><br/>
 Diplomatic Technical Advisor<br/>
 AEV Odyssey Chief Engineer.</td>
 </tr>
 <tr style="height: 100px;">
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/kZu2awd.png"><br/>Cri & Cal<br/>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/kZu2awd.png"><br/><h4>Cri & Cal</h4><br/>
 Civilians from Babupekkakerok<br/>
 Vampire Bunnies<br/>
 Information Pending.</td>
