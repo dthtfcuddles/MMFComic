@@ -82,18 +82,18 @@ AEV Odyssey Chief Engineer.</td>
 Civilians from Babupekkakerok<br/>
 Vampire Bunnies<br/>
 Information Pending.</td>
-<td style="text-align: left; padding-top: 10px; width:200px; vertical-align:top; background-color:#333333;">Ifelse (Artificial Intelligence)<br/>
+<td style="text-align: left; padding-top: 10px; width:200px; vertical-align:top;">&nbsp</td>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><strong>Ifelse (Artificial Intelligence)</strong><br/>
 AI of the AEV Odyssey<br/><br/>
-Base module: None<br/>
-Knowledge nodes: base, nexus_base, nexus_ext1, nexus_tech, nexus_med, tts_adv, lang_val, lang_milky, lang_teras, lang_factor, lang_scr, lang_super<br/>
-Gather data sampling: Yes<br/>
-Virtualization: Yes<br/>
-DSC_64: No.<br/>
-Core handle: Complete<br/>
-Security modules: [Reserved]<br/>
-Arch_compat: 256-bit, 128-bit*, 64-bit, 48-bit, 32-bit, 16-bit, 12-bit, 8-bit<br/>
-Version: 1.26.10.8 (manual)<br/></td>
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;">&nbsp</td>
+<strong>Base module:</strong> None<br/>
+<strong>Knowledge nodes:</strong> base, nexus_base, nexus_ext1, nexus_tech, nexus_med, tts_adv, lang_val, lang_milky, lang_teras, lang_factor, lang_scr, lang_super<br/>
+<strong>Gather data sampling:</strong> Yes<br/>
+<strong>Virtualization:</strong> Yes<br/>
+<strong>DSC_64:</strong> No.<br/>
+<strong>Core handle:</strong> Complete<br/>
+<strong>Security modules:</strong> [Reserved]<br/>
+<strong>Arch_compat:</strong> 256-bit, 128-bit*, 64-bit, 48-bit, 32-bit, 16-bit, 12-bit, 8-bit<br/>
+<strong>Version:</strong> 1.26.10.8 (manual)<br/></td>
 </tr>
 </table>
 
