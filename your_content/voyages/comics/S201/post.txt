@@ -52,38 +52,37 @@ Assigned to the Trail pack:<br/><br/>
 
 Crew<br/>
 ======<br/>
-<img src="/your_content/images/voyages/eQSKaWo.png" height="100" align="right">Selenu Trail-Guides-by-Wandering<br/>
+
+<table style="width: 100%;">
+<tr style="height: 100px;">
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/eQSKaWo.png"><br/>Selenu Trail-Guides-by-Wandering<br/>
 Trail Pack-Leader<br/>
-Captain of the AEV Odyssey
-<br/><br/><br/>
-
-<img src="/your_content/images/voyages/EKuttuu.png" height="100" align="right">Seinu Trail-Voice-of-Settlement-and-Accord<br/>
+Captain of the AEV Odyssey</td>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/EKuttuu.png" height="100" align="right"><br/>Seinu Trail-Voice-of-Settlement-and-Accord<br/>
 Illuminate Diplomat<br/>
-The Russet (Peace Bringer)<br/><br/><br/>
-
-
-<img src="/your_content/images/voyages/1cNzxb3.png" height="100" align="right">Firi Trail-Blazer-Master-of-Arms<br/>
+The Russet (Peace Bringer)</td>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/1cNzxb3.png" height="100" align="right"><br/>Firi Trail-Blazer-Master-of-Arms<br/>
 Diplomatic Bodyguard<br/>
-AEV Odyssey 1st Officer & Security Chief<br/><br/><br/>
-
-<img src="/your_content/images/voyages/Dtyr8pp.png" height="100" align="right">Chantelle Trail-Locator-of-Worlds<br/>
+AEV Odyssey 1st Officer & Security Chief</td>
+</tr>
+<tr style="height: 100px;">
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/Dtyr8pp.png" height="100" align="right"><br/>Chantelle Trail-Locator-of-Worlds<br/>
 Diplomatic Attache and Secretary<br/>
 AEV Odyssey Exploration Chief<br/><br/><br/>
-
-<img src="/your_content/images/voyages/JX8irFK.png" height="100" align="right">Ki Trail-Fixer-of-Gears<br/>
+</td>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/JX8irFK.png" height="100" align="right"><br/>Ki Trail-Fixer-of-Gears<br/>
 Diplomatic Machinery Advisor<br/>
-AEV Odyssey Senior Mechanic<br/><br/><br/>
-
-<img src="/your_content/images/voyages/8fnxHtl.png" height="100" align="right">Taran Trail-Artificer-of-Synthetic-Life<br/>
+AEV Odyssey Senior Mechanic</td>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/8fnxHtl.png" height="100" align="right"><br/>Taran Trail-Artificer-of-Synthetic-Life<br/>
 Diplomatic Technical Advisor<br/>
-AEV Odyssey Chief Engineer.<br/><br/><br/>
-
-<img src="/your_content/images/voyages/kZu2awd.png" height="100" align="right">Cri & Cal<br/>
+AEV Odyssey Chief Engineer.</td>
+</tr>
+<tr style="height: 100px;">
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/voyages/kZu2awd.png" height="100" align="right"><br/>Cri & Cal<br/>
 Civilians from Babupekkakerok<br/>
 Vampire Bunnies<br/>
-Information Pending.<br/><br/><br/><br/>
-
-Ifelse (Artificial Intelligence)<br/>
+Information Pending.</td>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;">Ifelse (Artificial Intelligence)<br/>
 AI of the AEV Odyssey<br/>==========<br/>
 Base module: None<br/>
 Knowledge nodes: base, nexus_base, nexus_ext1, nexus_tech, nexus_med, tts_adv, lang_val, lang_milky, lang_teras, lang_factor, lang_scr, lang_super<br/>
@@ -93,7 +92,10 @@ DSC_64: No.<br/>
 Core handle: Complete<br/>
 Security modules: [Reserved]<br/>
 Arch_compat: 256-bit, 128-bit*, 64-bit, 48-bit, 32-bit, 16-bit, 12-bit, 8-bit<br/>
-Version: 1.26.10.8 (manual)<br/>
+Version: 1.26.10.8 (manual)<br/></td>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;">&nbsp</td>
+</tr>
+</table>
 
 
 </p>
