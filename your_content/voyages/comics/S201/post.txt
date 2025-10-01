@@ -52,33 +52,33 @@ Assigned to the Trail pack:<br/><br/>
 
 Crew<br/>
 ======<br/>
-<img src="https://i.imgur.com/eQSKaWo.png" height="100" align="right">Selenu Trail-Guides-by-Wandering<br/>
+<img src="/your_content/images/voyages/eQSKaWo.png" height="100" align="right">Selenu Trail-Guides-by-Wandering<br/>
 Trail Pack-Leader<br/>
 Captain of the AEV Odyssey
 <br/><br/><br/>
 
-<img src="https://i.imgur.com/EKuttuu.png" height="100" align="right">Seinu Trail-Voice-of-Settlement-and-Accord<br/>
+<img src="/your_content/images/voyages/EKuttuu.png" height="100" align="right">Seinu Trail-Voice-of-Settlement-and-Accord<br/>
 Illuminate Diplomat<br/>
 The Russet (Peace Bringer)<br/><br/><br/>
 
 
-<img src="https://i.imgur.com/1cNzxb3.png" height="100" align="right">Firi Trail-Blazer-Master-of-Arms<br/>
+<img src="/your_content/images/voyages/1cNzxb3.png" height="100" align="right">Firi Trail-Blazer-Master-of-Arms<br/>
 Diplomatic Bodyguard<br/>
 AEV Odyssey 1st Officer & Security Chief<br/><br/><br/>
 
-<img src="https://i.imgur.com/Dtyr8pp.png" height="100" align="right">Chantelle Trail-Locator-of-Worlds<br/>
+<img src="/your_content/images/voyages/Dtyr8pp.png" height="100" align="right">Chantelle Trail-Locator-of-Worlds<br/>
 Diplomatic Attache and Secretary<br/>
 AEV Odyssey Exploration Chief<br/><br/><br/>
 
-<img src="https://i.imgur.com/JX8irFK.png" height="100" align="right">Ki Trail-Fixer-of-Gears<br/>
+<img src="/your_content/images/voyages/JX8irFK.png" height="100" align="right">Ki Trail-Fixer-of-Gears<br/>
 Diplomatic Machinery Advisor<br/>
 AEV Odyssey Senior Mechanic<br/><br/><br/>
 
-<img src="https://i.imgur.com/8fnxHtl.png" height="100" align="right">Taran Trail-Artificer-of-Synthetic-Life<br/>
+<img src="/your_content/images/voyages/8fnxHtl.png" height="100" align="right">Taran Trail-Artificer-of-Synthetic-Life<br/>
 Diplomatic Technical Advisor<br/>
 AEV Odyssey Chief Engineer.<br/><br/><br/>
 
-<img src="https://i.imgur.com/kZu2awd.png" height="100" align="right">Cri & Cal<br/>
+<img src="/your_content/images/voyages/kZu2awd.png" height="100" align="right">Cri & Cal<br/>
 Civilians from Babupekkakerok<br/>
 Vampire Bunnies<br/>
 Information Pending.<br/><br/><br/><br/>
@@ -105,7 +105,7 @@ Version: 1.26.10.8 (manual)<br/>
 
 <p>Settling in to review the files the Avali elder started to formulate a plan for how to deal with this upcoming meeting between Selenu and the military, especially Admiral Jerak.</p>
 
-<p><img src="https://i.imgur.com/chUVZ9M.png"></p>
+<p><img src="/your_content/images/voyages/chUVZ9M.png"></p>
 
 <p>Ki was walking through the halls of the shipyard administration block looking for the others, having tried four rooms without success. Like every room on the station it was just one of the numerous identical white walled chambers labelled with a number and a letter. Each room could be configured to serve a variety of purposes with different furniture that could be deployed from the walls or floors as needed. Each one came with a sheet of transparent aerogel glass that looked out at the construction cradle where the Odyssey was docked. </p>
 
@@ -155,7 +155,7 @@ Version: 1.26.10.8 (manual)<br/>
 
 <p>The twins nodded and fell in with Firi following Ki toward the shuttle bay as they went. It was going to be another interesting day in dry-dock at Protion.</p>
 
-<p><img src="https://i.imgur.com/chUVZ9M.png"></p>
+<p><img src="/your_content/images/voyages/chUVZ9M.png"></p>
 
 <p>The Odyssey was in the orbital equivalent to dry dock, clamped into the shipyard construction bay by a series of support girders. Entire sections of the hull had been removed and a veritable army of drones and shipwright Avai were swarming over the vessel, drifting in and out of the holes in the hull or clustering around machinery or the engines as they did various technical things.</p>
 
@@ -187,7 +187,7 @@ Version: 1.26.10.8 (manual)<br/>
 
 <p>Ifelse laughed and fed Taran directions to the new environmental control room so they could get to work, it was going to be interesting to see if these new systems could cope with the massive differences in temperatures.</p>
 
-<p><img src="https://i.imgur.com/chUVZ9M.png"></p>
+<p><img src="/your_content/images/voyages/chUVZ9M.png"></p>
 
 <p class="songlyrics">Illumination Towers<br/>
 The Directorate of International Affairs<br/>

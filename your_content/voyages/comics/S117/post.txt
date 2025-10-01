@@ -71,7 +71,7 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100px;"><img src="https://i.imgur.com/oLhcgYm.png" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
+<td style="width: 100px;"><img src="/your_content/images/albumart/2011Foreigners.jpg" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
 <td style="width: 100%;">Foreigners<br /><br />
 The first album of this band was a failure on its planet of origin, with little to no sales.<br />
 However, once they started playing in space, they re-released it and it sold quite well. The duration of this album is quite short, lasting less than 30 minutes, and it has a very raw, untidy sound very similar to the Earth music style named “Punk rock”.
@@ -85,7 +85,7 @@ However, once they started playing in space, they re-released it and it sold qui
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100px;"><img src="https://i.imgur.com/oG8PlDt.png" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
+<td style="width: 100px;"><img src="/your_content/images/albumart/2013Extensions.jpg" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
 <td style="width: 100%;">Extensions<br /><br />
 The second album of the band Moumantai Motherfuckers, released in the Earth year 2013, wasn’t a huge success but it got some fans. They kept the dirty music style, but the instruments started evolving in a more “metal direction”, adding some extra instruments and clean, high pitched singing.</p>
 </td>
@@ -98,7 +98,7 @@ The second album of the band Moumantai Motherfuckers, released in the Earth year
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100px;"><img src="https://i.imgur.com/azXNwDX.png" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
+<td style="width: 100px;"><img src="/your_content/images/albumart/2015Coordinates.jpg" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
 <td style="width: 100%;">Coordinates<br /><br />
 This album was released two years after the date they wanted thanks to a problem with a record studio (an Earth type of corporation whose job is to finance, promote a bands albums and book gigs), who had sent them to play at the Horker homeland. They managed to escape, ditched the record studio and released the album by themselves with five additional tracks, one of them being the famous “Cattle” that they played at the Ultra Music Festival 57.
 </td>
@@ -111,7 +111,7 @@ This album was released two years after the date they wanted thanks to a problem
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100px;"><img src="https://i.imgur.com/BTsR2i1.png" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
+<td style="width: 100px;"><img src="/your_content/images/albumart/2017RoadsofVoid.jpg" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
 <td style="width: 100%;">Roads of Void<br /><br/>
 The band started finding their definitive sound, as this album sounds like a polished followup to the previous one. It includes heavy distorted guitars, fast drumming and the bass lines tend to be bouncy and funky, the signature sound of the band’s bassist D. This album gained success because they practically gave it away for free, and it became so popular on Earth that they were invited to one of their big arena concerts, the “Awaken Open Air”.
 </td>
@@ -124,7 +124,7 @@ The band started finding their definitive sound, as this album sounds like a pol
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100px;"><img src="https://i.imgur.com/FbbGBG1.png" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
+<td style="width: 100px;"><img src="/your_content/images/albumart/2021CentiloquiumCoven.jpg" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
 <td style="width: 100%;">Centiloquium Coven<br /><br />
 This album was released the day before the band performed at the Ultra Music Festival, held annually on popular tourist destination Warfaisser Station. According to them the title makes no sense, they just picked random words in Earthling.<br />
 They re-recorded this album in Avali Core and sold a very limited batch of copies of it in some Avali colonies; its physical version is very hard to find, because unlike the “normal” version that’s common, apparently they only printed 300 copies of the version in Core.<br />
@@ -138,7 +138,7 @@ They re-recorded this album in Avali Core and sold a very limited batch of copie
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100px;"><img src="https://i.imgur.com/ewVf20u.png" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
+<td style="width: 100px;"><img src="/your_content/images/albumart/2022LiveattheUltraMusicFestival.jpg" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
 <td style="width: 100%;">Live at the Ultra Music Festival<br /><br />
 The band released this album a few months after the concert; it contains the whole performance and it was released in both audio and video formats. The Avali version of this album gives you an online code to download extra footage of the band practising and also commenting on the songs they filled their set list with plus why they chose them. <br />
 </td>
@@ -151,7 +151,7 @@ The band released this album a few months after the concert; it contains the who
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100px;"><img src="https://i.imgur.com/ew0CUtH.png" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
+<td style="width: 100px;"><img src="/your_content/images/albumart/2022Graveyard.jpg" style='height: 100%; width: 100px; object-fit: contain' align='left'></td>
 <td style="width: 100%;">Graveyard<br /><br />
 Info not available yet. Come back later.<br />
 </td>
