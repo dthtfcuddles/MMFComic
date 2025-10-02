@@ -120,6 +120,8 @@
 
 <h2>Read other comics!</h2>
 <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
+<h2>You can also join our Discord!</h2>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
 
 {%- endblock %}
 {%- block script %}
