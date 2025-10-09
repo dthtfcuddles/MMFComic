@@ -118,8 +118,13 @@
     {% include "navigation_bar.tpl" %}
     {% endif %}
 
-<br/>Do you like what you read? Support us with a tip <a href="https://www.patreon.com/MMFComic/">on Patreon</a>!<br/>
-<a href="https://www.patreon.com/MMFComic/"><img src="/your_content/images/patreon.png"></a><br />
+<table style='width: 80%; margin-left:auto; margin-right:auto;'>
+<tr>
+<td style='text-align: center; padding-top: 5px; width:100%; vertical-align:top;'>Do you like what you read? <a href="https://www.patreon.com/MMFComic/" target="_blank">Support us with a tip on Patreon</a>!<br/>
+<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a>
+</td>
+</tr>
+</table>
 
 <h2>Read other comics!</h2>
 <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
