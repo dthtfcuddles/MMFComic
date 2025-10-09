@@ -118,6 +118,9 @@
     {% include "navigation_bar.tpl" %}
     {% endif %}
 
+<br/>Do you like what you read? Support us with a tip <a href="https://www.patreon.com/MMFComic/">on Patreon</a>!<br/>
+<a href="https://www.patreon.com/MMFComic/"><img src="/your_content/images/patreon.png"></a><br />
+
 <h2>Read other comics!</h2>
 <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
 <h2>You can also join <a href="https://discord.gg/FoxgloveComics">our Discord</a>!</h2>
