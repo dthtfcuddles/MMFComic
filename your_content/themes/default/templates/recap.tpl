@@ -213,7 +213,30 @@
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/14-00/00.png"></td>
 <td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 14: Junge</h2>
-<p>The recap of this chapter will come once Chapter 15 is posted.</p>
+<p>The chapter begins with D and Eikomi looking at the newly built dome village. Sawi compliments the buildings, calling them stylish. D tells Eikomi that they look like the houses of an anime named "Dragon Ball". Eikomi asks what's an anime. We next see that both Eikomi and D spent the next few days watching several anime, from Hunter X Hunter to Dragon Ball Z and even Made in Abyss.</p>
+
+<p>A while later we see D and Eikomi playing bass together, with D teaching her. It's during this practice that Eikomi asks D (now calling them by their real name, Daniel) about their past. The duo sits at a small cave entrance that overlooks the forest and has a great view of the two moons on the planet. D starts retelling how when they were born they weren't a wanted child. "I used to stare at the moon, at the stars, wondering if there was anyone in the universe who would tell my mom 'OK, you don't want him but I do'". Daniel then explains that after a while the comments about not being wanted became just noise, but that they always hated themselves. The small joy from watching Anime became one of their main reasons to live.</p>
+
+<p>After that, D explains that their dad left them when Daniel was 4 years old. That their mom was an affair and that their dad had gone back to their 'real' family. Eikomi then tells her side of her relationship with Daniel, from how she got surprised at D crying after getting gifts when they had first met (Chapter 4), to how she discovered the depth of D's problems when she saw their dad harassing them back at Warfaisser (Chapter 7). Then she tells Daniel that they <i>are</i> loved and wanted. Amidst all that, D remembered their sister, Rachel, who was actually a human. Rachel was cruel and used to break Daniel's toys for fun.</p>
+
+<p>The duo got up and returned to the cave, where a few vampire bunnies greeted them and called them friends. Daniel then explained that they have stopped believing people disliked them.</p>
+
+<p>Some days after that, D and Eikomi are playing videogames together, when they're called by Sawi. They go, and the Avali tells them that they got an invite to the next Ultra Music Festival at Warfaisser Station. After that, Eikomi holds Daniel's hands and asks them if she can be their girlfriend. Daniel, shyly, accepts.</p>
+
+<p>3 days later, when Daniel is waking up, they wonder if they're dreaming and then admit that no, that they aren't. 'I am not dreaming, and I love my family and my life now'.</p>
+
+<p>Rowi and Sher return from their small vacation. Sawi explains about the invitation to Warfaisser and then about the logistics of their next, more immediate planned show at the bunny planet. She also tells the band that they'll be getting new roadies soon, that Mekari is interviewing candidates already.</p>
+
+<p>For the next few days the planet suffers from a heavy blizzard mixed with a thunderstorm (something bunnies call "Screaming Snow"). It's then that D tells Eikomi that trusting others feels weird for them. And then D tells Eikomi that when they had just met, that they hated Rowi, thinking that he was just a rich kid who didn't know suffering, and how when they learned it wasn't the case, D started hating themselves for ever feeling like that.</p>
+
+<p>Finally, the chapter ends with the band going to see the stage for their show at BPE (the bunny planet) that is being built. After commenting on how big it was, the chapter ends with Roi taking Mekari and telling him that she thinks Sher hasn't realized how important this concert is going to be for the entire bunny species. That every bunny will be able to see what can be done if you leave your fears behind and follow your dreams.</p>
+</td>
+</tr>
+
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/15-00/00.png"></td>
+<td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 15: Bunnies Rise!</h2>
+<p>The recap of this chapter will come once Chapter 16 is posted.</p>
 </td>
 </tr>
 

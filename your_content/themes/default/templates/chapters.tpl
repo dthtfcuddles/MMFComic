@@ -170,6 +170,15 @@
 </td>
 </tr>
 
+<tr style="height: 150px;">
+<td style="text-align: center;"><a href="/comic/15-00/"><img height="90%" src="/your_content/comics/15-00/00.png" /> 15. Bunnies Rise!</a></td>
+<td style="text-align: left; padding-left: 10px;"><h2>Bunnies Rise!</h2>
+<p>An exclusive MMF show happens shortly after a few Avali packs arrive to Babupekkakerok.</p>
+<p><strong>Released:</strong> October 10th, 2025</p>
+</td>
+</tr>
+
+
 </tbody>
 </table>
 </div>
