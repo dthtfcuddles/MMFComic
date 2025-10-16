@@ -118,6 +118,9 @@
     {% include "navigation_bar.tpl" %}
     {% endif %}
 
+<h2>Join <a href="https://discord.gg/FoxgloveComics">our Discord</a>!</h2>
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
+<br/>
 <table style='width: 80%; margin-left:auto; margin-right:auto;'>
 <tr>
 <td style='text-align: center; padding-top: 5px; width:100%; vertical-align:top;'>Do you like what you read? <a href="https://www.patreon.com/MMFComic/" target="_blank">Support us with a tip on Patreon</a>!<br/>
@@ -128,8 +131,6 @@
 
 <h2>Read other comics!</h2>
 <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
-<h2>You can also join <a href="https://discord.gg/FoxgloveComics">our Discord</a>!</h2>
-<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
 
 {%- endblock %}
 {%- block script %}
