@@ -117,7 +117,7 @@
 <table style="width: 100%;">
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/mekari.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Mekari</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/01-06/">Page 6</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Mekari</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/01-06/">Page 6</a><br />
 <p>A sleriki (slime-based species) who joined the band after he saw one of their performances and now is the roadie boss; he is a diligent, hard working slime and incredibly loyal to the band who gave him this chance to live in space.</p>
 <p>Very gentle, sweet and soft spoken… but also very big, being around 7 meters tall (22 feet). His body has the consistency of ballistic gel, and as a slime he can make it harder or softer at will. This coupled with his extremely fast healing renders him immune to most kinds of ballistic or slicing weaponry, although he has a crippling weakness to ice that he has to overcome with a subdermal heating device. He also does not perceive the world through visual receptors, his vision is entirely heat based meaning he requires special equipment to read text on screens and struggles to comprehend the concept of colour.</p>
 <p>He developed a “best friends” relationship with Roi.</p>
@@ -125,7 +125,7 @@
 </tr>
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/roi.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Roi</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/02-06/">Page 21</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Roi</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/02-06/">Page 21</a><br />
 <p>Sher’s sister. She visited space before Sher did, managing to reach Earth and lived there (in England) for a whole year before coming back home. With a severe case of originally undiagnosed ADHD (that by now is medicated), she was clumsy at first and lost focus on things with extreme ease. Cheerful and always positive, she developed a “best friends” relationship with Mekari. Eventually she ended working as the head of security of the band.</p>
 </td>
 </tr>
@@ -137,31 +137,31 @@
 
 <table style="width: 100%;">
 <tr style="height: 100px;"><td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/sawi.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Sawi</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Sawi</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
 <p>A chill soul with very high work standards, she’s the closest to a cyborg that the pack has. With four of the most invasive body enhancements and modifications of the group (A computer processor and a storage drive inside of her head, with direct connection to her brain, cybernetic eyes and her blood has been replaced with an artificial substitute to endure extreme temperatures), she doesn’t need to rely on external hardware most of the time. Her computer additions make her extremely fast when she needs to run calculations or make decisions.</p>
 <p>Sawi is the leader of the pack, and the spokesperson when either Eikomi cannot do it or when the pack is holding direct communications with the Illuminate leaders. She also works as the manager of the band. She and Sher also have a “big sis/small brother” relationship.</p>
 </td></tr>
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/eikomi.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Eikomi</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Eikomi</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
 <p>The official spokesperson of the pack and second in charge, Eikomi has a deep love for languages and communication, with interspecies communication being one of her biggest interests. She loves reading stories, fanfiction and thanks to D’s influence watching anime.</p>
 <p>She likes to think of herself as a writer, having written several short stories (without much success). She has aspirations of becoming famous and loved everywhere someday. The tablet she wears on her left arm is very powerful and she uses it for everything, from checking maps to playing music. Outgoing and cheerful, she developed a warm relationship with Daniel that would eventually turn into a romantic partnership.</p>
 </td></tr>
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/naha.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Naha</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/04-04/">Page 63</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Naha</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/04-04/">Page 63</a><br />
 <p>Easygoing and nice, Naha loves videogames and has a small collection of them from all across the universe. As a kid he used to disassemble things belonging to the rest of the pack (and reassemble them afterwards). Today he’s an expert with hardware, and he’s responsible not only for the mining equipment, but the pack’s drones and robots too. He has built robots from scrap before, and while the pack doesn’t need them due to the much more advanced devices they get from the Illuminate, he still builds robots and drones just for fun.</p>
 <p>His favorite kinds of videogames are 2D platformers like Super Mario Bros, Prince of Persia or Commander Keen.</p>
 </td></tr>
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/kig.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Kig</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Kig</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
 <p>A member of the “Avali Defenders”, Kig is the guard of the pack, with not only deep knowledge about avali weaponry (including vehicles) and armor, but also handling connections with the Avali military given his background. He will always be ready to defend his pack from any enemy who happens to cross paths with them, no matter what or who it is.</p>
 <p>He’s not very talkative and enjoys not being the center of attention, usually staying silent and just listening, absorbing information and being ready in case anything important looks about to happen. He’s also often away training.</p>
 </td></tr>
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/kalani.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Kalani</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Kalani</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/04-06/">Page 65</a><br />
 <p>A workaholic bird who loves technology, computers, tablets, gadgets, etc. He also loves programming, to the point that several of the apps used by his pack were programmed by him. He often collaborates with Naha writing the code to control the drones and robots his brother builds.</p>
 <p>Thanks to Rowi he owns some Earth computers. Hacking and investigating them became one of his most favorite hobbies, and as part of said investigation, he started learning the programming languages “Python” and “C++”</p>
 </td></tr>
@@ -172,14 +172,14 @@
 <table style="width: 100%;">
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/khi.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Khi</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/02-06/">Page 21</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Khi</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/02-06/">Page 21</a><br />
 <p>Sher’s father and one of the Elders in Sher’s home village, while he’s afraid of space he’s permissive and lets his son and his daughter explore it at will.</p>
 <p>While his views are shaped by the recent Horker invasion that almost wiped out vampire bunnies for good, the one time he went to space to watch one of his son’s shows he mentioned that space wasn’t so bad and that he could even like it if he had been younger. He’s the voice of reason in his family and following the traditional vampire bunny hierarchy, its head.</p>
 </td>
 </tr>
 <tr style="height: 100px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/nau.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Nau</h3><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/02-06/">Page 21</a><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Nau</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/02-06/">Page 21</a><br />
 <p>Sher’s mother and one of the Elders in Sher’s village, she was terrified of space and hated it, being frustrated at the fact that both her son and her daughter actually love it. Her bitter attitude was just concealing her insecurity and fear for what could happen to her son and her daughter, but in reality she loved them with all she had. That attitude eventually softened up as time went on and she saw firsthand that aliens weren't always bad, but it looks like the permanent stress she's been suffering through her entire life has left a mark in her health.</p>
 <p>She actually likes both Rowi and Daniel, and she’s very thankful and happy with the fact that her son surrounded himself with good company.</p>
 </td>
