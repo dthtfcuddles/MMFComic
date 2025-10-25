@@ -1,0 +1,7 @@
+<b>La plancha:</b> La nave que transporta a la banda por el universo. Fabricada en Avalon, tiene un motor de alta eficiencia que se alimenta de hidrógeno. El interior de la nave es más grande de lo que parece desde afuera, tecnología adquirida de los Calaros. Tiene 5 cuartos, uno para cada miembro, uno para almacenamiento y un cuarto común con mesas y una cocina. La nave tiene además un dispositivo de camuflaje.
+
+Velocidad máxima normal: 3500Km/h. Encendedor de salto: 270 segundos. Camuflaje: 15 segundos de activación, 360 segundos de duración.
+
+<b>Sleriki:</b> Estas amigables criaturas vienen de un planetoide en la galaxia AB84-318T. Su pelaje y cabello esconden una anatomía basada en el limo (monstruos de gelatina). Capaces de endurecer o suavizar sus cuerpos a voluntad y sanar extremadamente rápido, las armas balísticas normales son inútiles contra ellos al no ser que sean de muy alto calibre. Debido a la composición de sus cuerpos tienen una debilidad absoluta hacia el frío y el hielo. Usualmente miden de 5 a 7 metros de altura.
+
+<b>Portátil:</b> Esta laptop sigue patrones de diseño terrícolas, pero no fue fabricada en la Tierra: Rowi la comisionó y fue hecha en Avalon, su planeta nativo. Además de su estabilidad, gracias en parte a su poderoso sistema operativo, puede conectarse al Avali Nexus (la internet de dicha especie) desde casi cualquier parte. La banda normalmente la utiliza para configurar y administrar los sonidos de la batería y el sintetizador de Rowi, junto con crear y usar "loops" de música en vivo.
