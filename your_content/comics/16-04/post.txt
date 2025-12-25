@@ -1,8 +1,7 @@
-<h3>htfcuddles</h3>
-
+htfcuddles:
 ow
 
-<h3>Russet</h3>
+Russet:
 
 Danger Predators: 0
 Mekari: 1
