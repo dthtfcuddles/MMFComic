@@ -131,13 +131,30 @@
 </tr>
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Roadie</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>******</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
+<p>To be revealed in a future chapter!</p>
+</td>
+</tr>
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>***</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
+<p>To be revealed in a future chapter!</p>
+</td>
+</tr>
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>***</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
+<p>To be revealed in a future chapter!</p>
+</td>
+</tr>
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>****</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
 <p>To be revealed in a future chapter!</p>
 </td>
 </tr>
 
 </table>
-
 
 <p class="infobox">Rowi&rsquo;s Pack</p>
 <p>Rowi&rsquo;s pack is a group of avali whose work discovering and overseeing mining operations lead them to be very high in the Avali pack hierarchy, with rumors that they could directly join the Illuminate (Avali&rsquo;s governing body) in the future. However, they don&rsquo;t act like that, or maybe aren&rsquo;t even aware, who knows. Like most Avali packs, they see each other as siblings.</p>
