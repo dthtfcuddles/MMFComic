@@ -180,7 +180,7 @@
 
 
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/15-00/"><img height="90%" src="/your_content/comics/16-00/00.png" /> 16. Dig</a></td>
+<td style="text-align: center;"><a href="/comic/16-00/"><img height="90%" src="/your_content/comics/16-00/00.png" /> 16. Dig</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Dig</h2>
 <p>A couple Avali along with Roi's foraging party go on a wild trip to learn about Babupekkakerok's wilderness.</p>
 <p><strong>Released:</strong> December 24th, 2025</p>
