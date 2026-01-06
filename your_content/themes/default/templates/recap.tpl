@@ -236,9 +236,25 @@
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/15-00/00.png"></td>
 <td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 15: Bunnies Rise!</h2>
-<p>The recap of this chapter will come once Chapter 16 is posted.</p>
+<p>The chapter begins with a few Avali talking about "the mission to Babupekkakerok, the bunny planet". The leader of these Avali, a military guy, explains that this is an uplift mission that will boost the standing of the Illuminate among the space coalitions. Upon arriving, the leaders of several different Avali packs introduce themselves to Sawi, Eikomi, Sher and Naha.</p>
+
+<p>Kig, the "silent brother" from Rowi's pack, introduces himself to the military leader, who in shock recognizes him as "The Stringed Nightmare", one of the fabled Avali Defenders. When one of the Avali asks who the Avali Defenders are, the others in shock comment "Where do you live that you've never heard of them?" and then explain that the Avali Defenders are a group of elite daredevils with skills beyond the skills of a normal soldier.</p>
+
+<p>Meanwhile, the band is practicing for their upcoming show on the bunny planet, testing the 3D projectors. It's then that one of the Avali from the scientist pack comes and asks MMF if they could give her an interview, and the band accepts. For a few weeks MMF stays busy and practicing constantly for the show. Finally, the big day comes, and right before they go onstage, they find out that the pirates; who alerted MMF to the Horker's plans back in chapter 11, have come to say "thank you" to the band and to watch the show.</p>
+
+<p>The show starts and during it several things happen: From Sher telling the bunnies about the Avali Friends coming to uplift the species, to Daniel trying to speak in Vampire Bunny Song without a translator and leading the bunny audience to sing with them. Rowi also makes some comments about Kirui, a member of his pack who perished two decades ago. Finally, when the show is nearly over, Sher talks to the bunnies, thanking everyone for coming, telling them about his story; How he left the planet and how his journey shaped everything, how he ended up in three families (His original bunny one, MMF and the Ouakkia Pack) and telling them that "We bunnies are smart, very very strong and we can do amazing things". After the final song, the band says goodbye. Before everyone leaves, however, there's a small surprise: A small band made only of vampire bunnies named "The Friends" with Avali harps and a drum come on stage and played a few songs, with Sher joining in with a couple near the end of their set. </p>
+
+<p>After the show ends, we see how it was being talked about in other places across the universe; including Earth, the Avali illuminate, the planet of the Unmizu and across space at large.</p>
 </td>
 </tr>
+
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/16-00/00.png"></td>
+<td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 16: Dig</h2>
+<p>The recap of this chapter will come once Chapter 17 is posted.</p>
+</td>
+</tr>
+
 
 </table>
 

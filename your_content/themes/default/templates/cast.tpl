@@ -129,6 +129,13 @@
 <p>Sher’s sister. She visited space before Sher did, managing to reach Earth and lived there (in England) for a whole year before coming back home. With a severe case of originally undiagnosed ADHD (that by now is medicated), she was clumsy at first and lost focus on things with extreme ease. Cheerful and always positive, she developed a “best friends” relationship with Mekari. Eventually she ended working as the head of security of the band.</p>
 </td>
 </tr>
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Roadie</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
+<p>To be revealed in a future chapter!</p>
+</td>
+</tr>
+
 </table>
 
 
