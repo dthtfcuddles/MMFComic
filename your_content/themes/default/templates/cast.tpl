@@ -70,13 +70,13 @@
 <p class="infobox">Rowi</p>
 <table style="width: 100%;">
 <tr style="height: 150px;">
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><img src="/your_content/images/cast/rowi.png" /><p>
+<td style="text-align: left; padding-top: 10px; width:450px; vertical-align:top;"><img src="/your_content/images/cast/rowi.png" /><p>
 <font color="#ff4400"><strong>Name: </strong></font> Rowi Ouakkia (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> Avali Core, Avali (Rowi&rsquo;s pack dialect), German, English, a bit of Spanish.<br /><font color="#ff4400"><strong>Role:</strong></font> Drummer<br /><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/01-01/">Page 1</a><br />
 <font color="#ff4400"><strong>Favorite music style:</strong></font> 80s/90s/early 2000s Pop music.<br />
 </p>
 </td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;">
+<td style="text-align: left; padding-left: 20px; vertical-align:top;">
 <p>Rowi is a dark grey, reddish pink and white Avali who came to Earth with the goal of studying its music culture. A good-natured raptor who became the drummer of the band. After settling in Berlin (Germany) for some years. Rowi got German citizenship in 2013, and in 2017 he returned to Protion (the moon he came from) taking Sher (who by then had become his boyfriend) with him.</p>
 <p>Rowi has a relatively broad knowledge of hacking and electronics, along with a master's degree in geology; studying music was meant to be just a hobby, and his actual formal job is acting as his pack’s geologist- a job he can mostly do remotely.</p>
 <p>While his home planet doesn’t pose any problem, Rowi’s vision has heavy problems with the light of other planets, including Earth. That’s where his glasses help. They essentially process images in real time and deliver a filtered video feed with brightness, color, contrast, etc. adjusted to match his eye tolerance, dulling down bright environments and enhancing dark ones. Without these glasses he’d be virtually blind in most of the universe.</p>
@@ -89,7 +89,7 @@
 
 <table style="width: 100%;">
 <tr style="height: 150px;">
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><img src="/your_content/images/cast/sher.png">
+<td style="text-align: left; padding-top: 10px; width:450px; vertical-align:top;"><img src="/your_content/images/cast/sher.png">
 <p>
 <font color="#ff4400"><strong>Name:</strong></font> Sher Ouakkia (on Earth: Sher B&ouml;hnchen)<br /><font color="#ff4400"><strong>Species:</strong></font> Vampire Bunny<br /><font color="#ff4400"><strong>Age:</strong></font> 25 GY (32 EY)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Pasta, punk rock, pretty colors, fractals and mirages<br /><font color="#ff4400"><strong>Dislikes:</strong></font> Pollution, tofu</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> Vampire Bunny Song, Avali Core, Avali (Rowi&rsquo;s pack dialect), Spanish, German, English, Italian, a bit of Finnish, a bit of Japanese.</div>
@@ -97,7 +97,7 @@
 <font color="#ff4400"><strong>Favorite music style:</strong></font> Hard rock and different kinds of metal.<br />
 </p>
 </td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;">
+<td style="text-align: left; padding-left: 20px; vertical-align:top;">
 <p>Sher is a vampire bunny. Sporting yellow and white fur, he wears an Avali visor most of the time, and also occasionally a hat and/or scarf. He’s a good natured boy who decided to visit Earth after his sister did; she gifted him a black colored acoustic guitar, with the picture of some palm trees in white that kicked off his interest into music. After a member of his foraging party was taken away by a predatory bird, he angrily decided to leave home and go visit Earth like his sister. He arrived on Earth in 2006 expecting just to be a visitor, but ended falling in love with the planet and decided to stay in it. He worked for a while at a small restaurant. He met Rowi in August 2007 who encouraged him to try to find a place to play his instrument.</p>
 <p>Sher used to be very shy with people he wasn’t acquainted with, but that has changed as his self confidence increased. He is the singer of the band. He also suffers stage fright to a degree but has managed to overcome and conquer most of it. He tends to be careful with what he says in interviews, but if he’s given wings, he can talk for hours about how much he loves his boyfriend and all the good things he sees in him, much to the poor Avali’s embarrassment.</p>
 <p>He has a big love for pasta, with gnocchi and lasagna being his absolute favorites. He can’t stand tofu; he really loves the flavor of the Sprite soda in Chile and his favorite Pokémon is Pikachu.</p>
@@ -110,13 +110,13 @@
 
 <table style="width: 100%;">
 <tr style="height: 150px;">
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><img src="/your_content/images/cast/daniel.png"><p>
+<td style="text-align: left; padding-top: 10px; width:450px; vertical-align:top;"><img src="/your_content/images/cast/daniel.png"><p>
 <font color="#ff4400"><strong>Name:</strong></font> Daniel Ouakkia<br /><font color="#ff4400"><strong>Species:</strong></font> Deer<br /><font color="#ff4400"><strong>Age:</strong></font> 24 GY (31 EY)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> Any, but prefers they/them<br /><font color="#ff4400"><strong>Likes:</strong></font> Cartoons and movies (mainly Anime), Japanese culture, traveling.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> Being around people in general</div>
 <div align="left"><font color="#ff4400"><strong>Languages:</strong></font> German, English, Japanese, a bit of Avali Core, a bit of Vampire Bunny Song<br /><font color="#ff4400"><strong>Role:</strong></font> Bassist, second voice<br /><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/01-01/">Page 1</a><br />
 <font color="#ff4400"><strong>Favorite music style:</strong></font> Punk/Pop punk.<br />
 </p>
 </td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;">
+<td style="text-align: left; padding-left: 20px; vertical-align:top;">
 <p>A native from Earth (specifically, Germany), D is the bassist of the band. Originally sporting a very apathetic attitude, they have very little social energy; they like their bandmates and their families but that’s about it. Usually after concerts they retreat to their room and just sleep or watch anime or read manga. Their anime library is gigantic, and while they like animes of all kinds, they have preference for either shōjo series or action anime.</p>
 <p>D and Eikomi developed a warm relationship that eventually turned into a romantic relationship.</p>
 </div>
