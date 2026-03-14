@@ -1,11 +1,3 @@
-{# This template extends the base.tpl template, meaning that base.tpl provides a large framework
-   that this template then adds to. See base.tpl for more information. #}
-{% extends "base.tpl" %}
-{# This is the start of the `content` block. It's part of the <body> of the page. This is where all the visible
-   parts of the website after the links bar and before the "Powered by comic_git" footer go. #}
-{%- block content %}
-
-<div id="home-page">
 <!-- Anything in brackets that start with an exclamation mark, like this, is called a comment! It will not affect the HTML of your page. It's just a note from me to you! -->
 <!-- There's a little extra HTML I've added here to jazz up the front page, but you don't need it! If you just want basic HTML with p tags and h1 tags and such, that will also work just fine. -->
 
@@ -21,7 +13,15 @@
     </div>
 
     <div class="right-column">
-        {{ home_page_text }}
+        <h1>Moumantai Motherfuckers</h1>
+
+        <p>What does "family" mean in a place as culturally diverse as the entire universe? The fuzzy alien rock band MMF is sure to find out as they tour their music among the stars!</p>
+
+        <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
+        <a class="button" href="comic/01-00/#comic-page">First Page</a>
+        <a class="button" href="latest/#comic-page">Latest Page</a>
+
+
     </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML... -->
@@ -33,6 +33,5 @@
 <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
 <h2>You can also join <a href="https://discord.gg/FoxgloveComics">our Discord</a>!</h2>
 <SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
-</div>
 
-{%- endblock %}
+
