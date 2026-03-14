@@ -15,13 +15,13 @@
 
 <!-- Next, we separate what we want into the left and right columns. -->
     <div class="left-column">
-     {{ page_title }}<br/>
-     <img src="{{ thumbnail_path }}" alt="Cool!" title="Cool!"><br/>
-     Posted: {{ post_date }}
+     {% page_title %}<br/>
+     <img src="{% thumbnail_path %}" alt="Cool!" title="Cool!"><br/>
+     Posted: {% post_date %}
     </div>
 
     <div class="right-column">
-        {{ home_page_text }}
+        {% home_page_text %}
     </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML... -->
