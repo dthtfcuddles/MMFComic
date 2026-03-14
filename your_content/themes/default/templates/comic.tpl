@@ -27,6 +27,7 @@
 <h2 id="post-title"><strong>{{ page_title }}</strong></h2>
         <h4 id="post-date">Posted on: {{ _post_date }}</h4>
 <br />
+</div>
     {%- if comic_paths %}
     <div id="comic-page">
         {%- for comic_path in comic_paths %}
