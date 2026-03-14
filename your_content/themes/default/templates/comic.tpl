@@ -24,6 +24,9 @@
        For example, if the value passed in to `comic_base_dir` is `comic_git`, then `{{ comic_base_dir }}/comic`
        becomes `/comic_git/comic` #}
     {%- if comic_paths %}
+        <h1 id="post-title">{{ page_title }}</h1>
+        <h3 id="post-date">Posted on: {{ _post_date }}</h3><br />
+
     <div id="comic-page">
         {%- for comic_path in comic_paths %}
         {% if _on_comic_click == "overlay" %}
@@ -50,8 +53,6 @@
     {% endif %}
 
     <div id="blurb">
-        <h1 id="post-title">{{ page_title }}</h1>
-        <h3 id="post-date">Posted on: {{ _post_date }}</h3>
         {%- if _storyline %}
             <div id="storyline">
                 {# `| replace(" ", "-")` takes the value in the variable, in this case `_storyline`, and replaces all
