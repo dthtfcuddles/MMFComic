@@ -24,10 +24,9 @@
        For example, if the value passed in to `comic_base_dir` is `comic_git`, then `{{ comic_base_dir }}/comic`
        becomes `/comic_git/comic` #}
 <div align=left>
-<h1 id="post-title">{{ page_title }}</h1>
-        <h4 id="post-date">Posted on: {{ _post_date }}</h3>
+<h2 id="post-title"><strong>{{ page_title }}</strong></h2>
+        <h4 id="post-date">Posted on: {{ _post_date }}</h4>
 <br />
-</div>
     {%- if comic_paths %}
     <div id="comic-page">
         {%- for comic_path in comic_paths %}
