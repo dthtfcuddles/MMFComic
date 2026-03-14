@@ -23,10 +23,12 @@
        the Python script that generates the HTML file. That value is dropped into the existing HTML with no changes.
        For example, if the value passed in to `comic_base_dir` is `comic_git`, then `{{ comic_base_dir }}/comic`
        becomes `/comic_git/comic` #}
+<div align=left>
+<h1 id="post-title">{{ page_title }}</h1>
+        <h4 id="post-date">Posted on: {{ _post_date }}</h3>
+<br />
+</div>
     {%- if comic_paths %}
-        <h1 id="post-title">{{ page_title }}</h1>
-        <h3 id="post-date">Posted on: {{ _post_date }}</h3><br />
-
     <div id="comic-page">
         {%- for comic_path in comic_paths %}
         {% if _on_comic_click == "overlay" %}
