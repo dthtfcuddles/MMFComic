@@ -15,9 +15,9 @@
 
 <!-- Next, we separate what we want into the left and right columns. -->
     <div class="left-column">
-     {% page_title %}<br/>
-     <img src="{% thumbnail_path %}" alt="Cool!" title="Cool!"><br/>
-     Posted: {% post_date %}
+     page_title<br/>
+     <img src="thumbnail_path" alt="Cool!" title="Cool!"><br/>
+     Posted: post_date
     </div>
 
     <div class="right-column">
