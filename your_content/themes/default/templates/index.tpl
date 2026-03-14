@@ -1,3 +1,4 @@
+{% extends "base.tpl" %}
 <!-- Anything in brackets that start with an exclamation mark, like this, is called a comment! It will not affect the HTML of your page. It's just a note from me to you! -->
 <!-- There's a little extra HTML I've added here to jazz up the front page, but you don't need it! If you just want basic HTML with p tags and h1 tags and such, that will also work just fine. -->
 
@@ -9,7 +10,6 @@
     <div class="left-column">
      {{ page_title }}<br/>
      <img src="{{ thumbnail_path }}" alt="Cool!" title="Cool!"><br/>
-     Posted: {{ post_date }}
     </div>
 
     <div class="right-column">
