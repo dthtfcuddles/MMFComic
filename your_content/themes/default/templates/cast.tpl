@@ -144,27 +144,27 @@
 </td>
 </tr>
 <tr style="height: 300px;">
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>******</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
-<p>To be revealed in a future chapter!</p>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/vedrn.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Ved'rn</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/17-011/">Page 357</a><br />
+<p>Hailing from the lush lands of Uashikara, he was studying out of his planet when his homeland was invaded by Horkers. Unable to go back, he was worried he would have to abandon his studies but the university he was in granted him refugee status and he was able to finish his studies. With a degree in Sound Engineering under his belt he settled into a bit of a roving lifestyle, moving around and living on different space stations, picking up whatever jobs he could to make a living. He discovered MMF when he was working at Warfaisser station as part of the cleaning staff for some of the restaurants. A couple years later, when he saw an advertisement from the band about hiring roadies, he decided to give it a try.</p>
 </td>
 </tr>
 <tr style="height: 300px;">
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>***</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
-<p>To be revealed in a future chapter!</p>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/fer.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Fer</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/17-011/">Page 357</a><br />
+<p>Coming from a planet named Tukakaro, Fer was born in a poor village but she never lacked love and affection from her family and neighbours. Eventually she showed prowess studying, and as such, her entire family pooled money together to help her study Biology and Nutrition. However, when she was studying she decided to switch careers and ended specializing in Architectural Safety, learning some sound engineering along. After working for a few years in space and earning enough to pay back the help she got for her studies, she decided to go back to space. Eventually she found the advertisement to be hired as part of the MMF family, and decided to try it.</p>
 </td>
 </tr>
 <tr style="height: 300px;">
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>***</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
-<p>To be revealed in a future chapter!</p>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/kyb.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Kyb</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/17-011/">Page 357</a><br />
+<p>An Unmizu from Wakk'ry, he left his town in search for adventure. However, he committed the ultimate social sin: He saved and befriended a Kuyorui, soon becoming best friends, almost like siblings. Practically outcast back home, the pair decided to leave their home world behind and venture into space. They started working at space stations, developing a great sense of teamwork, landing several jobs working part-time for various audio visual companies on the space stations they were moving between. Eventually they saw the MMF advertisement and decided to give it a try, submitting a joint application to avoid being separated.</p>
 </td>
 </tr>
 <tr style="height: 300px;">
-<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/question.png" /></td>
-<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>****</h3><strong>First Appearance:</strong> <i>Chapter 17</i><br />
-<p>To be revealed in a future chapter!</p>
+<td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/sayn.png" /></td>
+<td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Sayn</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/17-011/">Page 357</a><br />
+<p>A Kuyorui from Wakk'ry, he heard rumors that his family wanted to sell him as a slave, and instead of waiting to see if it was true or not, he escaped. It went well at first, but he ran out of resources, and ended stranded in a beach next to a desert which is where Kyb found him, starving and thirsty. After recovering, they started traveling together, and eventually decided to move off planet. They started working together at space stations, with everyone praising their amazing teamwork. Both were at Warfaisser when MMF did their show there, with Sayn falling in love with their sound. A few years later, when they saw the advertisement asking for roadies, both decided to give it a try and submitted a joint application.</p>
 </td>
 </tr>
 
