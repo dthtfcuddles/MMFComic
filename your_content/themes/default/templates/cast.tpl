@@ -132,15 +132,15 @@
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/mekari.png" /></td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Mekari</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/01-06/">Page 6</a><br />
-<p>A sleriki (slime-based species) who joined the band after he saw one of their performances and now is the roadie boss; he is a diligent, hard working slime and incredibly loyal to the band who gave him this chance to live in space.</p>
-<p>Very gentle, sweet and soft spoken… but also very big, being around 7 meters tall (22 feet). His body has the consistency of ballistic gel, and as a slime he can make it harder or softer at will. This coupled with his extremely fast healing renders him immune to most kinds of ballistic or slicing weaponry, although he has a crippling weakness to ice that he has to overcome with a subdermal heating device. He also does not perceive the world through visual receptors, his vision is entirely heat based meaning he requires special equipment to read text on screens and struggles to comprehend the concept of colour.</p>
+<p>Hailing from Tubasinaki, Mekari is a sleriki (slime-based species) who joined the band after he saw one of their performances and now is the roadie boss; he is a diligent, hard working slime and incredibly loyal to the band who gave him this chance to live in space.</p>
+<p>He is very gentle, sweet and soft spoken… and also very big, being around 7 meters (22 feet) tall. His body has the consistency of ballistic gel, and as a slime he can make it harder or softer at will. This coupled with his extremely fast healing renders him immune to most kinds of ballistic or slicing weaponry, although he has a crippling weakness to ice that he has to overcome with a subdermal heating device. He also does not perceive the world through visual receptors, his vision is almost entirely heat based, meaning he requires special equipment to read text on screens and struggles to comprehend the concept of colour.</p>
 <p>He developed a “best friends” relationship with Roi.</p>
 </td>
 </tr>
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 10px; width:200px; vertical-align:top;"><img src="/your_content/images/cast/roi.png" /></td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;"><h3>Roi</h3><strong>First Appearance:</strong> <a href="https://mmfcomic.com/comic/02-06/">Page 21</a><br />
-<p>Sher’s sister. She visited space before Sher did, managing to reach Earth and lived there (in England) for a whole year before coming back home. With a severe case of originally undiagnosed ADHD (that by now is medicated), she was clumsy at first and lost focus on things with extreme ease. Cheerful and always positive, she developed a “best friends” relationship with Mekari. Eventually she ended working as the head of security of the band.</p>
+<p>Coming from Babupekkakerok, Roi is Sher’s sister. She had visited space before Sher did, managing to reach Earth and to live there (more specifically in England) for a whole year before coming back home. With a severe case of originally undiagnosed ADHD (that by now is medicated), she was clumsy at first and lost focus on things with extreme ease. Cheerful and always positive yet taking her job very seriously, she developed a “best friends” relationship with Mekari, and eventually she became the Head of Security of the band.</p>
 </td>
 </tr>
 <tr style="height: 300px;">
