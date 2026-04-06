@@ -118,8 +118,9 @@
 <font color="#ff4400"><strong>Languages:</strong></font> German, English, Japanese, a bit of Avali Core, a bit of Vampire Bunny Song<br /><font color="#ff4400"><strong>Role:</strong></font> Bassist, second voice<br /><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/01-01/">Page 1</a><br />
 <font color="#ff4400"><strong>Favorite music style:</strong></font> Punk/Pop punk.</div>
 </p>
-<p>A native from Earth (specifically, Germany), D is the bassist of the band. Originally sporting a very apathetic attitude, they have very little social energy; they like their bandmates and their families but that’s about it. Usually after concerts they retreat to their room and just sleep or watch anime or read manga. Their anime library is gigantic, and while they like animes of all kinds, they have preference for either shōjo series or action anime.</p>
-<p>D and Eikomi developed a warm relationship that eventually turned into a romantic relationship.</p>
+<p>A native from Earth (specifically, Germany), D (Daniel to his friends) is the bassist of the band. Originally sporting a very apathetic attitude, they have very little social energy; they like their bandmates and their families but that’s about it. Usually after concerts they retreat to their room and just sleep or watch anime or read manga. Their anime library is gigantic, and while they like animes of all kinds, they have preference for either shōjo series or action anime.</p>
+<p>Daniel's younger years weren't exactly easy; their father left when Daniel was 5 years old, their sister would bully them constantly and Daniel grew up feeling that nobody loved them. At some point (around the age of 15 or 16) they started bouncing between relatives that didn't want them around, or living in the street. They got their first bass guitar after doing work at a relative's home. This relative didn't want to pay them with money so they gave them a bass guitar that was there just accumulating dust. When Daniel was 17 they saw an ad to join an alien band, decided to give it a try and that's how they joined MMF.</p>
+<p>After meeting Eikomi, Daniel developed a warm relationship with her that eventually turned into a romantic one.</p>
 </div>
 </td>
 </tr>
