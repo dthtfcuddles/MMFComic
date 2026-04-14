@@ -54,7 +54,7 @@
 
 <p>Seinu chirped and kissed his sister on the cheek and then sprawled out on the floor in front of her chair and started to download and decrypt his guidebook to Earth whilst she focussed on piloting the Odyssey into the Pulsar system. It started with an introduction from the chief alien anthropologist at the Directorate of Foreign Affairs.</p>
 
-<p class="songlyrics">
+<div class="songlyrics">
 <p>“The Dominant species of planet Earth, the Humans (Earthians in galactic parlance), have for the majority of their history been alone. Their world is situated in a relatively young sector of their galaxy, a local cluster of new stars and they are the only inhabited planet in the entire region. As such the majority of their history has been spent in very insular pursuits pertaining to their own world without the vision, drive or visitors from the stars to help their society advance.</p>
 
 <p>Our anthropologists think that this isolation is the reason why humans developed the way they have. Many consider their bio-forming their home world to make it a tamed death world a prime example of this'. Stuck on Earth the humans destroyed the natural ecosystem, ending countless species and redesigning the land to suit themselves. Once they developed Industry they continued with this transformation of their home world but without any thought to the damage they were now doing to their already unstable biosphere. Having stripped out most of the natural defences of the world to force it to conform to their ideals for agriculture, horticulture, intensive farming and mineral extraction with Industry added on top to make their lives comfortable they started destroying the world.</p>
@@ -76,7 +76,7 @@
 <p>This information package is designed to train both yourself and your pack in how to deal with the Earthians. Our estimate is that it will take you about four months to absorb and learn the critical information. As humans consider it rude for visitors and aliens to be referencing live updates you will need to memorise a lot of it.</p>
 
 <p>We hope you enjoy the Earthian induction package and if you have any further questions please contact the Directorate alien anthropology department.”</p>
-</p>
+</div>
 
 <p>Seinu finished reading the introduction package and then had to scroll through a directorate security briefing on how the package must not be stored on any device other than his centralised diplomatic system. In effect it had been uploaded to his air-gapped Embassy core and could be accessed by up to four security clearance 0 peripherals like his visor or his desk. As if it fell into the hands of humans it would damage relationships with them. This was going to take some reading just to visit one planet and its rather strange dominant species.</p>
 
