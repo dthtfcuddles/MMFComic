@@ -187,6 +187,14 @@
 </td>
 </tr>
 
+<tr style="height: 150px;">
+<td style="text-align: center;"><a href="/comic/17-00/"><img height="90%" src="/your_content/comics/17-00/00.png" /> 17. Fix you</a></td>
+<td style="text-align: left; padding-left: 10px;"><h2>Dig</h2>
+<p>Daniel and Eikomi travel to Japan, Earth, to meet someone, and the band finally hires the new roadies.</p>
+<p><strong>Released:</strong> March 27th, 2026</p>
+</td>
+</tr>
+
 </tbody>
 </table>
 </div>

@@ -248,10 +248,45 @@
 </td>
 </tr>
 
+
 <tr style="height: 300px;">
 <td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/16-00/00.png"></td>
 <td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 16: Dig</h2>
-<p>The recap of this chapter will come once Chapter 17 is posted.</p>
+
+<p>The chapter begins with two Avali, Roi, Mekari and three other vampire bunnies walking across the snowy fields of Babupekkakerok, the vampire bunny planet. The two Avali identify themselves as Kyat (the leader) K'auzau (her assistant), Kau, Lir and Joh (Vampire bunnies who belong to Roi's foraging party). Kyat explains that they're on a mission to explore Babupekkakerok's wild areas. They walk through the day and settle in a random cave during night-time. Mekari, however, is too large to fit in any cave, so he just stays outside, covering the entrance with his own body, covering himself with a blanket. A mysterious shadowy Avali talks to him asking him if he's okay, and he says yes.</p>
+
+<p>The next day, the group is attacked by two members of a species of canine creatures covered in a natural keratin armor. However, Mekari dispatches one of them literally just by extending his sword, doing nothing else. The remaining enemy just runs away yelping in terror. Roi and the bunnies thank him for protecting them, and the group resumes walking. Kyat and K'auzau talk to a drone camera, essentially recording a documentary about the trip.</p>
+
+<p>That night its snowing. Mekari is still sleeping against the entrance of the cave. Then we learn that the shadow figure talking to him is Kig, one of the members of the Ouakkia Pack- one of Rowi's brothers and one of the <a href="https://mmfcomic.com/comic/16-25/">Avali Defenders</a>- a group of famous daredevils in the Avali civilization known for their skill and power in combat. After a conversation where Kig tells Mekari "do not neglect yourself", the group kept advancing. K'auzau discovered a cairn of stacked rocks, something that surprises everyone. A few nights later, Kyat discovers something while watching footage from her laptop: The group is being followed by several creatures hidden at a distance, likely predators. The day after, they see that the creatures were keeping their distance after seeing how Mekari dispatched another predator with ease, hinting at their intelligence. </p>
+
+<p>The gang keeps walking. They find more things they cannot understand, including a wooden sign with writing nobody can understand or translate. After walking more and climbing a mountain, the group finally reaches a vantage point where they can see the sea. They keep walking, and one of the vampire bunnies spots an air predator circling around them. The group keeps ready. Suddenly they're attacked by a swarm of bunny-like enemies named "Kitaut". Mekari dispatches them with ease, but the enemies don't stop coming. Meanwhile, Rowi manages to guide the others towards a cave next to the beach. When they reach it, they see in horror that now there are three air predators circling around, not one. </p>
+
+<p>While they're in the cave, they face an immense spider-like enemy named "Arbolin" that normally feeds off the creatures seeking for shelter in the caves where it lives.</p>
+
+<p>Meanwhile, Kig and one of the Vampire Bunnies (Lir) got separated from the group. They start walking towards the beach. Lir and Kig detect a predator hiding in the snow in front of them, so Kig takes the initiative and uses his weapon, a mace with a detachable head, to hit the enemy right in the face. The enemy gets knocked out instantly, and another one sees what happens. Kig, with a terrifying expression tells him "get out or you really aren't going to enjoy what I'm going to do to you". The enemy escapes. While they're seeing that, one of the air predators snatches Lir at full speed. Kig, however, after cursing the predator, follows it using his suit's retractable wings. The Avali uses his two maces, shots them at the enemy and wraps it mid-air. Then Kig retracts the heads, essentially pushing himself towards the bird, falling heavily on its back and hurting its spine. He tells the bird to let the bunny go, warning it that he's going to kill it if the bird doesn't do it. The bird doesn't do it. Kig tells a terrified Lir "You're going to fall down. Open your arms and try to slow down your fall".</p>
+
+<p>Kig kills the predator bird with his powerful weapon, slicing it in parts. Lir, covered in blood, does as he was instructed and opens his arms. Kig catches to him in the air, lets the bunny hold his back and both fall gently to the floor, the dead parts of the predator falling a couple seconds afterwards. The camera goes back to the cave, where we see that Roi had dispatched the Arbolin with ease just by tossing her greatsword at it, impaling it on the head. Mekari arrives to the cave when the sun is setting.</p>
+
+<p>An hour later, the entire group is in the cave having food and cleaning their weapons, when Mekari perceives some very faint vibrations on the floor. They feel them coming from the deepest point of the cave, but there's no opening. Kig uses his weapon to break the stone, and when the cave opens, they see an underground city, illuminated by glowy mushrooms. </p>
+
+<p>The group, with renewed energies, go on. The Avali and the Vampire Bunnies (minus Roi) enter one of the houses while Kyat talks to the camera for her documentary. When they light it up... they notice a small pit in the middle of the main room covered in bones and one very heavy mace weapon stuck to one of the skulls. They check other houses and see the same. While they're wondering about it, they hear some roars. They all go out and see Mekari and Kig fighting against a spiky monster even taller than Mekari. Roi's tail sticks out of the monster's mouth. We learn that monster is called "Killer Spike", extremely venomous and very strong. After the monster gets beheaded by Kig, Mekari takes Roi back and injects her with a powerful generic antivenom. Meanwhile one of the bunnies at a distance notices something, goes to check and discovers an enormous pit covered in vampire bunny bones and broken bunny eggs- pretty much a mass open grave. </p>
+
+<p>The group discovers more bones, and realizes that the vampire bunnies at some point had a lot more technology. Houses, forges, tools. All of that got halted when something started cruelly killing bunnies. The scene changes and we see Kyat and K'auzau showing the documentary to the other Avali on BPE, including <a href="https://mmfcomic.com/cast/">Sawi and Eikomi, and also Khi and Nau</a>.</p>
+
+<p>The group theorizes that maybe Horkers caused this, massacring everyone in the bunny towns, innocent bunnies and anyone trying to protect them. That only bunnies in the countryside (outside of the cities) escaped, and that these survivors were the parents of the current bunnies. But everything is just theorizing. "What we know for sure is, that future packs invstigating this mystery may uncover more answers".</p>
+
+<p>Finally, we also learn that Roi is getting better, just resting in one of the ship's infirmaries and being studied by the Avali to see how her bunny anatomy is reacting, and that Kig and Mekari are training together, now that they learned that they cannot underestimate the planet again. </p>
+
+</td>
+</tr>
+
+
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/17-00/00.png"></td>
+<td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 17: Fix you</h2>
+
+<p>This recap will come when chapter 18 is posted!</p>
+
 </td>
 </tr>
 
