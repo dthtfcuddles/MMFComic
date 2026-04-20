@@ -1,0 +1,289 @@
+<p class="songlyrics">
+<b>Planetary Survey of the Soopee-31P system</b><br />
+<b>Security Level:</b> ND-Beta (not for Nexus publication)<br />
+<br />
+Survey by the AEV Odyssey under Captain Selenu of the Trail Pack<br />
+Chief Planetologist: Chantelle Trail-Locator-of-Worlds<br />
+<br />
+Survey Document Prepared by the Illuminate Diplomatic Office for presentation to the Directorate of Resources.<br />
+<br />
+<b>System Overview:</b><br />
+<br />
+Soopee-31P is a pulsar system in Galaxy HGF-C4, a previous unclaimed star system on the border between Cultarvian, Farndos and S’Grael space. After negotiations on Homestead conducted by Seinu Trail-Voice-of-Settlement-and-Accord the system was formally registered as belonging to the Avali Illuminate.<br />
+<br />
+The system contains one pulsating neutron star, charged plasma fields to the galactic north and south of the star's radiation field and 7 items of interest that the survey team believe would be worth exploitation by the Directorate of Resources. <br />
+<br />
+</p>
+<p class="songlyrics"><b>Soopee-31P - Pulsating Neutron Star</b><br />
+<br />
+<b>Summary:</b> Soopee-31P is a highly magnetised rotating neutron star. The star has a mass of 1.6M and a radius of 10 kilometres wide. As a neutron star it is no longer actively generating heat, being the stellar remnant of a former red giant that we estimate to have been 17 times the size of Solakku. We estimate it has been stable as a pulsar for 120 million years, making it relatively young by galactic standards. As a remnant of a 6.7 billion year old super red giant; we estimate it has another 2.6 billion years of radiating time left before it burns out.<br />
+<b>Magnetic Flux Time: </b>The rotational period of Soopee-31P is 31 milliseconds.<br />
+<b>Radiation Field Dispersal: </b>The field of magnetic radiation from Soopee-31P is aligned to the Galactic ecliptic (east and west). The safe approach path for ships is the north and south vectors with a safe transitional distance of 105 million kilometres from the star with shields set to maximum to avoid damage from the magneto-radiation fountains.<br />
+<br />
+<b>Notes by Survey Team Member Chantelle:</b><br />
+<br />
+The Pulsar itself is relatively early in its life cycle and still spinning swiftly. The youth of the star means our best estimate is that the Supernova that created it happened roughly 120-150 million years ago meaning the plasma field and debris left behind and trapped in gravitational sync with the neutron star is quite high. Initial scans indicated 7 items of large enough mass and interest that we believe the Illuminiate will be able to make a large return on especially with nearby Avali colonies and our three trading partner civilisations the Cultarvian, Farndos and S’Grael.<br />
+</p>
+<p class="songlyrics"><b>Soopee-31P-A</b><br />
+<br />
+<b>Summary: </b>31P-A is a large rocky asteroid orbiting in the Northern plasma field roughly 235 million kilometres from the star. It has a roughly spherical shape and appears to be composed of pure Uranium, Lead and Platinum with pockets of gold, silver and nickel.<br />
+<b>Mean Surface Temperature:</b> -32c Due to the Plasma field the surface whilst below 0c is higher than expected and would mean Avali could work on the surface with minimal environmental gear.<br />
+<b>Atmosphere: </b>No Atmosphere. <br />
+<br />
+<b>Notes by Survey Team Member Firi:</b><br />
+This asteroid is approximately thirty five kilometres wide, it is larger than the neuron star itself. Our best guess is that it is an amalgamation of heavy metals that condescend in the aftermath of the supernova explosion. <br />
+<br />
+The close proximity to the star makes the energetic atmosphere quite deadly but our top of the line environmental suits should be enough to keep a mining team safe. Gravity is negligible as well meaning we could easily boost mined material to waiting ships with ease.<br />
+</p>
+<p class="songlyrics"><b>Soopee-31P-B</b><br />
+<br />
+<b>Summary: </b>31P-B is a cluster of diamond asteroids about sixty kilometres wide about four hundred million kilometres out from the star. They are covered in a surface slush of solidified hydrogen apparently held as a solid due to the interaction between the plasma field and the hydrogen.<br />
+<b>Mean Surface Temperature: </b>-70c<br />
+<b>Atmosphere: </b>None<br />
+<br />
+<b>Notes by Survey Team Member Taran:</b><br />
+This is clearly the remnants of a gas-giant core that shattered during the supernova event and was then caught in the gravity well of the collapsing stellar core.<br />
+<br />
+The solid hydrogen coating on each fragment is of particular scientific interest. Our best guess is that the hydrogen is somehow being super chilled due to its contact with the cooling plasmatic field around the star. It is fascinating but may make extraction of the useful materials tricky as the hydrogen flashes back into a gas when removed from the plasma field.<br />
+<br />
+The science behind quite how it is happening and how to collect and harvest the diamond safely is beyond our understanding of materials science but we believe it is well worth the additional expense to extract.<br />
+</p>
+<p class="songlyrics"><b>Soopee-31P-C/D</b><br />
+<br />
+<b>Summary: </b>31P-C/D are two small asteroids located 30 million kilometres to the galactic south of the neutron star. They appear to be made entirely of palladium and kri.<br />
+<b>Mean Surface Temperature: </b>-50c<br />
+<b>Atmosphere: </b>Both asteroids are shrouded in a 3km thick haze of ionised kri-17 and krypton. <br />
+<b>Surface Pressure:</b> 900kph<br />
+<br />
+<b>Notes by Survey Team Member Chantelle:</b>
+These two asteroids are a gold mine for kri and palladium, our survey conducted on the surface also indicates there are other rare metals beneath the surface.<br />
+<br />
+However the “atmosphere” may give us some issues. It is mostly harmless but is conductive so approaching the asteroid with standard engines is dangerous due to their habit of causing lightning arcs. <br />
+</p>
+<p class="songlyrics"><b>Soopee-31P-E</b><br />
+<br />
+<b>Summary: </b>This large five thousand kilometre wide small moon is made up of iron and nickel with a thin layer of basalt on the surface. It lies in the galactic south of the star and has an elliptical orbit that is slowly growing more erratic each year. <br />
+<br />
+For about two months of the year it ever so slightly grazes the bottom half of the radiation fountain from the pulsar.<br />
+<b>Mean Surface Temperature: </b>Variable<br />
+<b>Atmosphere: </b>None<br />
+<br />
+<b>Notes by Survey Team Member Selenu:</b><br />
+This is clearly the remnants of a solid planet's core, the nickel and iron content is pure and uncontaminated by heavy metals. It has also clearly cooled at some point from a molten sphere into its current elongated shape.<br />
+<br />
+This is a big boon and the main reason why we think harvesting the materials in Soopee-31P is possible and worth investment. This abundance of basic metals will allow us to produce all the equipment we need in the system with minimal imports allowing any mining expedition to this system to be self-sufficient and extract maximum value.<br />
+</p>
+<p class="songlyrics"><b>Soopee-31P-F</b><br />
+<b>Anomaly: </b>Classified<br />
+<b>~ Directorate Override accepted: </b><br />
+Ck’akk Illuminate Director<br />
+* Decrypting report...<br />
+<br />
+<b>Summary: </b>This object is a derelict space-ship of unknown origin.<br />
+It is in four pieces and inside a debris field that stretches across a hundred kilometre sphere. <br />
+<br />
+It is roughly located in the southern lagrange point between 31P-E and the star so it is in a stable orbit.<br />
+<br />
+<b>Notes by Survey Team Member Seinu:<br />
+I classified all reports on this wreck as soon as we scanned it and reported this to your office. We also registered it with the local Coalition government as required by law.<br />
+<br />
+The ship itself appears to have originally been a large rotating cylinder to create a livable area inside the primary hull. It was three kilometres wide and a kilometre in length from communication hub to engines.<br />
+<br />
+It appears to have suffered a catastrophic deceleration incident when it flew directly into the radiation pulse from the neutron star. Our study of the wreck has been minimal, much to the grumbling of my pack. But it requires a dedicated archaeological team to examine it respectfully. <br />
+<br />
+Our preliminary analysis indicates it was a cryogenic ark ship on an automated journey. Something clearly went wrong, no ship would willingly fly directly into a neutron star's radiation pulse. The stable orbit indicates the ship was still intact after the brush with radiation and it managed to reach a stable orbit before succumbing to the catastrophe.<br />
+<br />
+The vessel is now in four chunks and there were indications that some of the passengers and crew may have been revived but ultimately attempts to save the ship failed.<br />
+<br />
+We have quarantined the ship and classified this section of the report. There may well be technologies of interest to the Illuminate in the ruins and as such an archaeological team should be sent before any mining happens. One piece of technology we examined of interest is the ships shield array, especially the independent array located around the power core. It uses principles we have not seen before and from some basic field tests Ki and Taran performed generates a shield that is thirty percent more efficient than our current shields technology.<br />
+<br />
+However, since we had to register the find with the Coalition, knowledge of the discovery is public. I have received several communiques from S’Grael University, Homestead and the Farndos requesting or offering help in exploring the wreck. So far we have of course denied these requests, the star system was officially transferred to Illuminate control but you may wish to consider how best to involve our allies in any future endeavours in the name of partnership and co-operative working.<br />
+</p>
+<p class="songlyrics"><b>Soopee-31P-G</b>
+<b>Anomaly: </b>Classified<br />
+<b>~ Directorate Override accepted: </b><br />
+Ck’akk Illuminate Director<br />
+* Decrypting report...<br />
+<br />
+<b>Summary: </b>This asteroid is approximately seven thousand kilometres wide, we at first believed it to be another core remnant from the original solar systems solid planets. However it is made entirely out of water-ice with pockets of other solid gases such as nitrogen, carbon dioxide and oxygen trapped within it.<br />
+<br />
+At the core of this frozen ocean is the remnants of a space station with the old surface access route still visible. The technology is the same as used in the ark ship ruins.<br />
+<b>Mean Surface Temperature: </b>-140c<br />
+<b>Atmosphere: </b>None<br />
+<br />
+<b>Notes by Survey Team Member Ki:</b><br />
+So this ball of frozen liquids is fascinating, we still can’t quite work out what caused it to form. It is clearly a bunch of frozen gas and frozen liquids that amalgamated and froze. Our best bet is possibly the atmosphere of one of the system’s gas giants that was caught in a gravitational anomaly and then condensed and froze over time in the aftermath of the supernova.<br />
+<br />
+The truly sad fact is the station in the centre, it was clearly built by the survivors of the Ark ship. Possibly they hoped to colonise the rock and set up a working and safe environment in which to survive. We have only made a preliminary study of the station but it seems sadly they were unable to build a self-sustaining colony, their technology whilst impressive was not designed to operate in the radiation rich environment of this star system.<br />
+<br />
+The ball of frozen liquids will provide a fine mining site for operations in the system providing a large quantity of useful materials as well as a unique and interesting archaeological site of scientific interest.<br />
+</p>
+<p class="songlyrics"><b>Closing Comments:</b><br />
+The Soopee-31P system has proven to be quite fascinating, the dense plasma field hides a wealth of riches as well as two points of scientific interest. <br />
+ <br />
+After studying the returns of our remote probes we conducted a full exo-vehicle supported exploration of each of the 7 points of interest highlighted in this report. However whilst the wealth of riches available in the system are of significant note it will come with challenges that need to be overcome. <br />
+ <br />
+The unique plasma field around the star resulted in us having to design a new shielding configuration and adapt our general engines to work within the plasma field. The field also limits the scan radius of any sensors and those inside the field may find themselves unable to see out which will require more dedicated units to establish a secure perimeter of units outside the radiation and magnetosphere linked to bases within to keep them aware of people approaching the system. <br />
+ <br />
+In addition the wealth of materials available will necessitate onsite security as well as mining packs to discourage piracy. Once word gets out of the sort of resources we are mining it will become a target for opportunistic elements of the galactic community. We have already detected ships with suspicious transponders lurking just outside our primary scan radius since we arrived so some elements have already taken note of our interest in the star system. <br />
+ <br />
+Over-all however the benefits of extracting the resources on offer coupled with three interested markets as well as Illuminate interests would see a healthy return on initial material investment within a short span of time. <br />
+ <br />
+As such it is the AEV Odyssey’s recommendation to forward this initial survey to the Directorate of Resource Management with a view to sending a follow up survey team to establish an initial base and begin a full resource extraction plan. <br />
+ <br />
+<i>- Chantelle Trail-Locator-of-Worlds</i><br />
+</p>
+
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
+
+<p>Ck’akk finished reading the report from the Odyssey and smiled, she swiped across the bottom to add her authorisation and handed it to her brother Ra’Lett, “See that this reaches the J’ask’s office over in the Directorate of Resource management, arrange a meeting with him tomorrow to discuss it and also contact Stellar Archaeology at the University and invite Professor Gre’kar and her pack to join us at the same meeting.”</p>
+
+<p>Ra’Lett ran his eyes over the pad and nodded before turning it off, “I will deliver it in person and then take a shuttle to the University and speak to Gre’kar directly.”</p>
+
+<p>“Thank you, Ra,” she smiled and watched her brother leave through a side door that led to their private apartments. The Director then turned back to the other people in the room with her. Her two sisters S’lakk, Kn’ark were sitting in chairs off to her left waiting for her signal and as she nodded to them S’lakk sent a signal and the door opened allowing  Major Yusarf to enter, he walked over to stand before her desk and saluted. </p>
+
+<p>“Sorry to keep you Major, I had some paperwork to deal with, how are you finding command of Expeditionary Fleet Nested-7-Omega?”</p>
+
+<p>“Interesting,” Yusarf said with a smile, “Not quite what I was expecting and it is taking me time to turn it around, Admiral Jerak had a particular way of doing things that was very old fashioned.”</p>
+
+<p>Ck’akk laughed and shook her head, “Don’t I know it, how is he finding his new job at fleet HQ?”</p>
+
+<p>“Oh he loves it,” Yusarf shook his head, “I don’t think it’s even occurred to him he has been sidelined from field duty, it’s a big step up for him after all and for me.”</p>
+
+<p>“Well I am glad I get to work with you,” Ck’akk picked up another tablet, “I am sorry to drag you down here to my office but I wanted to hand this to you personally,” she held out a tablet, “I need a squadron guarding this system, Soopee-31P, the Odyssey just sent in their final report, </p>
+
+<p>“Certainly”, Yusarf said as he took the tablet and glanced over his orders, “What's so important about it?”</p>
+
+<p>“We were gifted it by the Cultarvian, Farndos and S’Grael alliance,” Ck’akk explained, “That’s public knowledge and the Odyssey just spent the last six months there surveying it, there are things of interest there I would like secured.”</p>
+
+<p>Yusaf nodded, using one clawed finger to scan through the information he’d been given, “I see Firi’s security report mentions drones and a couple of scout ships over the past few months?”</p>
+
+<p>“Yes, that star system has traditionally been considered worthless by all three governments but we specifically asked for it during the negotiations. So every chancer, freebooter and pirate out there has no doubt decided it is worth it,” She sighed, “They are probably waiting for the Odyssey to leave before swooping in to try and grab stuff and we have actually found something so I would like a squadron from Nested-7 to secure the system until an expeditionary fleet can arrive to take custody of it.”</p>
+
+<p>“Of course,” Yusarf smiled, “Do I get to know what we found?”</p>
+
+<p>Ck’akk nodded, “A load of very expensive resources hidden in the plasma cloud and a wrecked ark ship, we had to register the wreck so lots of people are being very curious about that too. How long do you think it’ll take you to get there?”</p>
+
+<p>“We should be able to reach it in about nine days,” Yusarf said as he considered the coordinates, “Will that work?”</p>
+
+<p>Ck’akk glanced at her sisters and Kn’ark consulted the interior of her visor then nodded, “Yes, that works for us, the Odyssey will remain in the system and hand over to you, Firi has made it public knowledge that she is aboard the Odyssey so the chancers are warily keeping their distance waiting for her to leave. After you arrive they can depart for Earth slightly ahead of schedule.”</p>
+
+<p>“Earth?” Yusarf said in surprise, “You are sending Seinu to Earth?”</p>
+
+<p>“Oh yes,” Ck’akk smiled, “I am very proud about how far he has come as a Diplomat, but so far he’s been dealing with the easy stuff, races we are allied with, making new friends, learning about their culture and lives but after the success he had at Homestead I’d say he’s ready to meet one of the most difficult species in the Universe.”</p>
+
+<p>Yusarf laughed, “They are certainly something, well I wish him good luck with visiting Earth, dealing with humans is a trial, they get everywhere and are all charging in a thousand different directions, it is exhausting.”</p>
+
+<p>“It took me decades to understand how their brains work,” Ck’akk smiled, “It certainly is not easy to deal with, they are individualistic to a fault, every human is an island of contradictions and individuality until suddenly they aren’t and then they are all charging in the same direction and their brains seem to stop working.”</p>
+
+<p>“Baffling,” Yusarf saluted, “Well if there is nothing else I better get back into orbit and organise this squadron to go relieve the Odyssey.”</p>
+
+<p>“See you soon, and thank you Yusarf,” Ck’akk said and watched the Major head out. Once the door had closed she sank back into her chair and closed her eyes with a sigh, “Ok, let Selenu know that a squadron is on their way to relieve them then get the King of the Unmizu on a call, I promised I’d check in on them and talk about supplies.”</p>
+
+<p>It was going to be another busy day but Ck’akk couldn’t let her age weigh her down! She had a lot of fun things planned for her little prodigy and his pack but for now she had to get back to running the Illuminate.</p>
+
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
+
+<p>The Odyssey was in an uproar, or at least as much of what counted as an uproar as preparing to depart after six months in stationary orbit around Soopee-31P. Expeditionary Fleet Nested-7-Omega commanded by Major Yusarf had arrived only slightly delayed, an 11 day trip from Avalon at maximum warp so not bad all things considered.</p>
+
+<p>Selenu and Chantelle were ensconced in Selenu’s office handing over all their notes to the Major and some academic from Illuminate University who had hitched a lift with the Major’s task force. They it appeared were the reason for the delay, Professor Gre’kar and her pack had been put in charge of the ongoing archaeology of the ark-ship. Upon receiving her orders the Professor had left two of her pack behind to oversee outfitting the long term exploratory fleet of specialist ships and then hitched a ride with the Major’s security task force.</p>
+
+<p>Of course the Professor had brought a load of luggage and equipment and was the reason for the delay in Nested-7ths arrival as they had to delay departure for the civilian. Firi could well imagine how annoyed the Major and his command staff had been at that; nothing fouled up a military operation like civilians. Firi for her part was staying well out of the way, the Professor seemed nice enough and Major Yusarf was a good friend of Selenu’s but they didn’t really need Firi or her knowledge for this handover.</p>
+
+<p>She had sequestered herself down in the Nano-Factory and was watching the system print a load of the specialist exploration drones Ki had designed. Apparently Professor Gre’kar had been “distraught” at the news that the Odyssey would be leaving. She had apparently been hoping to move her base of operations aboard their ship and having an Avali Defender protecting the expedition would have accrued a lot of kudos and excitement. </p>
+
+<p>She had taken the news that the Odyssey was due to leave with good grace and only mild grumbling, but she wanted to make good use of their facilities whilst she had the chance. Her specialist archaeology flag-ship would be arriving with the main fleet so she’d be transferring back to the Major’s flagship once they left. Which went to show she had either not read or not been given the mission briefing for the Nested-7, their job was to secure the system so the Odyssey could leave but she wasn’t letting that hold her back from science and exploration.</p>
+
+<p>The military fleet Yusarf had brought did not have the specialist nano-looms needed to build drones capable of exploring the Pulsar’s weather systems. So Ki was printing the Professor a fresh batch in the time they had left before departure as well as providing her with the schematics. She’d have to run her initial surveys from Yusarf’s command ship and wait for her specialist ships to arrive with the rest of her team. She had grumbled about having to fit this in around the Major’s security duties but she had refused to wait, the ark ship was the find of the century.</p>
+
+<p>So to avoid all the big wigs Firi had said she’d watch over the printing, directing her big wyvern drones to stack them in large cargo boxes for transfer to Yusarf’s ship. It was an easy job and meant she could avoid the civilians and rank and file navy rantings who had filled the ship. There was only so much hero worship she could stand and this was a duty she could do that freed Ki up to go do some actual important pre-flight maintenance. </p>
+
+<p>After six months of sitting idle Ki and Taran were running checks on the engines and warp-system ahead of their departure. Not that they were expecting to find anything wrong but it was protocol to check after so long idle in orbit.</p>
+
+<p>She was passing the time reading the latest novel in a series she was enjoying, listening to MMFs last live in concert compilation album and idly sketching designs for Cal’s new armour. She was busy re-designing the helmet when the bunny in question wandered out of the elevator that connected the factory floor to the control centre. Muting her music she raised one hand, wing feathers rustling and smiled at him.</p>
+
+<p>“Hello Cal, what brings you down here?”</p>
+
+<p>“Seinu is busy with Cri going through his upcoming schedule, I thought I’d escape down here, I’ve done my bit.”</p>
+
+<p>The grey and copper furred bunny walked over to Firi and peered up at her, “I figured it’d be more fun to keep you company and see if I can help, everyone seems so busy and I’ve sort of just been left out of planning.”</p>
+
+<p>“They are,” Firi pointed at where her big wyvern cargo lifters were carrying new survey drones off the output belt, “I am packing up survey drones for the Professor before we have to leave.”</p>
+
+<p>“Oh that sounds important,” Cal sighed, “I was hoping we could go do a shuttle lesson, I still don’t have my solo shuttle licence, only the supervision one where someone has to be in the cockpit with me.”</p>
+
+<p>“Ah,” Firi frowned and glanced at a nearby screen, “How many more hours do you need before you do the test?”</p>
+
+<p>“Six,” Cal chirped grumpily, “But I can’t do the test without logging those hours and I can’t log them without you or Ki or Selenu in the cockpit with me!”</p>
+
+<p>“Ok let me see,” Firi leant back in her chair and stared at a screen, “These drones will be done printing in an hour, we need to fly them over to the Unflappable so tell you what,” she leant forward and smiled at the bunny, “Go prepare the cargo shuttle for departure, prep the systems for cargo loading and take off, plot a flight path then you can fly the shuttle during the cargo transfers,”</p>
+
+<p>“Yes,” Cal pumped a paw in the air and scampered back towards the lift, “I’ll go get everything ready, thanks Firi.”</p>
+
+<p>Firi watched Cal’s thick bushy grey tail vanish from sight and shook her head with a smile, he was a real handful. Energetic, excitable but dedicated to Seinu and the pack, she had all the time in the world for him. But she was growing a bit worried too. As the twins diverged from the monotone life of survival they had lived back home they were both developing distinct personalities. Cri was fitting in perfectly, smart, educated, he knew what he wanted to do with his life. But Cal was still struggling to find his focus. Which was why she was trying to encourage him to get things like a shuttle licence and find his own thing instead of just following after Cri. She had also noticed a trend, Cri had a habit of speaking for both of them and Cal would just go along with it, she wasn’t entirely sure he still agreed on every point like before but Cri hadn’t noticed. He was used to taking the lead as the dominant twin… but sooner or later Cal was going to explode if things continued as they were, so she was trying to head that off before it actually happened.</p>
+
+<p>Firi had just settled down and was loading in the final print orders when the elevator opened again and Chantelle swept into the room, ribbons tied to her ears fluttering behind her.</p>
+
+<p>“Oh hey sis,” Firi said with a grin, “I thought you were with the Professor?”</p>
+
+<p>“We stopped for a break,” Chantelle said, “There is a lot of data to read so we are going to reconvene later after the Professor has had a chance to absorb more of it.”</p>
+
+<p>“And you came to see me?” Firi frowned, “What’s on your mind, no way you would come down here without a reason.”</p>
+
+<p>Chantelle plopped herself onto the same bench as Firi and scooted up close, cuddling the yellow avali, “Of course I wanted to see you, but also I need access to the Nano-Loom… But… but Ifelse tells me there is no space for my projects on the stack for about a month!”</p>
+
+<p>“We are very busy,” Firi frowned, “We need to print a load of replacement parts, general maintenance, restock the supplies, we had to feed loads of our spare parts to the factory to make these drones for the Professor.”</p>
+
+<p>“I need at least a day,” Chantelle chirped, “Maybe two I have to print some stuff.”</p>
+
+<p>“What stuff?” Firi frowned, “We don’t need any planetology equipment and running Seinu’s schedule doesn’t usually need you to print stuff.”</p>
+
+<p>“Clothes of course,” Chantelle chirped, “I have been reading the latest updates from Avalon, the 7th Nested brought a whole bunch of updates from home, I need to change Seinu’s wardrobe before we get to Earth.”</p>
+
+<p>Firi stared at her sister with her mouth open for several seconds, then she responded with, “Absolutely not, I am not delaying printing essential components and spare parts so you can print clothes.”</p>
+
+<p>“But Firi,” Chantelle gave her the biggest soft eyed stare she could manage, “We can’t send Seinu out on his mission in last season's fashion.”</p>
+
+<p>“No,” Firi chirped, “And Seinu doesn’t care about his clothes, you literally replaced his wardrobe on the trip to Homestead, he will hit the roof if you try to change everything again less than ten months later.”</p>
+
+<p>“At least look at this with me,” Chantelle brought up a screen, “See this is the latest fashion packs are wearing in the capital.”</p>
+
+<p>“It’s a scarf…” Firi said, “A thick collar around the neck and then two trailing ends… and everyone else is in what, a robe cloak?”</p>
+
+<p>“Yes,” Chantelle chirped, “Everyone is wearing it, even Ck’akk’s pack has adopted this, as a diplomatic pack working for the Illuminate we have to make sure we match the current trends.”</p>
+
+<p>“Seinu is going to hate that,” Firi chirped, “He hates clothing that covers his arms and weighs down his wing feathers, since he’s not our pack leader he’d have to wear the robe-coat.”</p>
+
+<p>“So?” Chantelle grumbled, “It’s fashion, he has a job to do and he needs to match the current trends.”</p>
+
+<p>“Has someone made that a rule?” Firi asked, “Like did Ck’akk issue a directive or something?”</p>
+
+<p>“Well no…” Chantelle started and Firi cut her off.</p>
+
+<p>“Then it is just fashion, our spare parts are critical, your desire to play dress up with our brother can wait, besides he’s never going to agree to wear that you’ll just start a huge argument and you know Sel won’t back you up on it.”</p>
+
+<p>Chantelle pouted and Firi raised her ears, “You already asked Selenu didn’t you?”</p>
+
+<p>“Well of course I did,” Chantelle grumbled, “She said we can print some of the new fashion if you or Ki give me loom time.”</p>
+
+<p>“Well I am not giving you loom time,” Firi shook her head, “Seriously we have more important things to print then wasting time printing clothing Seinu is going to refuse to wear.”</p>
+
+<p>Sighing, Chantelle folded her arms and sulked, “I swear none of you care what the others think, we have to keep up appearances.”</p>
+
+<p>“No one on Earth will care,” Firi kissed her sister between the ears, “Look once I am done with all the critical supplies you can print as many new clothes as you like, but Seinu is never going to willingly wear them.”</p>
+
+<p>“He will,” Chantelle said frowning, “He knows he has to wear the right clothes for his job.”</p>
+
+<p>“He does,” Firi said, “He already agreed to his new wardrobe and what he would wear when, he isn’t going to let you change that every other month based on the whims of high society back home.”</p>
+
+<p>Chantelle sighed, “But it looks so good, it’s really nice.”</p>
+
+<p>Firi resumed working on the drone plans, “You can tell me all about it, I’ll even think about wearing one of those robe-coats myself alongside you. But we aren’t wasting time printing them now, at least show me your designs.”</p>
+
+<p>Mollified somewhat by being given the chance to show off the designs she had planned, Chantelle started loading up the newest outfits whilst Firi worked. Her sister had as she suspected, put a lot of time and effort into planning out what they’d all wear as a pack. Firi would have to talk the others into wearing it at least once but not until after all the critical work was done. It would soon be time for them to depart for Earth and she couldn’t waste too much time on fashion.</p>
+
+<p><i>To be continued…</i></p>
+
+<p><SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/separator.js"></SCRIPT></p>
+
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/voyages/javascript/endbuttons.js"></SCRIPT>
