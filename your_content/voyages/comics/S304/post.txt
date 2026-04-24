@@ -1,6 +1,6 @@
 <p class="songlyrics">
 <b>Planetary Survey of the Soopee-31P system</b><br />
-<b>Security Level:</b> ND-Beta (not for Nexus publication)<br />
+<b>Security Level:</b> ND-Beta (not for Nexus publication).<br />
 <br />
 Survey by the AEV Odyssey under Captain Selenu of the Trail Pack<br />
 Chief Planetologist: Chantelle Trail-Locator-of-Worlds<br />
