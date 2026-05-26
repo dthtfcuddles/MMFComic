@@ -173,7 +173,7 @@
 
 <p>Selenu sat in the pilot's seat, fingers flicking switches, shutting down the engines and putting the Momentum into standby mode as it plugged in to recharge itself. Everyone else had left the ship and the lime feathered Avali sighed softly and took a moment for herself, leaning back in her chair.</p>
 
-<p>“How are you holding up Selenu?” a voice asked her and she started, twisting around to look at the Avali who’d come aboard quietly. “Be’te,” she said with a soft smile, “You startled me, I am doing ok.”</p>
+<p>“How are you holding up Selenu?” a voice asked her and she started, twisting around to look at the Avali who’d come aboard quietly. “Be'te,” she said with a soft smile, “You startled me, I am doing ok.”</p>
 
 <p>He moved over to lean against the command console and quirked his ears towards her curiously. He was an older Avali, the same age as Ka’er and their sisters, the leader of the Ambassador’s pack. Selenu shook her head and smiled ruefully, “I am a bit tired, and could do with a week or two where nothing exciting happens.”</p>
 
@@ -181,27 +181,27 @@
 
 <p>Selenu smiled at her fellow pack leader and sighed, “At least you can hide out in the embassy, I noticed you don’t tend to join them in public.”</p>
 
-<p>“It’s easier for me,” Be’te said with a smile, “As far as the humans are concerned I’m their shy, retiring, non-public facing brother who just runs the Embassy administration. They really struggle to understand pack dynamics and that I’m the pack leader not Ka’er.”</p>
+<p>“It’s easier for me,” Be'te said with a smile, “As far as the humans are concerned I’m their shy, retiring, non-public facing brother who just runs the Embassy administration. They really struggle to understand pack dynamics and that I’m the pack leader not Ka’er.”</p>
 
 <p>Sel smiled, “I’ve noticed that, to them I am just the Captain of the Odyssey, they can’t seem to wrap their heads around the fact that just because Firi is the Defender or Seinu is the Diplomat they aren’t in charge of the pack.”</p>
 
-<p>“It’s useful, “Be’te smiled, “Lets me stay out of the public eye and keep an eye on things and offer Ka’er and our sisters advice and help without being pulled directly into the human intrigues."</p>
+<p>“It’s useful, “Be'te smiled, “Lets me stay out of the public eye and keep an eye on things and offer Ka’er and our sisters advice and help without being pulled directly into the human intrigues."</p>
 
 <p>“I should have taken a quieter career path,” Selenu chuckled and she stood up and shook out her wing feathers, “Being the Captain of the Odyssey makes it hard to stay so behind the scenes.”</p>
 
-<p>“Still if you want to talk I am around,” Be’et offered as they disembarked from the shuttle, “You have had more than this little kidnapping show to deal with from what I’ve been told.”</p>
+<p>“Still if you want to talk I am around,” Be'te offered as they disembarked from the shuttle, “You have had more than this little kidnapping show to deal with from what I’ve been told.”</p>
 
 <p>“Hah,” Selenu paused to seal the Momentum, watching the hatch swing shut and then ran over the final security protocol, sealing it properly, “Which one have you heard about? Seinu’s sudden upgrades from the Sleriki? Or having to convince some of Firi’s colleagues not to fly on over to give Firi back up”</p>
 
-<p>Be’et quirked his ears and chuckled, “I’d heard about that, their communication signal came through the Embassy.”</p>
+<p>Be'te quirked his ears and chuckled, “I’d heard about that, their communication signal came through the Embassy.”</p>
 
 <p>“They are all very enthusiastic and love to help each other,” Selenu sighed, “Firi adores them of course. I had to promise they could stop by for a visit after we leave Sol for our next destination.”</p>
 
-<p>“Probably wise,” Be’te chuckled, “Though the sheer level of panic and havoc if two Avali Defenders turned up,” he laughed softly, “I have to admit after living here for the past few years I would have loved to see them panic over that.”</p>
+<p>“Probably wise,” Be'te chuckled, “Though the sheer level of panic and havoc if two Avali Defenders turned up,” he laughed softly, “I have to admit after living here for the past few years I would have loved to see them panic over that.”</p>
 
 <p>Selenu groaned, “I think we’ve caused enough havoc, the humans are scrambling to deal with the coalition inspector now, at least I can push that work off on Seinu and Ka’er.”</p>
 
-<p>“Yes,” Be’te frowned, “You have to wonder what they hoped to gain from this? I mean we were never going to sit by and let them kidnap a member of your pack without consequence.”</p>
+<p>“Yes,” Be'te frowned, “You have to wonder what they hoped to gain from this? I mean we were never going to sit by and let them kidnap a member of your pack without consequence.”</p>
 
 <p>“I thought that too,” Selenu replied, “But I believe the original plan was to grab Cal, mug him, steal his Avali tech then leave him someplace.”</p>
 
