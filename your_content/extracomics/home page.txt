@@ -20,6 +20,13 @@ This space is going to be used to post other comics I draw that aren't necessari
 </div>
 </td>
 </tr>
+<tr style="height: 200px;">
+<td style="text-align: center; padding-top: 10px; padding-left: 20px; padding-right: 10px; width:150px; vertical-align:top;"><a href="/extracomics/comic/Neopets"><img src="/your_content/extracomics/comics/Neopets/Neopets1.png" /></a></td>
+<td style="text-align: left; padding-left: 20px; padding-right: 30px; vertical-align:center;"><div align="left"><a class="button" href="/extracomics/comic/Neopets">Neopets comic</a><br /><br /> <br/>This small parody comic tried to be a gag comic but I ran out of ideas and left it after four strips.
+</div>
+</td>
+</tr>
+
 </table>
 
 
