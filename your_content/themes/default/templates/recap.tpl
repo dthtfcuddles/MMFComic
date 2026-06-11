@@ -285,7 +285,35 @@
 <td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/17-00/00.png"></td>
 <td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 17: Fix you</h2>
 
-<p>This recap will come when chapter 18 is posted!</p>
+<p>D and Eikomi are walking through the dark alleys of a Japanese street at night, while it's snowing, D looks pensive. After a bit, they're shown in an actual restaurant. While Daniel is teaching Eikomi how to use the chopsticks, a figure comes in:  Daniel's father.</p>
+
+<p>After some back and forth, we learn that the guy is exceedingly rude, we learn a bit more about the fact Daniel's parents were divorced and him taunting Daniel about how "ungrateful and spoiled" he's acting, also mentioning that he thinks Daniel conquered life, in addition to being dismissive of Eikomi. He also asks Daniel to come back to his family.</p>
+
+<p>Daniel laughs in disbelief. His dad tries to say that while he committed mistakes in the past he's not a monster. Daniel reminds him of a time when, not too long after their parents had divorced, that Daniel tried to go to their dad for help and instead of help they got the police called on them. </p>
+
+<p>After some more back and forth, Daniel starts losing their patience, having asked repeatedly "What do you want?" while their dad kept dodging the question. At some point Daniel's dad mentions that he knows D donates 60.000€ a year to children charities. Daniel asks him where did he learn that information, that he doesn't donate publicly, and their dad refuses to say. Finally, after a last warning and Daniel getting up to leave, their dad admits what's going on. That he lost his job, and that he got into a massive debt 3 years ago, during the previous visit to Warfaisser, because he had gotten invited but since he never got any passwords to access services, he had to pay for everything. Daniel's dad blamed his son for it, and mentioned he was truly desperate and in need for money. Eikomi tried to explain that it wasn't their fault, and Daniel's dad dismissed her, both displaying his misogyny and mentioning that "must be nice to talk from a cushion of unlimited money".</p>
+
+<p>At this point Daniel simply got up, held Eikomi softly and both left, with Daniel saying "I don't care about your debts. Enjoy life far, very far away from me". However, after a few minutes walking in silence under the snow, Daniel told Eikomi that they weren't feeling too good, that "I feel like an asshole" and that in spite of the hate they feel for their dad, they still feel guilty for not helping them. After Eikomi gives some positive reinforcement to Daniel, both finally left for real. </p>
+
+<p>The next few days Daniel and Eikomi visited an Onsen (Hot springs), then went to visit a snowy town, rested at a very expensive hotel, visited a Japanese temple and finally went to attend the Comiket. </p>
+
+<p>Meanwhile, at Babupekkakerok, Roi and Mekari are meeting <a href="https://mmfcomic.com/cast/">the new roadies</a>, Ved'rn, Fer, Kyb and Sayn. While Roi is explaining what their work is going to be like and welcoming them, Sher and Rowi come in. The new roadies learn about things like the ship temperature and how long days last in the Iron.</p>
+
+<p>While they're having dinner together, D and Eikomi return! After everyone meets, Daniel tells the roadies "Just call me Daniel. I used to not to like my name but many things have changed since then". We also learn that during their visit to Japan, Earth, Daniel got a spiffy tattoo with sakura leaves and flowers and the word "Family" in it.</p>
+
+<p>After that, the roadies go see their rooms (all of them very cozy) and, the next day, we see them learning the ropes of their work. There we learn that the new roadies aren't newbies- They do know their way around technology and music instruments and sound engineering. Finally, the band goes to play at a space station so the new roadies could start with a low-stakes work environment. We learn there that they don't see the job as a competition, but more as a family environment where everyone helps each other, and that the new roadies were picked not just due to their experience, but also due to their enjoyment of a nomadic lifestyle. We also learn that there are no true surprise space station shows: Sher tends to tell their fans on the internet a week or so prior.</p>
+
+<p>Once the gig ends, everyone cheers for a successful job and move on to another space station to do another small show. That's where the chapter ends.</p>
+
+</td>
+</tr>
+
+
+<tr style="height: 300px;">
+<td style="text-align: center; padding-top: 25px; width:300px; vertical-align:top;"><img src="/your_content/comics/18-00/00.png"></td>
+<td style="text-align: left; padding-left: 25px; vertical-align:top;"><h2>Chapter 18: The fire still burns</h2>
+
+<p>This recap will come when chapter 19 is posted!</p>
 
 </td>
 </tr>
