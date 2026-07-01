@@ -11,7 +11,7 @@ on:
     branches:
       - working
   schedule:
-      - cron: '35 17 * * *'  # Runs (supposedly) at 5:35 PM every day
+      - cron: '10 1 * * *'  # Runs (supposedly) at 1:10 AM every day
     #  - cron: '35 6 * * *'  # Runs (supposedly) at 6:35 AM every day
 
 jobs:
