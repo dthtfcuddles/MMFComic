@@ -67,8 +67,8 @@
     </div>
 
 <div align="left">
-<p>One &ldquo;problem&rdquo; that I see with a lot of long-form webcomics is that sometimes they&rsquo;re unfriendly for people who come to read when the comic has been going for a long time. Having to read (literal) hundreds of pages to catch up just to make sense of what&rsquo;s going on is sometimes can feel like a chore, over all when the comic has fillers and lots of arcs going on, or if the reader&rsquo;s internet is not good. I&rsquo;ve been there.</p>
-<p>The idea behind this page is narrating what happened in each chapter, so any reader new to the comic can have an idea of what&rsquo;s going on in current chapters without needing to go all the way back. For that same reason, <strong>this page will have spoilers for each chapter.</strong> Don&rsquo;t go forward if you intend to read the past pages yourself! Use the &ldquo;<a href="/chapters/">Chapter list</a>&rdquo; link instead! Then you can go back and read the pages yourself at your own pace when you can/feel like it.</p>
+<p>This page will recap what happened on each chapter of the comic, in a narrated form.</p>
+<p>The idea is to see what happened on each chapter with a very quick read, if you need to know when something happened quickly. Due to that, this page should be a complement to the Archive. And of course, as you may expect, <strong>this page will have spoilers</strong>.</p>
 
 
 <table style="width: 100%;">
