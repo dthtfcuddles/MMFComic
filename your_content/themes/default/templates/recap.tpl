@@ -68,7 +68,7 @@
 
 <div align="left">
 <p>This page will recap what happened on each chapter of the comic, in a narrated form.</p>
-<p>The idea is to see what happened on each chapter with a very quick read, if you need to know when something happened quickly. Due to that, this page should be a complement to the Archive. And of course, as you may expect, <strong>this page will have spoilers</strong>.</p>
+<p>The idea is to see quickly what happened on each separate chapter. Due to that, this page should be a complement to the <a href="/archive/">archive</a>. Of course, as you may expect, <strong>this page will have spoilers</strong>.</p>
 
 
 <table style="width: 100%;">
