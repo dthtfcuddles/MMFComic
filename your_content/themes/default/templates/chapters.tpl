@@ -195,6 +195,15 @@
 </td>
 </tr>
 
+<tr style="height: 150px;">
+<td style="text-align: center;"><a href="/comic/18-00/"><img height="90%" src="/your_content/comics/18-00/00.png" /> 18. The Fire still Burns</a></td>
+<td style="text-align: left; padding-left: 10px;"><h2>The Fire Still Burns</h2>
+<p>The band returns to Warfaisser in preparation for their incoming show there.
+<p><strong>Released:</strong> June 12th, 2026</p>
+</td>
+</tr>
+
+
 </tbody>
 </table>
 </div>
