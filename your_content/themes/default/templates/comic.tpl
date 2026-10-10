@@ -86,10 +86,6 @@
             </div>
         {%- endif %}
         <hr id="post-body-break">
-        <div id="patreonandfriends">
-		TEST TEST TEST <b>TEST</b>
-            </div>
-        <div id="post-body">
 {{ post_html }}
         </div>
         {% if transcripts %}
@@ -120,6 +116,11 @@
         </table>
         {% endif %}
     </div>
+        <div id="patreonandfriends">
+		TEST TEST TEST <b>TEST</b>
+            </div>
+        <div id="post-body">
+
 
     {% if navigation_bar_below_blurb %}
     {% include "navigation_bar.tpl" %}
