@@ -85,6 +85,7 @@
             {%- endfor %}
             </div>
         {%- endif %}
+<br/> <br/>
 <div id="transcriptionarea">
 		{{ post_html }}
             </div>
@@ -94,7 +95,6 @@
 		</div>
 		This is a test and stuff</b>
             </div>
-        <hr id="post-body-break">
 	    
         </div>
         <div id="post-body">
