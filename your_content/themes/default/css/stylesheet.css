@@ -106,8 +106,18 @@ padding-bottom:25px;
 
 #blurb {
     background-color: #000000;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
-    width: 65%;  /* The maximum width of the blurb box. */
+    width: 90%;  /* The maximum width of the blurb box. */
     border-left: solid 5px #ff4400;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    border-right: 0px #ff4400;
+    color: #ffe4a9;
+    font-size:0.9em;
+}
+
+#transcriptionarea {
+    background-color:#111111;
+    float:left;
+    width:65%;
+    border-left: solid 5px #ff4400;    
     border-right: 0px #ff4400;
     color: #ffe4a9;
     font-size:0.9em;
@@ -123,15 +133,6 @@ padding-bottom:25px;
     font-size:0.9em;
 }
 
-#transcriptionarea {
-    background-color:#444444;
-    float:left;
-    width:65%;
-    border-left: solid 5px #ff4400;    
-    border-right: 0px #ff4400;
-    color: #ffe4a9;
-    font-size:0.9em;
-}
 
 
 
