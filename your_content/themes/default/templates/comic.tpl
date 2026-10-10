@@ -119,18 +119,18 @@
             </div>
 	    <div id="patreonandfriends">
 		<div id="patreonandfriendstitle">
-			JOIN OUR DISCORD
+			<h4>JOIN OUR DISCORD</h4>
 		</div>
 		<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
 		<br/>
 		<div id="patreonandfriendstitle">
-			PATREON
+			<h4>PATREON</h4>
 		</div>
 		<br/>
 		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
 		<br/>
 		<div id="patreonandfriendstitle">
-			PROUD MEMBER OF
+			<h4>PROUD MEMBER OF</h4>
 		</div>    
 		<table style="width: 100%; margin-left:auto; margin-right:auto;">
 		    <tr>
@@ -138,7 +138,7 @@
 		    </tr>
                 </table>
 		<div id="patreonandfriendstitle">
-			READ MORE COMICS
+			<h4>READ MORE COMICS</h4>
 		</div>
                 <table style="width: 100%; margin-left:auto; margin-right:auto;">
 		    <tr>
