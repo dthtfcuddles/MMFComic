@@ -24,6 +24,7 @@
        For example, if the value passed in to `comic_base_dir` is `comic_git`, then `{{ comic_base_dir }}/comic`
        becomes `/comic_git/comic` #}
 <div align=left>
+<b>NOTE:</b> I'm editing the code of the website right now. If things look strange, its because of that! It should be fixed in an hour or so.<br />
 <h2 id="post-title"><strong>{{ page_title }}</strong></h2>
         <h4 id="post-date">Posted on: {{ _post_date }}</h4>
 <br />
@@ -112,6 +113,11 @@
                     </select>
                 </td>
                 {% endif %}
+            </tr>
+	    <tr>
+              <td id="PeopleAndPatreon">
+		TEST TEST TEST
+	      </td>
             </tr>
         </table>
         {% endif %}
