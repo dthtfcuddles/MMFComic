@@ -91,6 +91,11 @@
             </div>
 	    <div id="patreonandfriends">
 		<div id="patreonandfriendstitle">
+			JOIN OUR DISCORD
+		</div>
+		<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
+		<br/>
+		<div id="patreonandfriendstitle">
 			READ MORE COMICS
 		</div>
 		<br/>
@@ -98,10 +103,10 @@
 		<br/>
                 test test<br/><br/>
 		<div id="patreonandfriendstitle">
-			PATREON SUPPORTERS
+			PATREON
 		</div>
 		<br/>
-		SOON<br/>
+		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
             </div>
 	    
         </div>
@@ -141,18 +146,6 @@
     {% if navigation_bar_below_blurb %}
     {% include "navigation_bar.tpl" %}
     {% endif %}
-
-<h2>Join <a href="https://discord.gg/FoxgloveComics">our Discord</a>!</h2>
-<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
-<br/>
-<table style='width: 80%; margin-left:auto; margin-right:auto;'>
-<tr>
-<td style='text-align: center; padding-top: 5px; width:100%; vertical-align:top;'>Do you like what you read? <a href="https://www.patreon.com/MMFComic/" target="_blank">Support us with a tip on Patreon</a>!<br/>
-<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a>
-</td>
-</tr>
-</table>
-
 
 
 {%- endblock %}
