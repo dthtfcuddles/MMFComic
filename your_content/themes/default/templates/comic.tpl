@@ -24,7 +24,6 @@
        For example, if the value passed in to `comic_base_dir` is `comic_git`, then `{{ comic_base_dir }}/comic`
        becomes `/comic_git/comic` #}
 <div align=left>
-<h1><b>NOTE:</b> I'm editing the code of the website right now. If things look strange, its because of that! It should be fixed in an hour or so.<br /></h1>
 <h2 id="post-title"><strong>{{ page_title }}</strong></h2>
         <h4 id="post-date">Posted on: {{ _post_date }}</h4>
 <br />
@@ -96,17 +95,16 @@
 		<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
 		<br/>
 		<div id="patreonandfriendstitle">
+			PATREON
+		</div>
+		<br/>
+		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
+		<div id="patreonandfriendstitle">
 			READ MORE COMICS
 		</div>
 		<br/>
 			<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
 		<br/>
-                test test<br/><br/>
-		<div id="patreonandfriendstitle">
-			PATREON
-		</div>
-		<br/>
-		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
             </div>
 	    
         </div>
