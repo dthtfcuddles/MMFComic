@@ -122,6 +122,17 @@ padding-bottom:25px;
     font-size:0.9em;
 }
 
+#transcriptionarea {
+    background-color:#444444;
+    width:65%;
+    border-left: solid 5px #ff4400;    
+    border-right: 0px #ff4400;
+    color: #ffe4a9;
+    font-size:0.9em;
+}
+
+
+
 
 #bannerarea {
     background-color: #000000;  /* Not sure yet lmao. */
