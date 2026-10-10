@@ -87,26 +87,8 @@
 <br/> <br/>
 <div id="transcriptionarea">
 		{{ post_html }}
-            </div>
-	    <div id="patreonandfriends">
-		<div id="patreonandfriendstitle">
-			JOIN OUR DISCORD
-		</div>
-		<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
-		<br/>
-		<div id="patreonandfriendstitle">
-			PATREON
-		</div>
-		<br/>
-		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
-		<div id="patreonandfriendstitle">
-			READ MORE COMICS
-		</div>
-		<br/>
-			<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
-		<br/>
-            </div>
-	{% if transcripts %}
+                 <br/>
+{% if transcripts %}
         <table id="transcripts-container" border>
             <tr>
                 <td id="transcript-panel">
@@ -134,6 +116,26 @@
         </table>
 
         {% endif %}    
+            </div>
+	    <div id="patreonandfriends">
+		<div id="patreonandfriendstitle">
+			JOIN OUR DISCORD
+		</div>
+		<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
+		<br/>
+		<div id="patreonandfriendstitle">
+			PATREON
+		</div>
+		<br/>
+		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
+		<div id="patreonandfriendstitle">
+			READ MORE COMICS
+		</div>
+		<br/>
+			<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
+		<br/>
+            </div>
+	
         </div>
         <div id="post-body">
         

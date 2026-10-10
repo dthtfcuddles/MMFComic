@@ -16,7 +16,6 @@
     document.write("</td>");
     document.write("</tr>");
     document.write("</table>");
-    document.write("<a href='https://circusanimals.webcomic.ws/' target='_blank'><img src='/your_content/images/othercomics/CircusAnimalsNormal.jpg' /></a><br />");
 
 //-->
 
