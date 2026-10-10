@@ -117,7 +117,7 @@ padding-bottom:25px;
     background-color:#000000;
     float:left;
     width:70%;
-    border-left: solid 5px #ff4400;    
+    border-left: 0px #000000;
     border-right: 0px #ff4400;
     color: #ffe4a9;
     font-size:0.9em;
@@ -125,9 +125,9 @@ padding-bottom:25px;
 }
 
 #patreonandfriends {
-    background-color:#222222;
+    background-color:#000000;
     float: right;
-    width:30%;
+    width:25%;
     border-right: 0px #ff4400;    
     border-left: 0px #ff4400;
     color: #ffe4a9;
