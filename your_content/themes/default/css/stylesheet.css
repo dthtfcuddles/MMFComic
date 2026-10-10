@@ -114,13 +114,14 @@ padding-bottom:25px;
 }
 
 #transcriptionarea {
-    background-color:#111111;
+    background-color:#000000;
     float:left;
     width:65%;
     border-left: solid 5px #ff4400;    
     border-right: 0px #ff4400;
     color: #ffe4a9;
     font-size:0.9em;
+    padding-left: 10px;
 }
 
 #patreonandfriends {
@@ -131,6 +132,18 @@ padding-bottom:25px;
     border-left: 0px #ff4400;
     color: #ffe4a9;
     font-size:0.9em;
+    padding-right:10px;
+    padding-top:5px;
+    text-align: right;
+}
+
+#patreonandfriendstitle {
+    background-color: #ff4400;
+    width:100%;
+    border: none;
+    color: #ffe4a9;
+    font-size:0.9em;
+    text-align: center;
 }
 
 

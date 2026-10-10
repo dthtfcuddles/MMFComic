@@ -91,6 +91,7 @@
 		{{ post_html }}
             </div>
 	    <div id="patreonandfriends">
+		<div id="patreonandfriendstitle">READ MORE COMICS</div>
 		TEST TEST TEST <b>TEST</b>
             </div>
         </div>

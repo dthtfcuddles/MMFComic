@@ -55,18 +55,6 @@ body {
     padding: 15px 15px 10px 15px;
 }
 
-.patreonandfriends {
-    display: flex;
-    background-color:#444444;
-    width:30%;
-    padding: 10px;
-    border: 1px solid red;
-    text-align: right;
-    max-width: 100%;
-    margin-bottom: 20px;
-    padding: 15px 15px 10px 15px;
-}
-
 /* Webring */
 
 .webring-members {
