@@ -1,5 +1,5 @@
 <!--
-document.write("<div id="patreonandfriendstitle">");
+document.write("<div id='patreonandfriendstitle'>");
 document.write("			PROUD MEMBER OF");
 document.write("		</div>    ");
 document.write("<table style='width: 100%; margin-left:auto; margin-right:auto;'>");
@@ -7,7 +7,7 @@ document.write("<table style='width: 100%; margin-left:auto; margin-right:auto;'
     document.write("<td style='text-align: center; padding-top: 0px; width:100%; vertical-align:top;'><a href='https://www.foxglovecomics.com' target='_blank'><img src='/your_content/images/othercomics/FoxgloveFullLogo.jpg' /></td>");
     document.write("</tr>");
     document.write("</table>");
-document.write("<div id="patreonandfriendstitle">");
+document.write("<div id='patreonandfriendstitle'>");
 document.write("			READ MORE COMICS");
 document.write("		</div>");
     document.write("<table style='width: 100%; margin-left:auto; margin-right:auto;'>");
