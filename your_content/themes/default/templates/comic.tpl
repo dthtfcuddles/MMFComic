@@ -86,11 +86,11 @@
             </div>
         {%- endif %}
         <hr id="post-body-break">
-{{ post_html }}
-        </div>
         <div id="patreonandfriends">
 		TEST TEST TEST <b>TEST</b>
             </div>
+{{ post_html }}
+        </div>
         <div id="post-body">
         {% if transcripts %}
         <table id="transcripts-container" border>
