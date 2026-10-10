@@ -128,9 +128,6 @@
 		</div>
 		<br/>
 		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
-		<div id="patreonandfriendstitle">
-			READ MORE COMICS
-		</div>
 		<br/>
 			<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
 		<br/>
