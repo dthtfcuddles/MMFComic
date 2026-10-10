@@ -56,12 +56,11 @@ body {
 }
 
 .patreonandfriends {
-    display: inline-block;
+    display: flex;
     background-color:#444444;
-    width:70%;
+    width:30%;
     padding: 10px;
     border: 1px solid red;
-
     text-align: right;
     max-width: 100%;
     margin-bottom: 20px;
