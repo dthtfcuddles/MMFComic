@@ -24,7 +24,7 @@
        For example, if the value passed in to `comic_base_dir` is `comic_git`, then `{{ comic_base_dir }}/comic`
        becomes `/comic_git/comic` #}
 <div align=left>
-<b>NOTE:</b> I'm editing the code of the website right now. If things look strange, its because of that! It should be fixed in an hour or so.<br />
+<h1><b>NOTE:</b> I'm editing the code of the website right now. If things look strange, its because of that! It should be fixed in an hour or so.<br /></h1>
 <h2 id="post-title"><strong>{{ page_title }}</strong></h2>
         <h4 id="post-date">Posted on: {{ _post_date }}</h4>
 <br />
@@ -86,12 +86,11 @@
             </div>
         {%- endif %}
         <hr id="post-body-break">
-        <div id="post-body">
-{{ post_html }}
-            <div id="patreonandfriends">
+        <div id="patreonandfriends">
 		TEST TEST TEST <b>TEST</b>
             </div>
-
+        <div id="post-body">
+{{ post_html }}
         </div>
         {% if transcripts %}
         <table id="transcripts-container" border>
