@@ -85,15 +85,17 @@
             {%- endfor %}
             </div>
         {%- endif %}
-        <hr id="post-body-break">
-        
-	    <div id="transcriptionarea">
+<div id="transcriptionarea">
 		{{ post_html }}
             </div>
 	    <div id="patreonandfriends">
-		<div id="patreonandfriendstitle">READ MORE COMICS</div>
-		TEST TEST TEST <b>TEST</b>
+		<div id="patreonandfriendstitle">
+			READ MORE COMICS
+		</div>
+		This is a test and stuff</b>
             </div>
+        <hr id="post-body-break">
+	    
         </div>
         <div id="post-body">
         {% if transcripts %}
