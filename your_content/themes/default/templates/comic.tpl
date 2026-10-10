@@ -129,8 +129,6 @@
 		<br/>
 		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
 		<br/>
-			<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
-		<br/>
 		<div id="patreonandfriendstitle">
 			PROUD MEMBER OF
 		</div>    
