@@ -115,6 +115,7 @@ padding-bottom:25px;
 
 #patreonandfriends {
     background-color:#444444;
+    float: right;
     width:30%;
     border-right: solid 5px #ff4400;    
     border-left: 0px #ff4400;
@@ -124,6 +125,7 @@ padding-bottom:25px;
 
 #transcriptionarea {
     background-color:#444444;
+    float:left;
     width:65%;
     border-left: solid 5px #ff4400;    
     border-right: 0px #ff4400;
