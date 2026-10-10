@@ -88,6 +88,9 @@
         <hr id="post-body-break">
         <div id="post-body">
 {{ post_html }}
+            <div id="patreonandfriends">
+		TEST TEST TEST <b>TEST</b>
+            </div>
 
         </div>
         {% if transcripts %}
@@ -114,10 +117,7 @@
                 </td>
                 {% endif %}
             </tr>
-           <tr>              
-		<td id="patreonandfriends">TEST TEST TEST <b>TEST</b></td>
-           </tr>
-
+          
         </table>
         {% endif %}
     </div>
