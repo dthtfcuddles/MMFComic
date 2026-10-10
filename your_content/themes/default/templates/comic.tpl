@@ -115,8 +115,8 @@
                 {% endif %}
             </tr>
 	    <tr>
-              <td id="PeopleAndPatreon">
-		TEST TEST TEST
+              <td>
+		TEST TEST TEST <b>TEST</b>
 	      </td>
             </tr>
         </table>
