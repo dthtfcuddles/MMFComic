@@ -115,11 +115,12 @@
           
         </table>
         {% endif %}
-    </div>
         <div id="patreonandfriends">
 		TEST TEST TEST <b>TEST</b>
             </div>
         <div id="post-body">
+
+    </div>
 
 
     {% if navigation_bar_below_blurb %}
