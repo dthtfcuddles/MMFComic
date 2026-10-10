@@ -106,10 +106,7 @@
 			<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
 		<br/>
             </div>
-	    
-        </div>
-        <div id="post-body">
-        {% if transcripts %}
+	{% if transcripts %}
         <table id="transcripts-container" border>
             <tr>
                 <td id="transcript-panel">
@@ -136,7 +133,10 @@
           
         </table>
 
-        {% endif %}
+        {% endif %}    
+        </div>
+        <div id="post-body">
+        
 
     </div>
 
