@@ -116,6 +116,7 @@
             </tr>
         </table>
         {% endif %}
+    </div>
     <table border>
            <tr>              
 		<td>
@@ -123,7 +124,6 @@
 	      </td>
            </tr>
      </table>
-    </div>
 
     {% if navigation_bar_below_blurb %}
     {% include "navigation_bar.tpl" %}
