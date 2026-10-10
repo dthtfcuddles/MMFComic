@@ -93,7 +93,9 @@
 		<div id="patreonandfriendstitle">
 			READ MORE COMICS
 		</div>
-		<br/>I'll post some images here and then names<br/>
+		<br/>
+			<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
+		<br/>
                 test test<br/><br/>
 		<div id="patreonandfriendstitle">
 			PATREON SUPPORTERS
@@ -151,8 +153,7 @@
 </tr>
 </table>
 
-<h2>Read other comics!</h2>
-<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/othercomics.js"></SCRIPT>
+
 
 {%- endblock %}
 {%- block script %}

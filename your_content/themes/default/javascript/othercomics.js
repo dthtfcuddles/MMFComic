@@ -1,5 +1,5 @@
 <!--
-    document.write("<table style='width: 80%; margin-left:auto; margin-right:auto;'>");
+    document.write("<table style='width: 100%; margin-left:auto; margin-right:auto;'>");
     document.write("<tr>");
     document.write("<td style='text-align: center; padding-top: 5px; width:100%; vertical-align:top;'><a href='https://www.foxglovecomics.com' target='_blank'><img src='/your_content/images/othercomics/FoxgloveFullLogo.jpg' /></td>");
     document.write("</tr>");
