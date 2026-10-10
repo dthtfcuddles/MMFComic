@@ -114,16 +114,13 @@
                 </td>
                 {% endif %}
             </tr>
+           <tr>              
+		<td id="patreonandfriends">TEST TEST TEST <b>TEST</b></td>
+           </tr>
+
         </table>
         {% endif %}
     </div>
-    <table border>
-           <tr>              
-		<td>
-		TEST TEST TEST <b>TEST</b>
-	      </td>
-           </tr>
-     </table>
 
     {% if navigation_bar_below_blurb %}
     {% include "navigation_bar.tpl" %}
