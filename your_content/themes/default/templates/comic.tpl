@@ -93,11 +93,12 @@
 		<div id="patreonandfriendstitle">
 			READ MORE COMICS
 		</div>
-		I'll post some images here and then names<br/>
+		<br/>I'll post some images here and then names<br/>
                 test test<br/><br/>
 		<div id="patreonandfriendstitle">
 			PATREON SUPPORTERS
 		</div>
+		<br/>
 		SOON<br/>
             </div>
 	    
