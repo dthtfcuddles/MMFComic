@@ -89,7 +89,7 @@
 </table>
 <br/>
 <p class="infobox">Gallery</p>
-<a href="/your_content/images/cast/rowi.png"><img src="/your_content/images/rowi.png" height=300>
+<a href="/your_content/images/cast/rowi.png" target="_blank"><img src="/your_content/images/rowi.png" height=300></a>
 
     <div id="powered-by">
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
