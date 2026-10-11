@@ -126,26 +126,26 @@
 </tr>
 <tr style="height=150px;">
 
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp
 </td>
 
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp
 </td>
 
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp
 </td>
 
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp
 </td>
 
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp
 </td>
 
 </tr>
 </table>
+</div>
     <div id="powered-by">
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
     </div>
-</div>
 
 </body>
