@@ -74,7 +74,7 @@
 </td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;">
 <p>
-<font color="#ff4400"><strong>Name: </strong></font> Rowi Ouakkia (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.<br />
+<font color="#ff4400"><strong>Name: </strong></font> <a href="/rowi/">Rowi Ouakkia</a> (On Earth: Rowi D&auml;nkelsaft)<br /><font color="#ff4400"><strong>Species:</strong></font> Avali<br /><font color="#ff4400"><strong>Age:</strong></font> 27 Galactic Years (35 Earth Years)<br /><font color="#ff4400"><strong>Pronouns:</strong></font> He/Him<br /><font color="#ff4400"><strong>Likes:</strong></font> Computers, D&ouml;ner kebabs, peace, Animal Crossing.<br /><font color="#ff4400"><strong>Dislikes:</strong></font> War, fights, entitled people, injustice.<br />
 <font color="#ff4400"><strong>Languages:</strong></font> Avali Core, Avali (Rowi&rsquo;s pack dialect), German, English, a bit of Spanish.<br /><font color="#ff4400"><strong>Role:</strong></font> Drummer<br /><font color="#ff4400"><strong>First Appearance:</strong></font> <a href="https://mmfcomic.com/comic/01-01/">Page 1</a><br />
 <font color="#ff4400"><strong>Favorite music style:</strong></font> 80s/90s/early 2000s Pop music.<br />
 <font color="#ff4400"><strong>Favorite earthian fruit:</strong></font> Watermelons and honeydew melons.</div>
