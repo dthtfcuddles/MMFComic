@@ -71,16 +71,14 @@
 
 <table style="width: 100%;">
 <tr style="height: 150px;">
-<td style="text-align: center; padding-top: 10px; width:350px; vertical-align:top;"><img src="/your_content/images/cast/daniel.png">
-</td>
 <td style="text-align: right; padding-left: 10px; vertical-align:top;">
-<a href="/rowi/"><img src="your_content/images/cards/rowi.png></a>
+<a href="/rowi/"><img src="/your_content/images/cards/rowi.png></a>
 </td>
 <td style="text-align: center; padding-left: 10px; vertical-align:top;">
-<a href="/sher/"><img src="your_content/images/cards/sher.png></a>
+<a href="/sher/"><img src="/your_content/images/cards/sher.png></a>
 </td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;">
-<a href="/daniel/"><img src="your_content/images/cards/daniel.png></a>
+<a href="/daniel/"><img src="/your_content/images/cards/daniel.png></a>
 </td>
 
 </tr>

@@ -22,11 +22,11 @@
     <link rel="stylesheet" type="text/css" href="/comic_git_engine/css/index.css">
     <link rel="stylesheet" type="text/css" href="/your_content/themes/default/css/stylesheet.css">
     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
-    <meta property="og:title" content="Moumantai Motherfuckers" />
-    <meta property="og:description" content="List of characters from the comic Moumantai Motherfuckers." />
+    <meta property="og:title" content="MMF - Rowi" />
+    <meta property="og:description" content="Information about Rowi, the Avali character from the webcomic Moumantai Motherfuckers." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://mmfcomic.com/" />
-    <meta property="og:image" content="https://mmfcomic.com/your_content/images/preview_image.png" />
+    <meta property="og:image" content="https://mmfcomic.com/your_content/images/rowi.png" />
     <meta property="og:image:width" content="100px" />
     <meta property="og:image:height" content="100px" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
