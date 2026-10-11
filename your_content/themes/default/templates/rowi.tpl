@@ -30,7 +30,7 @@
     <meta property="og:image:width" content="100px" />
     <meta property="og:image:height" content="100px" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cast - Moumantai Motherfuckers</title>
+    <title>Cast: Rowi - Moumantai Motherfuckers</title>
     <link rel="stylesheet" type="text/css" href="/comic_git_engine/css/index.css">
 
 </head>
@@ -96,17 +96,7 @@
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2024Rowi1.png" target="_blank"><img src="/your_content/images/rowi/2024Rowi1.png" /></a>
 </td>
 
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2024Rowi2.png" target="_blank"><img src="/your_content/images/rowi/2024Rowi2.png" /></a>
-</td>
-
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2024Rowi3.png" target="_blank"><img src="/your_content/images/rowi/2024Rowi3.png" /></a>
-</td>
-
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2024Rowi4.png" target="_blank"><img src="/your_content/images/rowi/2024Rowi4.png" /></a>
-</td>
-</tr>
-<tr style="height=150px;">
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2024Rowi5.png" target="_blank"><img src="/your_content/images/rowi/2024Rowi5.png" /></a>
 </td>
 
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2025Rowi1.png" target="_blank"><img src="/your_content/images/rowi/2025Rowi1.png" /></a>
@@ -115,13 +105,12 @@
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2025Rowi2.png" target="_blank"><img src="/your_content/images/rowi/2025Rowi2.png" /></a>
 </td>
 
+</tr>
+<tr style="height=150px;">
+
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2025Rowi3.png" target="_blank"><img src="/your_content/images/rowi/2025Rowi3.png" /></a>
 </td>
 
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2025Rowi4.png" target="_blank"><img src="/your_content/images/rowi/2025Rowi4.png" /></a>
-</td>
-</tr>
-<tr style="height=150px;">
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2026Rowi1.png" target="_blank"><img src="/your_content/images/rowi/2026Rowi1.png" /></a>
 </td>
 
@@ -134,11 +123,26 @@
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><a href="/your_content/images/rowi/2026Rowi4.png" target="_blank"><img src="/your_content/images/rowi/2026Rowi4.png" /></a>
 </td>
 
+</tr>
+<tr style="height=150px;">
+
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+</td>
+
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+</td>
+
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+</td>
+
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
+</td>
+
 <td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;">&nbsp</a>
 </td>
 
 </tr>
-
+</table>
     <div id="powered-by">
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git_dev">comic_git</a> {{ version }}
     </div>
