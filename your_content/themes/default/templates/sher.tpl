@@ -72,7 +72,7 @@
 
 <table style="width: 100%;">
 <tr style="height: 150px;">
-<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><img src="/your_content/images/cast/sher.png">
+<td style="text-align: left; padding-top: 10px; width:350px; vertical-align:top;"><img src="/your_content/images/sher.png">
 </td>
 <td style="text-align: left; padding-left: 10px; vertical-align:top;">
 <p>
