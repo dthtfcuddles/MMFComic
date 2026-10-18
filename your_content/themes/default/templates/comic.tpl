@@ -127,6 +127,7 @@
 			PATREON
 		</div>
 		<br/>
+		THANK YOU: Ashley Phillips, BowlOfSoup, Crimson Nova, Draco Cordraconis, Redburr, Ruby_Goomy, Strawberry Daquiri<br/><br/>
 		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
 		<br/>
 		<div id="patreonandfriendstitle">
