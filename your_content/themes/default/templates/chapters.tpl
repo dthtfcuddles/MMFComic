@@ -79,91 +79,91 @@
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/02-00/"><img alt="Chapter 2 Cover Page" height="90%" src="/your_content/comics/02-00/00.png" width="90%" /><br />2. Family values</a></td>
+<td style="text-align: center;  height: 400px; width:360px; "><a href="/comic/02-00/"><img alt="Chapter 2 Cover Page" height="90%" src="/your_content/comics/02-00/00.png" width="90%" /><br />2. Family values</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Family Values</h2>
 <p>The band travels to Sher&rsquo;s home planet, meets his family and then performs a small concert in there.</p>
 <p><strong>Released:</strong> October 21st, 2022</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/03-00/"><img alt="Chapter 3 Cover Page" height="90%" src="/your_content/comics/03-00/00.png" width="90%" /><br />3. The request</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/03-00/"><img alt="Chapter 3 Cover Page" height="90%" src="/your_content/comics/03-00/00.png" width="90%" /><br />3. The request</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>The request</h2>
 <p>After leaving Earth the group is harassed by a pirate spaceship.</p>
 <p><strong>Released:</strong> December 11th, 2022</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/04-00/"><img alt="Chapter 4 Cover Page" height="90%" src="/your_content/comics/04-00/0.png" width="90%" /><br />4. Always</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/04-00/"><img alt="Chapter 4 Cover Page" height="90%" src="/your_content/comics/04-00/0.png" width="90%" /><br />4. Always</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Always</h2>
 <p>The band meets Rowi&rsquo;s family.</p>
 <p><strong>Released</strong>: February 15th, 2023</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/05-00/"><img alt="Chapter 5 Cover Page" height="90%" src="/your_content/comics/05-00/0.png" width="90%" /><br />5. Nemesis</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/05-00/"><img alt="Chapter 5 Cover Page" height="90%" src="/your_content/comics/05-00/0.png" width="90%" /><br />5. Nemesis</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Nemesis</h2>
 <p>The band learns how incredibly cruel Horkers can be. Then they go visiting an old friend.</p>
 <p><strong>Released:</strong> April 22nd, 2023</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/06-00/"><img alt="Chapter 6 Cover Page" height="90%" src="/your_content/comics/06-00/00.png" width="90%" /><br />6. Even flow</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/06-00/"><img alt="Chapter 6 Cover Page" height="90%" src="/your_content/comics/06-00/00.png" width="90%" /><br />6. Even flow</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Even flow</h2>
 <p>The band travels to the Warfaisser Space Station in preparation for the biggest performance of their careers.</p>
 <p><strong>Released:</strong> June 2nd, 2023</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/07-00/"><img alt="Chapter 7 Cover Page" height="90%" src="/your_content/comics/07-00/0.png" width="90%" /><br />7. Got the life</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/07-00/"><img alt="Chapter 7 Cover Page" height="90%" src="/your_content/comics/07-00/0.png" width="90%" /><br />7. Got the life</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Got the life</h2>
 <p>The band performs at the Ultra Music Festival.</p>
 <p><strong>Released:</strong> August 2nd, 2023</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/08-00/"><img height="90%" src="/your_content/comics/08-00/0.png" /> 8. Where dreams were born</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/08-00/"><img height="90%" src="/your_content/comics/08-00/0.png" /> 8. Where dreams were born</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Where dreams are born</h2>
 <p>Sher remembers his first trip to Earth.</p>
 <p><strong>Released:</strong> November 19th, 2023</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/09-00/"><img height="90%" src="/your_content/comics/09-00/0.png" /> 9. Chronicles of a New World</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/09-00/"><img height="90%" src="/your_content/comics/09-00/0.png" /> 9. Chronicles of a New World</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Chronicles of a New World</h2>
 <p>The band is visiting Valpara&iacute;so, while Sher continues remembering his first experiences on Earth.</p>
 <p><strong>Released:</strong> March 19th, 2024</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/10-00/"><img height="90%" src="/your_content/comics/10-00/0.png" /> 10. Forward</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/10-00/"><img height="90%" src="/your_content/comics/10-00/0.png" /> 10. Forward</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Forward</h2>
 <p>When the band finishes their last performance before taking a vacation, they&rsquo;re forbidden to leave.</p>
 <p><strong>Released:</strong> July 27th, 2024</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/11-00/"><img height="90%" src="/your_content/comics/11-00/00.png" /> 11. Roots</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/11-00/"><img height="90%" src="/your_content/comics/11-00/00.png" /> 11. Roots</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Roots</h2>
 <p>The band is at the mercy of a gang of pirates.</p>
 <p><strong>Released:</strong> November 11th, 2024</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/12-00/"><img height="90%" src="/your_content/comics/12-00/00.png" /> 12. Streamline</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/12-00/"><img height="90%" src="/your_content/comics/12-00/00.png" /> 12. Streamline</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Streamline</h2>
 <p>The band returns to Sher&rsquo;s home planet to warn bunnies about the incoming invasion.</p>
 <p><strong>Released:</strong> February 12th, 2025</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/13-00/"><img height="90%" src="/your_content/comics/13-00/00.png" /> 13. In winter</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/13-00/"><img height="90%" src="/your_content/comics/13-00/00.png" /> 13. In winter</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>In winter</h2>
 <p>The Vampire Bunnies, led by Sher, face the Horker King and stop the invasion, with help from the Avali.</p>
 <p><strong>Released:</strong> April 11th, 2025</p>
 </td>
 </tr>
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/14-00/"><img height="90%" src="/your_content/comics/14-00/00.png" /> 14. Junge</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/14-00/"><img height="90%" src="/your_content/comics/14-00/00.png" /> 14. Junge</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Junge</h2>
 <p>D remembers shadows of their past, with Eikomi by their side.</p>
 <p><strong>Released:</strong> June 27th, 2025</p>
@@ -171,7 +171,7 @@
 </tr>
 
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/15-00/"><img height="90%" src="/your_content/comics/15-00/00.png" /> 15. Bunnies Rise!</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/15-00/"><img height="90%" src="/your_content/comics/15-00/00.png" /> 15. Bunnies Rise!</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Bunnies Rise!</h2>
 <p>An exclusive MMF show happens shortly after a few Avali packs arrive to Babupekkakerok.</p>
 <p><strong>Released:</strong> October 10th, 2025</p> 
@@ -180,7 +180,7 @@
 
 
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/16-00/"><img height="90%" src="/your_content/comics/16-00/00.png" /> 16. Dig</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/16-00/"><img height="90%" src="/your_content/comics/16-00/00.png" /> 16. Dig</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Dig</h2>
 <p>A couple Avali along with Roi's foraging party go on a wild trip to learn about Babupekkakerok's wilderness.</p>
 <p><strong>Released:</strong> December 24th, 2025</p>
@@ -188,7 +188,7 @@
 </tr>
 
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/17-00/"><img height="90%" src="/your_content/comics/17-00/00.png" /> 17. Fix you</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/17-00/"><img height="90%" src="/your_content/comics/17-00/00.png" /> 17. Fix you</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Fix You</h2>
 <p>Daniel and Eikomi travel to Japan, Earth, to meet someone, and the band finally hires the new roadies.</p>
 <p><strong>Released:</strong> March 27th, 2026</p>
@@ -196,10 +196,18 @@
 </tr>
 
 <tr style="height: 150px;">
-<td style="text-align: center;"><a href="/comic/18-00/"><img height="90%" src="/your_content/comics/18-00/00.png" /> 18. The Fire still Burns</a></td>
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/18-00/"><img height="90%" src="/your_content/comics/18-00/00.png" /> 18. The Fire still Burns</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>The Fire Still Burns</h2>
 <p>The band returns to Warfaisser in preparation for their incoming show there.
 <p><strong>Released:</strong> June 12th, 2026</p>
+</td>
+</tr>
+
+<tr style="height: 150px;">
+<td style="text-align: center; height: 400px; width:360px; "><a href="/comic/19-00/"><img height="90%" src="/your_content/comics/19-00/00.png" /> 19. I'll be there for you</a></td>
+<td style="text-align: left; padding-left: 10px;"><h2>I'll be there for you</h2>
+<p>The big show at Warfaisser is happening!.
+<p><strong>Released:</strong> October 16th, 2026</p>
 </td>
 </tr>
 
