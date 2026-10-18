@@ -46,9 +46,7 @@
     <div id="links-bar">
         <!-- Links -->
 
-        <a class="link-bar-link" href="/">Home</a>
-        <span class="link-bar-separator">|</span>
-        <a class="link-bar-link" href="/chapters/">Chapters</a>
+      <a class="link-bar-link" href="/">Home</a>
         <span class="link-bar-separator">|</span>
         <a class="link-bar-link" href="/recap/">Recap</a>
         <span class="link-bar-separator">|</span>
