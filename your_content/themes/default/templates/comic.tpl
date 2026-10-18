@@ -124,10 +124,10 @@
 		<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/discordlink.js"></SCRIPT>
 		<br/>
 		<div id="patreonandfriendstitle">
-			PATREON
+			PATREON SUPPORTERS
 		</div>
 		<br/>
-		THANK YOU: Ashley Phillips, BowlOfSoup, Crimson Nova, Draco Cordraconis, Redburr, Ruby_Goomy, Strawberry Daquiri<br/><br/>
+		Ashley Phillips, BowlOfSoup, Crimson Nova, Draco Cordraconis, Redburr, Ruby_Goomy, Strawberry Daquiri<br/><br/>
 		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
 		<br/>
 		<div id="patreonandfriendstitle">
