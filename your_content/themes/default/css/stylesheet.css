@@ -198,18 +198,19 @@ padding-bottom:25px;
     border:none;
 }
 
-a.transcript-panel:link {
+a.transcripts-container:link {
     color:#000000;
 }
-a.transcript-panel:visited {
+a.transcripts-container:visited {
     color:#000000;
 }
-a.transcript-panel:hover {
+a.transcripts-container:hover {
     color:#000000;
 }
-a.transcript-panel:active {
+a.transcripts-container:active {
     color:#000000;
 }
+
 
 
 h1#post-title {
