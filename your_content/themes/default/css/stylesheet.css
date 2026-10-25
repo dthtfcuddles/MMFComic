@@ -198,15 +198,10 @@ padding-bottom:25px;
     border:none;
 }
 
-a.transcripts-container:link { color:#000000 !important; }
-a.transcripts-container:visited { color:#000000 !important; }
-a.transcripts-container:hover { color:#000000 !important; }
-a.transcripts-container:active { color:#000000 !important; }
-
-.transcripts-container a:link { color: #000000 !important; }
-
-a#transcripts-container { color: #000000 !important; }
-.transcripts-container a:link{ color: #000000 !important; }
+    #transcripts-container a:link{ color:#ffe4a9; font-weight:bold; }
+    #transcripts-container a:visited { color:#ffe4a9; font-weight:bold; }
+    #transcripts-container a:hover{ color:#000000; font-weight:bold; }
+    #transcripts-container a:active{ color:#ffe4a9; font-weight:bold; }
 
 
 h1#post-title {
