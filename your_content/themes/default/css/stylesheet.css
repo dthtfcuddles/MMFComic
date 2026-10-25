@@ -198,18 +198,12 @@ padding-bottom:25px;
     border:none;
 }
 
-a.transcripts-container:link {
-    color:#000000;
-}
-a.transcripts-container:visited {
-    color:#000000;
-}
-a.transcripts-container:hover {
-    color:#000000;
-}
-a.transcripts-container:active {
-    color:#000000;
-}
+a.active-transcript:link { color:#000000 !important; }
+a.active-transcript:visited { color:#000000 !important; }
+a.active-transcript:hover { color:#000000 !important; }
+a.active-transcript:active { color:#000000 !important; }
+
+.active-transcript a:link { color: #000000 !important; }
 
 
 
