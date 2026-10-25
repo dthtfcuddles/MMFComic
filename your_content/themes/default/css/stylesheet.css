@@ -205,6 +205,8 @@ a.active-transcript:active { color:#000000 !important; }
 
 .active-transcript a:link { color: #000000 !important; }
 
+a#active-transcript { color: #000000 !important; }
+.active-transcript a:link{ color: #000000 !important; }
 
 
 h1#post-title {
