@@ -12,7 +12,7 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
 body {
     font-family: 'Space Grotesk','PT Sans', sans-serif;  /* The font of all the text on all pages */
     color: white;  /* The color of the font of most of the text on your website */
-    background-color: black;  /* The color of the background behind everything */
+    background-color: #202940;  /* The color of the background behind everything */
 /*    background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
 }                                                       or replace with your own image to tile across your background. */
 
@@ -33,20 +33,20 @@ h1, h2, h3 {
 }
 
 a {
-    color: #ff4400;  /* The color of the hyperlinks */
+    color: #9a8678;  /* The color of the hyperlinks */
 }
 
 #container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
-    background-color: #ffe4a9;  /* The background color of the main box */
-    color: #000000; /* Color of the text inside of the container */
+    background-color: #caaa98;  /* The background color of the main box */
+    color: #202940; /* Color of the text inside of the container */
     box-shadow: 5px 5px 10px #000000; /* This is the drop shadow of the main box. If you change the background color
                                             of your website, play with this or else it will look bad. */
 }
 
 p.infobox {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
-    background-color: #ff4400;  /* The background color of the main box */
+    background-color: #caaa98;  /* The background color of the main box */
     color: #ffffff; /* Color of the text inside of the container */
     border: solid 2px #000000; /* infobox border */
     box-shadow: 0px 0px 0px #000000; /* This is the drop shadow of the main box. If you change the background color
@@ -56,29 +56,29 @@ p.infobox {
 
 /* Top navigation links bar */
 #links-bar {
-    background-color: #ff4400;  /* The background color of your links bar */
+    background-color: #4b4038;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
-    color: #ffe4a9;  /* The color of the links in your links bar */
+    color: #caaa98;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
 }
 
 a.link-bar-link:hover {
-    color: #ffe4a9;  /* The color of the links in your links bar while the cursor is hovering over them */
-    background-color: #000000;
+    color: #caaa98;  /* The color of the links in your links bar while the cursor is hovering over them */
+    background-color: #202940;
 }
 
 /* Comic navigation buttons */
 a.navigation-button {
-    color: #FF4400;  /* Color of the navigation bar hyperlinks */
+    color: #4b4038;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
 
 a.navigation-button-disabled {
-    color: #ff8c65;  /* Color of the disabled navigation bar hyperlinks */
+    color: #9a8678;  /* Color of the disabled navigation bar hyperlinks */
     font-size: 2em;  /* Size of the disabled navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
 }
@@ -93,8 +93,8 @@ padding-bottom:25px;
 /* Buttons: turn any link into a button by adding class="button" within the a tag */
 
 .button {
-    background-color: #FF4400;  /* Color of button hyperlinks */
-    color: white;  /* Color of the words in button hyperlinks */
+    background-color: #4b4038;  /* Color of button hyperlinks */
+    color: #caaa98;  /* Color of the words in button hyperlinks */
 }
 
 .button:hover {
@@ -105,23 +105,23 @@ padding-bottom:25px;
 /* Comic page-specific styling */
 
 #blurb {
-    background-color: #000000;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    background-color: #4b4038;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
     width: 90%;  /* The maximum width of the blurb box. */
-    border-left: solid 5px #ff4400;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
-    border-right: 0px #ff4400;
-    color: #ffe4a9;
+    border-left: solid 5px #9a8678;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    border-right: 0px #4b4038;
+    color: #caaa98;
     font-size:0.9em;
 }
 
 
 
 #transcriptionarea {
-    background-color:#000000;
+    background-color:#4b4038;
     float:left;
     width:60%;
-    border-left: 0px #000000;
-    border-right: 0px #ff4400;
-    color: #ffe4a9;
+    border-left: 0px #202940;
+    border-right: 0px #202940;
+    color: #caaa98;
     font-size:0.9em;
     padding-left: 10px;
 }
@@ -129,12 +129,12 @@ padding-bottom:25px;
 
 
 #patreonandfriends {
-    background-color:#000000;
+    background-color:#4b4038;
     float: right;
     width:30%;
     border-right: 0px #ff4400;
     border-left: 0px #ff4400;
-    color: #ffe4a9;
+    color: #caaa98;
     font-size:0.9em;
     padding-right:10px;
     padding-top:10px;
@@ -142,19 +142,19 @@ padding-bottom:25px;
     }
 
 #patreonandfriendstitle {
-    background-color: #ff8800;
+    background-color: #c83f12;
     padding-top:3px;
     padding-bottom:3px;
     margin:0px;
     width:100%;
-    border: solid #ff4400;
-    color: #000000;
+    border: solid 2px #8a0000;
+    color: #fff287;
     text-align: center;
     font-size:1.35em
     }
 
     #authorcommentary {
-        border-left: solid 3px;
+        border-left: solid 3px #9a8678;
         margin-bottom: 10px;
         padding-left: 10px;
         padding-top: 1px;
@@ -164,12 +164,12 @@ padding-bottom:25px;
 #authorcommentary h3 {
         font-family: 'PT Serif', sans-serif;
         font-weight: bold;
-        color: #ff4400;
+        color: #9a8678;
         font-size: 1.2em;
     }
 
 #authorcommentarytitle {
-    background-color: #ff4400;
+    background-color: #9a8678;
     font-family: 'PT Serif', sans-serif;
     font-weight: bold;
     padding-top:1px;
@@ -177,7 +177,7 @@ padding-bottom:25px;
     padding-left: 5px;
     margin:0px;
     width:100%;
-    border: solid #ff4400;
+    border: solid  2px #9a8678;
     color: #FFE4A9;
     text-align: left;
     font-size:1.2em
@@ -203,8 +203,8 @@ padding-bottom:25px;
 
 #transcripts-container {
     border:none;
-    border-left:solid 10px #ffe4a9;
-    background:#ff4400;
+    border-left:solid 10px #caaa98;
+    background:#9a8678;
     color:#ffe4a9;
 }
 
@@ -224,16 +224,16 @@ padding-bottom:25px;
     border:none;
 }
 
-    #transcripts-container a:link{ color:#ffe4a9; font-weight:bold; }
-    #transcripts-container a:visited { color:#ffe4a9; font-weight:bold; }
-    #transcripts-container a:hover{ color:#000000; font-weight:bold; }
-    #transcripts-container a:active{ color:#ffe4a9; font-weight:bold; }
+    #transcripts-container a:link{ color:#caaa98; font-weight:bold; }
+    #transcripts-container a:visited { color:#caaa98; font-weight:bold; }
+    #transcripts-container a:hover{ color:#4b4038; font-weight:bold; }
+    #transcripts-container a:active{ color:#caaa98; font-weight:bold; }
     #transcripts-container b {
         font-family: 'PT Sans', sans-serif;
-        color: #FFFFFF;
-        background-color: #FF4400;
-        padding-left: 0px;
-        padding-right: 5px;
+        color: #202940;
+        background-color: #9a8678;
+        padding-left: 2px;
+        padding-right: 2px;
         font-weight: 700;
         font-size:1.1em;
         /* transform: scale(1.05, 1); */
@@ -241,9 +241,11 @@ padding-bottom:25px;
 }
     #transcripts-container h3 {
         font-size:1.3em;
-        color: #FFE4A9;
-        background-color:#000000;
+        color: #caaa98;
+        background-color:#202940;
         padding-left:5px;
+        padding-top: 2px;
+        padding-bottom: 2px;
     }
 
 
