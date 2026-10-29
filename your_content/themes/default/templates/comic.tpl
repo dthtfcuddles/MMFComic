@@ -76,8 +76,7 @@
 		<div id="authorcommentarytitle">
 			AUTHOR COMMENTARY
 		</div>
-        <br/>
-		{{ post_html }}
+       {{ post_html }}
                  <br/>
 {% if transcripts %}
         <table id="transcripts-container" border>
