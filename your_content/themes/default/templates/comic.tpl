@@ -70,8 +70,13 @@
             {%- endfor %}
             </div>
         {%- endif %}
-<br/> <br/>
+<br/>
+
 <div id="transcriptionarea">
+		<div id="authorcommentarytitle">
+			AUTHOR COMMENTARY
+		</div>
+        <br/>
 		{{ post_html }}
                  <br/>
 {% if transcripts %}
