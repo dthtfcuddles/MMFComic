@@ -80,7 +80,11 @@
        {{ post_html }}
         </div>
 {% if transcripts %}
+
         <table id="transcripts-container" border>
+		<div id="authorcommentarytitle">
+			TRANSCRIPTION
+		</div>
             <tr>
                 <td id="transcript-panel">
                     <div id="active-transcript">
