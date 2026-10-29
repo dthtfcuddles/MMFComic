@@ -92,7 +92,6 @@
         <table id="transcripts-container" border>
             <tr>
                 <td id="transcript-panel">
-                    <h3>Transcript</h3>
                     <div id="active-transcript">
                     {% for language, transcript in transcripts.items() %}
                         <div class="transcript" id='{{ language }}-transcript'>
