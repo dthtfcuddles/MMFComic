@@ -25,7 +25,7 @@
        becomes `/comic_git/comic` #}
 <div align=left>
 <h2 id="post-title"><strong>{{ page_title }}</strong></h2>
-        <h4 id="post-date">Posted on: {{ _post_date }}</h4>
+        <h4 id="post-date">{{ _post_date }}</h4>
 <br />
 </div>
     {%- if comic_paths %}
@@ -59,21 +59,7 @@
             <div id="storyline">
                 {# `| replace(" ", "-")` takes the value in the variable, in this case `_storyline`, and replaces all
                    spaces with hyphens. This is important when building links to other parts of the site. #}
-                Storyline: <a href="{{ comic_base_dir }}/archive/#archive-section-{{ _storyline | replace(" ", "-") }}">{{ _storyline }}</a>
-            </div>
-        {%- endif %}
-        {%- if _characters %}
-            <div id="characters">
-            Characters:
-            {# For loops let you take a list of a values and do something for each of those values. In this case,
-               it runs through list of all the characters in this page, as defined by your info.ini file for this page,
-               and it generates a link for each of those characters connecting to the `tagged` page for that
-               character. #}
-            {%- for character in _characters %}
-                {# The `if not loop.last` block at the end of the next line means that the ", " string will be added
-                   after every character link EXCEPT the last one. #}
-                <a href="{{ comic_base_dir }}/tagged/{{ character }}/">{{ character }}</a>{% if not loop.last %}, {% endif %}
-            {%- endfor %}
+                Chapter: <a href="{{ comic_base_dir }}/archive/#archive-section-{{ _storyline | replace(" ", "-") }}">{{ _storyline }}</a>
             </div>
         {%- endif %}
         {%- if _tags %}
@@ -161,6 +147,20 @@
 
     </div>
 
+        {%- if _characters %}
+            <div id="characters">
+            Characters:
+            {# For loops let you take a list of a values and do something for each of those values. In this case,
+               it runs through list of all the characters in this page, as defined by your info.ini file for this page,
+               and it generates a link for each of those characters connecting to the `tagged` page for that
+               character. #}
+            {%- for character in _characters %}
+                {# The `if not loop.last` block at the end of the next line means that the ", " string will be added
+                   after every character link EXCEPT the last one. #}
+                <a href="{{ comic_base_dir }}/tagged/{{ character }}/">{{ character }}</a>{% if not loop.last %}, {% endif %}
+            {%- endfor %}
+            </div>
+        {%- endif %}
 
     {% if navigation_bar_below_blurb %}
     {% include "navigation_bar.tpl" %}
