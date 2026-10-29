@@ -82,11 +82,12 @@
 {% if transcripts %}
 
         <table id="transcripts-container" border>
-		<div id="authorcommentarytitle">
-			TRANSCRIPTION
-		</div>
             <tr>
                 <td id="transcript-panel">
+        		<div id="authorcommentarytitle">
+        			TRANSCRIPTION
+        		</div>
+
                     <div id="active-transcript">
                     {% for language, transcript in transcripts.items() %}
                         <div class="transcript" id='{{ language }}-transcript'>
