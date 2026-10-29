@@ -202,6 +202,19 @@ padding-bottom:25px;
     #transcripts-container a:visited { color:#ffe4a9; font-weight:bold; }
     #transcripts-container a:hover{ color:#000000; font-weight:bold; }
     #transcripts-container a:active{ color:#ffe4a9; font-weight:bold; }
+    #transcripts-container b, strong {
+        font-family: 'PT Sans', sans-serif !important;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-size: 1.1em;
+        /* transform: scale(1.05, 1); */
+}
+    #transcripts-container h3 {
+        font-size:1.3em;
+        color: #FFE4A9;
+        background-color:#000000;
+        padding-left:5px;
+    }
 
 
 h1#post-title {
