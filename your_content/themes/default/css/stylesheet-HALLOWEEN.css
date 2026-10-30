@@ -13,8 +13,10 @@ body {
     font-family: 'Space Grotesk','PT Sans', sans-serif;  /* The font of all the text on all pages */
     color: white;  /* The color of the font of most of the text on your website */
     background-color: #202940;  /* The color of the background behind everything */
-/*    background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
-}                                                       or replace with your own image to tile across your background. */
+    background-image: url("../../../images/halloweenbg.png");  /* The pattern on the background. Delete to change to a solid color or replace with your own image to tile across your background.*/
+    background-repeat: repeat;
+    background-position: left top;
+}
 
 img {
   width: 100%
