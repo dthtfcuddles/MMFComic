@@ -16,6 +16,7 @@ body {
     background-image: url("../../../images/halloweenbg.png");  /* The pattern on the background. Delete to change to a solid color or replace with your own image to tile across your background.*/
     background-repeat: no-repeat;
     background-position: right bottom;
+    background-attachment:fixed;
 }
 
 img {
