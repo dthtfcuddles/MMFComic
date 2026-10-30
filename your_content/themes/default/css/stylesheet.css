@@ -14,8 +14,8 @@ body {
     color: white;  /* The color of the font of most of the text on your website */
     background-color: #202940;  /* The color of the background behind everything */
     background-image: url("../../../images/halloweenbg.png");  /* The pattern on the background. Delete to change to a solid color or replace with your own image to tile across your background.*/
-    background-repeat: repeat;
-    background-position: left top;
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
 
 img {
@@ -241,7 +241,7 @@ padding-bottom:25px;
         font-size:1.1em;
         /* transform: scale(1.05, 1); */
     }
-}
+
     #transcripts-container h3 {
         font-size:1.3em;
         color: #caaa98;

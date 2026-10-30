@@ -1,18 +1,27 @@
 /*
-Change these options to customize the color scheme and a few layout options of your website.
-Most layout options are provided by the comic_git_engine in css/advanced_stylesheet.css.
-I do not recommend messing with those settings unless you know what you're doing, or you're
-willing to spend a lot of time on trial and error.
+This layout/skin is based off the one that came with comic_git. Added tags/classes
+are intended to work with the MMF comic website. Descriptions, Patreon, etc are all
+defined here.
 
-For any colors, you can represent them in hexadecimal like this (#FF0000 = red)
-or use this list of available color names: https://www.w3schools.com/cssref/css_colors.asp
+Modified by htfcuddles
+
+If you manage to find this file you can use it, but you may want to edit it to remove
+references to classes and tags not used in your own project.
+
+If you want some pretty color palettes, I used this one to gather colors I liked that
+worker harmoniously. https://colorhunt.co/
  */
+
 
 /* Global values */
 body {
     font-family: 'Space Grotesk','PT Sans', sans-serif;  /* The font of all the text on all pages */
     color: white;  /* The color of the font of most of the text on your website */
-    background-color: #C44545;  /* The color of the background behind everything */
+    background-color: #1f4529;  /* The color of the background behind everything */
+    border-bottom: ridge 5px #ffffff;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
 
 }
 
@@ -33,53 +42,64 @@ h1, h2, h3 {
 }
 
 a {
-    color: #ffe4a9;  /* The color of the hyperlinks */
+    color: #9fc87e;  /* The color of the hyperlinks */
 }
 
 #container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
-    background-color: #a2cb8b;  /* The background color of the main box */
-    color: #C44545; /* Color of the text inside of the container */
-    box-shadow: 5px 5px 10px #930303; /* This is the drop shadow of the main box. If you change the background color
+    background-color: #6d2323;  /* The background color of the main box */
+    color: #f1e3d3; /* Color of the text inside of the container */
+    border: solid 1px #ff0000;
+    border-top: ridge 5px #ffffff;
+    border-radius:10px;
+    box-shadow: 5px 5px 10px #000000; /* This is the drop shadow of the main box. If you change the background color
                                             of your website, play with this or else it will look bad. */
 }
 
 p.infobox {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
-    background-color: #5b7e3c;  /* The background color of the main box */
+    background-color: #a31d1d;  /* The background color of the main box */
     color: #ffffff; /* Color of the text inside of the container */
-    border: solid 0px #C44545; /* infobox border */
+    border: solid 2px #690b11; /* infobox border */
+    border-top: ridge 3px #ffffff;
     box-shadow: 0px 0px 0px #000000; /* This is the drop shadow of the main box. If you change the background color
                                             of your website, play with this or else it will look bad. */
-    border-radius: 0px;
+    border-radius: 20px;
     font-size: 1.1em;
 }
 
 /* Top navigation links bar */
 #links-bar {
-    background-color: #5b7e3c;  /* The background color of your links bar */
+    background-color: #a31d1d;  /* The background color of your links bar */
+    border-radius: 25px;
+    border: solid 2px #690b11;
+    border-top: ridge 3px #ffffff;
+
+
 }
 
 a.link-bar-link {
-    color: #a2cb8b;  /* The color of the links in your links bar */
+    color: #ede4c2;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
 }
 
 a.link-bar-link:hover {
-    color: #a2cb8b;  /* The color of the links in your links bar while the cursor is hovering over them */
-    background-color: #C44545;
+    color: #ede4c2;  /* The color of the links in your links bar while the cursor is hovering over them */
+    background-color: #662222;
 }
 
 /* Comic navigation buttons */
 a.navigation-button {
-    color: #5b7e3c;  /* Color of the navigation bar hyperlinks */
+    color: #4b4038;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
+
+
 }
 
 a.navigation-button-disabled {
-    color: #c44545;  /* Color of the disabled navigation bar hyperlinks */
+    color: #9a8678;  /* Color of the disabled navigation bar hyperlinks */
     font-size: 2em;  /* Size of the disabled navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
 }
@@ -88,14 +108,13 @@ a.navigation-button-disabled {
 padding-top:25px;
 padding-bottom:25px;
 
-
 }
 
 /* Buttons: turn any link into a button by adding class="button" within the a tag */
 
 .button {
-    background-color: #5b7e3c;  /* Color of button hyperlinks */
-    color: #a2cb8b;  /* Color of the words in button hyperlinks */
+    background-color: #4b4038;  /* Color of button hyperlinks */
+    color: #caaa98;  /* Color of the words in button hyperlinks */
 }
 
 .button:hover {
@@ -106,36 +125,32 @@ padding-bottom:25px;
 /* Comic page-specific styling */
 
 #blurb {
-    background-color: #5b7e3c;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    background-color: #4c1111;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
     width: 90%;  /* The maximum width of the blurb box. */
-    border-left: solid 5px #c44545;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
-    border-right: 0px #5b7e3c;
-    color: #a2cb8b;
+    border: solid 1px #ff0000;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    color: #eed3b1;
     font-size:0.9em;
 }
 
 
 
 #transcriptionarea {
-    background-color:#5b7e3c;
+    background-color:#4c1111;
     float:left;
     width:60%;
-    border-left: 0px #C44545;
-    border-right: 0px #C44545;
-    color: #a2cb8b;
+    color: #caaa98;
     font-size:0.9em;
-    padding-left: 10px;
+    padding-left: 0px;
 }
 
 
 
 #patreonandfriends {
-    background-color:#5b7e3c;
     float: right;
     width:30%;
     border-right: 0px #ff4400;
     border-left: 0px #ff4400;
-    color: #a2cb8b;
+    color: #ffeead;
     font-size:0.9em;
     padding-right:10px;
     padding-top:10px;
@@ -143,34 +158,45 @@ padding-bottom:25px;
     }
 
 #patreonandfriendstitle {
-    background-color: #c83f12;
+    background-color: #a31d1d;
+    border-radius:6px;
     padding-top:3px;
     padding-bottom:3px;
     margin:0px;
     width:100%;
-    border: solid 2px #8a0000;
-    color: #fff287;
+    border: solid 2px #ff0000;
+    color: #ffeead;
     text-align: center;
+    border-top: ridge 5px #ffffff;
     font-size:1.35em
     }
 
     #authorcommentary {
-        background-color: #5b7e3c;
+        color:#fff5e4;
+        background-color:#a31d1d;
+        border-left: solid 1px #ff0000;
+        border-right: solid 1px #ff0000;
+        border-bottom: solid 1px #ff0000;
         margin-bottom: 10px;
         padding-left: 10px;
         padding-top: 1px;
         padding-bottom: 1px;
+        margin-right:-9px;
+        margin-left:1px;
     }
 
 #authorcommentary h3 {
         font-family: 'PT Serif', sans-serif;
         font-weight: bold;
-        color: #FFE4A9;
+        color: #ffad60;
         font-size: 1.2em;
     }
+#authorcommentary a {
+        color: #9fc87e;
+}
 
 #authorcommentarytitle {
-    background-color: #c44545;
+    background-color: #1f4529;
     font-family: 'PT Serif', sans-serif;
     font-weight: bold;
     padding-top:1px;
@@ -178,7 +204,8 @@ padding-bottom:25px;
     padding-left: 5px;
     margin:0px;
     width:100%;
-    border-bottom: solid 2px #ffe4a9;
+    border: solid  2px #47663b;
+    border-top: ridge 3px #ffffff;
     color: #FFE4A9;
     text-align: left;
     font-size:1.2em
@@ -189,23 +216,31 @@ padding-bottom:25px;
     width: 20%;  /* The maximum width of the blurb box. */
     border-left: 0px #ff4400;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
     border-right: 0px #ff4400;
+    border-top: ridge 5px #ffffff;
     color: #ffe4a9;
     font-size:0.9em;
 }
 
 #bannerarea td {
     border: none 0px;
+
 }
 
 #bannerarea tr {
     border: none 0px;
+
 }
 
 
 #transcripts-container {
-    border:none;
-    border-left:solid 10px #a2cb8b;
-    background:#c44545;
+    border: solid 1px #ff0000;
+    border-top: ridge 5px #ffffff;
+
+    background:#a31d1d;
+    padding-right:5px;
+    padding-left:-5px;
+    padding-top:10px;
+    padding-bottom:10px;
     color:#ffe4a9;
 }
 
@@ -225,25 +260,26 @@ padding-bottom:25px;
     border:none;
 }
 
-    #transcripts-container a:link{ color:#a2cb8b; font-weight:bold; }
-    #transcripts-container a:visited { color:#a2cb8b; font-weight:bold; }
-    #transcripts-container a:hover{ color:#a2cb8b; font-weight:bold; }
-    #transcripts-container a:active{ color:#a2cb8b; font-weight:bold; }
+    #transcripts-container a:link{ color:#47663b; font-weight:bold; }
+    #transcripts-container a:visited { color:#47663b; font-weight:bold; }
+    #transcripts-container a:hover{ color:#47663b; font-weight:bold; }
+    #transcripts-container a:active{ color:#47663b; font-weight:bold; }
     #transcripts-container b {
         font-family: 'PT Sans', sans-serif;
-        color: #a2cb8b;
-        background-color: #c44545;
+        color: #ffad60;
+        background-color: transparent;
         padding-left: 2px;
         padding-right: 2px;
         font-weight: 700;
-        font-size:1.1em;
+        font-size:1.15em;
         /* transform: scale(1.05, 1); */
     }
-}
+
     #transcripts-container h3 {
         font-size:1.3em;
-        color: #a2cb8b;
-        background-color:#C44545;
+        color: #eed3b1;
+        background-color:#1f4529;
+        border:solid 1px #47663b;
         padding-left:5px;
         padding-top: 2px;
         padding-bottom: 2px;
@@ -251,9 +287,10 @@ padding-bottom:25px;
 
 
 h1#post-title {
-    color: #ffe4a9;  /* Color of the post title */
+    color: #eed3b1;  /* Color of the post title */
     font-size: 2em;  /* Font size of the post title */
     font-family: 'Space Grotesk';
+
 }
 
 #post-date {
@@ -265,8 +302,10 @@ h1#post-title {
 }
 
 #comic-page{
-    border:3px solid black;
+    border:none 0px;
+    border-top: ridge 5px #ffffff;
+    border-radius:5px;
     padding:0px;
     margin:0px;
-    background:white;
+    background:transparent;
 }
