@@ -33,7 +33,7 @@
     <title>Chapters - Moumantai Motherfuckers</title>
 </head>
 <body>
-
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/fallingsnow.js"></SCRIPT>
 
 <div id="container">
     <div id="banner">
@@ -174,7 +174,7 @@
 <td style="text-align: center; height: 400px; width:360px; "><a href="/comic/15-00/"><img height="90%" src="/your_content/comics/15-00/00.png" /> 15. Bunnies Rise!</a></td>
 <td style="text-align: left; padding-left: 10px;"><h2>Bunnies Rise!</h2>
 <p>An exclusive MMF show happens shortly after a few Avali packs arrive to Babupekkakerok.</p>
-<p><strong>Released:</strong> October 10th, 2025</p> 
+<p><strong>Released:</strong> October 10th, 2025</p>
 </td>
 </tr>
 

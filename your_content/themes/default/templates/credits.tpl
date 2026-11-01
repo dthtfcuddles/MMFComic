@@ -1,4 +1,4 @@
- 
+
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
@@ -33,7 +33,7 @@
     <title>Credits/About - Moumantai Motherfuckers</title>
 </head>
 <body>
-
+<SCRIPT TYPE="text/javascript" SRC="/your_content/themes/default/javascript/fallingsnow.js"></SCRIPT>
 
 <div id="container">
     <div id="banner">
