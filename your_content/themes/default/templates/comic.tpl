@@ -121,7 +121,7 @@
 			PATREON SUPPORTERS
 		</div>
 		<br/>
-		BowlOfSoup, Chu, Crimson Nova, Draco Cordraconis, Gunny Waffle, KyoColaConsors, Redburr, Ruby_Goomy, Russet Nostor, Sarab The Wyvern, Scott Fraser, Strawberry Daquiri, Zenbas<br/><br/>
+		BowlOfSoup, Chu, Crimson Nova, Draco Cordraconis, Gunny Waffle, KyoColaConsors, Redburr, Ruby_Goomy, Russet Nostor, Sarab The Wyvern, Scott Fraser, SilverandGold, Strawberry Daquiri, Zenbas<br/><br/>
 		<a href="https://www.patreon.com/MMFComic/" target="_blank"><img src="/your_content/images/patreon.png"></a><br/>
 		<br/>
 		<div id="patreonandfriendstitle">
