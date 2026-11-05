@@ -8,7 +8,7 @@ Sher and Sawi are in Sher's room aboard the Iron. You can see Sher's album art w
 <h3>Panel 2:</h3>
 A view of Sher's laptop, his paws on the keyboard as the screen is full of Galactic Common Text.
 
-<b>Sawi:</b> "Besides, the document is only one page long. Nobody would take this seriously. A lawyers' main job is to take text like this and turn them into a 25 pages long document."
+<b>Sawi:</b> "Besides, the document is only one page long. Nobody would take this seriously. A lawyer's main job is to take text like this and turn them into a 25 pages long document."
 <b>Sher:</b> "You know what sister...? That's fair. I admit I got nervous when I heard the news and just reacted but you're right, I cannot do this myself I need help. I'll contact Lucía."
 
 <h3>Panel 3:</h3>
@@ -24,4 +24,4 @@ And this... this is how our trip to Warfaisser station and the biggest gig of ou
 
 However we didn't know....
 
-To be conti... WAIT... Wait a minute. No, not yet.
+<b>To be conti...</b> WAIT... Wait a minute. No, not yet.
